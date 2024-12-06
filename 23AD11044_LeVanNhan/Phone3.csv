@@ -1,0 +1,1701 @@
+ID,Brand,Model,Chipset,GPU,Storage,Ram,Price,Year
+84565,tcl,TCL 50 SE,Mediatek Helio G88 (12 nm),Mali-G52 MC2,256,6,231.82,2024
+873691,xiaomi,Xiaomi Poco X3 Pro,Qualcomm Snapdragon 860 (7 nm),Adreno 640,128,8,269.89,2021
+1477483,google,Google Pixel 6,Google Tensor (5 nm),Mali-G78 MP20,256,8,159.99,2021
+2292764,xiaomi,Xiaomi Redmi Note 12 Pro 4G,Qualcomm SM7150 Snapdragon 732G (8 nm),Adreno 618,128,8,189,2023
+3276285,xiaomi,Xiaomi Redmi 10A,Mediatek MT6762G Helio G25 (12 nm),PowerVR GE8320,32,3,93.52,2022
+3346504,apple,Apple iPhone XS,Apple A12 Bionic (7 nm),Apple GPU (4-core graphics),256,4,172.65,2018
+3749821,motorola,Motorola Moto G52,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,128,6,126.19,2022
+4215197,google,Google Pixel 9 Pro XL,Google Tensor G4 (4 nm),Mali-G715 MC7,512,16,1075.98,2024
+4404314,xiaomi,Xiaomi Redmi Note 11 Pro 5G,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,8,250,2022
+4618104,samsung,Samsung Galaxy A23,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,128,4,174.99,2022
+5562442,google,Google Pixel 8 Pro,Google Tensor G3 (4 nm),Immortalis-G715s MC10,512,12,579,2023
+5563479,nokia,Nokia G21,Unisoc T606 (12 nm),Mali-G57 MP1,64,4,159.99,2022
+5837124,nokia,Nokia G21,Unisoc T606 (12 nm),Mali-G57 MP1,128,4,103.84,2022
+6493335,realme,Realme GT 5G,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,256,12,220.8,2021
+6768996,apple,Apple iPhone 13 Pro Max,Apple A15 Bionic (5 nm),Apple GPU (5-core graphics),512,6,678.56,2021
+7763453,oneplus,OnePlus Nord N20 SE,Mediatek MT6765G Helio G35 (12 nm),PowerVR GE8320,128,4,149.99,2022
+10672546,xiaomi,Xiaomi Redmi Note 11S 5G,Mediatek Dimensity 810 (6 nm),Mali-G57 MC2,128,6,122.89,2022
+10712894,realme,Realme C51,Unisoc Tiger T612 (12 nm),Mali-G57,128,4,114.99,2023
+11755935,samsung,Samsung Galaxy A12 Nacho,Exynos 850 (8 nm),Mali-G52,32,4,139.99,2021
+12267461,xiaomi,Xiaomi Redmi 9C,Mediatek MT6765G Helio G35 (12 nm),PowerVR GE8320,32,3,84.49,2020
+12330855,google,Google Pixel 4,Qualcomm SM8150 Snapdragon 855 (7 nm),Adreno 640,128,6,97,2019
+12963714,infinix,Infinix Hot 12 Play,Mediatek MT6765V/CB Helio G37 (12 nm) - X6816,PowerVR GE8320 - X6816,128,4,92.5,2022
+13841221,xiaomi,Xiaomi 13 Lite,Qualcomm SM7450-AB Snapdragon 7 Gen 1 (4 nm),Adreno 644,256,8,340,2023
+13881802,samsung,Samsung Galaxy A15,Mediatek Helio G99 (6 nm),Mali-G57 MC2,128,8,145.99,2023
+13882490,honor,Honor X8b,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,256,6,177.9,2023
+14121348,samsung,Samsung Galaxy A32 5G,Mediatek Dimensity 720 (7 nm),Mali-G57 MC3,128,8,189.99,2021
+14651761,xiaomi,Xiaomi Redmi Note 11 Pro,Mediatek MT6781 Helio G96 (12 nm),Mali-G57 MC2,128,8,187.87,2022
+14979780,samsung,Samsung Galaxy S22 5G,Exynos 2200 (4 nm) - Europe,Xclipse 920 - Europe,256,8,231.79,2022
+15457463,apple,Apple iPhone 11 Pro Max,Apple A13 Bionic (7 nm+),Apple GPU (4-core graphics),512,4,279.95,2019
+15699471,samsung,Samsung Galaxy A02,Mediatek MT6739W (28 nm),PowerVR GE8100,32,4,239.9,2021
+15775960,xiaomi,Xiaomi 11T Pro,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,256,8,254,2021
+15958165,motorola,Motorola Moto E13,Unisoc T606 (12 nm),Mali-G57 MP1,64,4,85.99,2023
+17619583,apple,Apple iPhone 15,Apple A16 Bionic (4 nm),Apple GPU (5-core graphics),512,6,716.99,2023
+17744990,motorola,Motorola Moto G72,Mediatek Helio G99 (6 nm),Mali-G57 MC2,256,8,329,2022
+18122302,samsung,Samsung Galaxy A72,Qualcomm SM7125 Snapdragon 720G (8 nm),Adreno 618,128,8,789.99,2021
+18582886,nokia,Nokia XR20,Qualcomm SM4350 Snapdragon 480 5G (8 nm),Adreno 619,128,6,254.81,2021
+18622007,samsung,Samsung Galaxy Z Flip4,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,256,8,899.99,2022
+19135294,xiaomi,Xiaomi Redmi Note 12 Pro 4G,Qualcomm SM7150 Snapdragon 732G (8 nm),Adreno 618,128,8,184.34,2023
+19276505,motorola,Motorola Edge 30 Neo,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,8,358.5,2022
+19687055,xiaomi,Xiaomi Redmi Note 11,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,128,6,134.78,2022
+20424630,xiaomi,Xiaomi Poco M6 Pro,Mediatek Helio G99 Ultra,Mali-G57 MC2,512,12,187.5,2024
+20458365,oppo,Oppo Reno8,Mediatek Dimensity 1300 (6 nm),Mali-G77 MC9,256,8,334.78,2022
+20499780,samsung,Samsung Galaxy S23,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,8,369.99,2023
+21558381,samsung,Samsung Galaxy S10+,Exynos 9820 (8 nm) - EMEA/LATAM,Mali-G76 MP12 - EMEA/LATAM,1024,12,489,2019
+22481685,samsung,Samsung Galaxy A13 (SM-A137),Mediatek MT6769V/CU Helio G80 (12 nm),Mali-G52 MC2,32,4,186.5,2022
+23504040,realme,Realme C53,Unisoc Tiger T612 (12 nm),Mali-G57,256,8,159.99,2023
+23794515,asus,Asus Zenfone 10,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,256,8,658,2023
+23965440,xiaomi,Xiaomi 11 Lite 5G NE,Qualcomm SM7325 Snapdragon 778G 5G (6 nm),Adreno 642L,128,8,192.89,2021
+24189479,xiaomi,Xiaomi Poco M3 Pro 5G,Mediatek Dimensity 700 (7 nm),Mali-G57 MC2,128,6,251.73,2021
+25227244,xiaomi,Xiaomi Redmi Note 11 Pro,Mediatek MT6781 Helio G96 (12 nm),Mali-G57 MC2,128,6,136.72,2022
+25388881,vivo,vivo V21 5G,Mediatek Dimensity 800U (7 nm),Mali-G57 MC3,256,8,132.05,2021
+25775041,samsung,Samsung Galaxy S10e,Exynos 9820 (8 nm) - EMEA/LATAM,Mali-G76 MP12 - EMEA/LATAM,128,8,269.99,2019
+26053693,apple,Apple iPhone 16 Pro,Apple A18 Pro (3 nm),Apple GPU (6-core graphics),512,8,1299,2024
+26569234,apple,Apple iPhone 12 mini,Apple A14 Bionic (5 nm),Apple GPU (4-core graphics),128,4,208,2020
+27254080,samsung,Samsung Galaxy A52 5G,Qualcomm SM7225 Snapdragon 750G 5G (8 nm),Adreno 619,128,8,229.99,2021
+27257410,apple,Apple iPhone XR,Apple A12 Bionic (7 nm),Apple GPU (4-core graphics),128,3,198.01,2018
+28529931,realme,Realme 12 Pro,Qualcomm SM6450 Snapdragon 6 Gen 1 (4 nm),Adreno 710,256,8,285.99,2024
+28591428,xiaomi,Xiaomi Redmi Note 10S,Mediatek MT6785V/CD Helio G95 (12 nm),Mali-G76 MC4,128,4,156,2021
+28839975,motorola,Motorola Edge 50 Fusion,Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm) - International,Adreno 710,256,8,349,2024
+29142864,oneplus,OnePlus Nord 4,Qualcomm SM7675 Snapdragon 7+ Gen 3 (4 nm),Adreno 732,512,16,429,2024
+29705343,realme,Realme 12 Pro+,Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm),Adreno 710,256,8,409,2024
+30366469,apple,Apple iPhone 16 Plus,Apple A18 (3 nm),Apple GPU (5-core graphics),256,8,929.99,2024
+30419007,samsung,Samsung Galaxy S23+,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,8,999.99,2023
+30436466,xiaomi,Xiaomi Redmi 13,Mediatek Helio G91 Ultra (12 nm),Mali-G52 MC2,256,8,119.9,2024
+31018909,samsung,Samsung Galaxy M32,Mediatek MT6769V/CU Helio G80 (12 nm),Mali-G52 MC2,128,6,449,2021
+31479424,xiaomi,Xiaomi Redmi Note 12,Qualcomm SM4375 Snapdragon 4 Gen 1 (6 nm),Adreno 619,128,6,159.99,2023
+32215173,apple,Apple iPhone 15 Plus,Apple A16 Bionic (4 nm),Apple GPU (5-core graphics),256,6,629.99,2023
+32916148,samsung,Samsung Galaxy A52,Qualcomm SM7125 Snapdragon 720G (8 nm),Adreno 618,128,8,311.78,2021
+33337400,samsung,Samsung Galaxy S24 FE,Exynos 2400e (4 nm),Xclipse 940,256,8,749,2024
+33449599,xiaomi,Xiaomi Redmi 12,Mediatek MT6769H Helio G88 (12 nm),Mali-G52 MC2,128,8,119,2023
+34829680,motorola,Motorola Moto G23,Mediatek MT6769Z Helio G85 (12 nm),Mali-G52 MC2,128,8,115.99,2023
+35031686,xiaomi,Xiaomi Redmi 9A,Mediatek MT6762G Helio G25 (12 nm),PowerVR GE8320,32,3,86.25,2020
+36426776,xiaomi,Xiaomi 11T,Mediatek Dimensity 1200 (6 nm),Mali-G77 MC9,256,8,180,2021
+37047880,xiaomi,Xiaomi Redmi 12C,Mediatek MT6769Z Helio G85 (12 nm),Mali-G52 MC2,64,4,122.53,2023
+37685430,samsung,Samsung Galaxy Z Fold4,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,1024,12,789.96,2022
+37719933,apple,Apple iPhone 13 mini,Apple A15 Bionic (5 nm),Apple GPU (4-core graphics),256,4,395.5,2021
+37839075,motorola,Motorola Edge 40 Neo,MediaTek Dimensity 7030 (6 nm),Mali-G610 MC3,256,12,244.38,2023
+38694033,apple,Apple iPhone 12,Apple A14 Bionic (5 nm),Apple GPU (4-core graphics),256,4,291.75,2020
+40281958,realme,Realme Note 50,Unisoc Tiger T612 (12 nm),Mali-G57,128,4,76.04,2024
+41540341,oneplus,OnePlus Nord,Qualcomm SM7250 Snapdragon 765G 5G (7 nm),Adreno 620,256,12,195.99,2020
+42541559,xiaomi,Xiaomi Poco M5s,Mediatek MT6785V/CD Helio G95 (12 nm),Mali-G76 MC4,128,4,134.99,2022
+42603934,xiaomi,Xiaomi Redmi 13,Mediatek Helio G91 Ultra (12 nm),Mali-G52 MC2,256,8,159,2024
+43217181,samsung,Samsung Galaxy A14 5G,Exynos 1330 (5 nm) - SM-A146B,Mali-G68 MP2 - SM-A146B,128,6,186.88,2023
+43584476,huawei,Huawei nova 9 SE,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,256,8,149.28,2022
+43879674,samsung,Samsung Galaxy A54,Exynos 1380 (5 nm),Mali-G68 MP5,256,8,213,2023
+44425432,xiaomi,Xiaomi Redmi A2,Mediatek Helio G36 (12 nm),PowerVR GE8320,32,3,92.98,2023
+44819206,samsung,Samsung Galaxy Z Fold5,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),Adreno 740,1024,12,679,2023
+46773209,samsung,Samsung Galaxy A32 5G,Mediatek Dimensity 720 (7 nm),Mali-G57 MC3,128,6,155,2021
+46782503,xiaomi,Xiaomi 13 Lite,Qualcomm SM7450-AB Snapdragon 7 Gen 1 (4 nm),Adreno 644,256,8,349,2023
+47550393,samsung,Samsung Galaxy A03,Unisoc T606 (12 nm),Mali-G57 MP1,32,4,129.99,2022
+47804338,oneplus,OnePlus Nord 2 5G,Mediatek Dimensity 1200 (6 nm),Mali-G77 MC9,128,8,259,2021
+48566114,apple,Apple iPhone 16 Pro,Apple A18 Pro (3 nm),Apple GPU (6-core graphics),512,8,1381.99,2024
+48766037,google,Google Pixel 9 Pro,Google Tensor G4 (4 nm),Mali-G715 MC7,512,16,1099,2024
+50233875,huawei,Huawei nova 9,Qualcomm SM7325 Snapdragon 778G 4G (6 nm),Adreno 642L,256,8,470,2021
+50296921,xiaomi,Xiaomi Redmi Note 13 Pro 4G,Mediatek Helio G99 Ultra,Mali-G57 MC2,512,12,262.5,2024
+50477906,motorola,Motorola Moto G32,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,128,6,299,2022
+51399438,xiaomi,Xiaomi Poco X3 Pro,Qualcomm Snapdragon 860 (7 nm),Adreno 640,128,8,161.9,2021
+51950505,xiaomi,Xiaomi Redmi 9A,Mediatek MT6762G Helio G25 (12 nm),PowerVR GE8320,32,3,78.49,2020
+52349757,xiaomi,Xiaomi Poco M5,Mediatek Helio G99 (6 nm),Mali-G57 MC2,128,4,107.99,2022
+52726612,xiaomi,Xiaomi Redmi Note 12 4G,Qualcomm SM6225 Snapdragon 685 (6 nm),Adreno 610,128,4,105.24,2023
+53098489,realme,Realme C65,Mediatek Helio G85 (12 nm),Mali-G52 MC2,128,8,145,2024
+53108882,motorola,Motorola Moto G32,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,128,4,160.39,2022
+54024771,nokia,Nokia C32,Unisoc SC9863A1 (22 nm),IMG8322,128,4,74.49,2023
+54259210,samsung,Samsung Galaxy S10e,Exynos 9820 (8 nm) - EMEA/LATAM,Mali-G76 MP12 - EMEA/LATAM,128,8,123,2019
+54848744,xiaomi,Xiaomi 13T Pro,Mediatek Dimensity 9200+ (4 nm),Immortalis-G715 MC11,512,12,495,2023
+55870786,honor,Honor 70,Qualcomm SM7325-AE Snapdragon 778G+ 5G (6 nm),Adreno 642L,256,8,620,2022
+55916651,google,Google Pixel 6 Pro,Google Tensor (5 nm),Mali-G78 MP20,512,12,342.48,2021
+56715292,xiaomi,Xiaomi Redmi 10 5G,Mediatek Dimensity 700 (7 nm),Mali-G57 MC2,128,6,152.41,2022
+56767759,samsung,Samsung Galaxy A55,Exynos 1480 (4 nm),Xclipse 530,256,8,254,2024
+57225797,google,Google Pixel 4,Qualcomm SM8150 Snapdragon 855 (7 nm),Adreno 640,128,6,150.39,2019
+58039543,xiaomi,Xiaomi Redmi Note 9,Mediatek MT6769Z Helio G85 (12 nm),Mali-G52 MC2,64,4,129.99,2020
+60067367,xiaomi,Xiaomi Redmi Note 12 4G,Qualcomm SM6225 Snapdragon 685 (6 nm),Adreno 610,128,6,189.9,2023
+61865135,xiaomi,Xiaomi Redmi Note 12 Pro,Mediatek Dimensity 1080 (6 nm),Mali-G68 MC4,256,12,209.5,2022
+62789189,xiaomi,Xiaomi 11 Lite 5G NE,Qualcomm SM7325 Snapdragon 778G 5G (6 nm),Adreno 642L,128,8,266.66,2021
+63624141,xiaomi,Xiaomi Redmi Note 11S,Mediatek MT6781 Helio G96 (12 nm),Mali-G57 MC2,128,8,143.2,2022
+64610634,apple,Apple iPhone SE (2022),Apple A15 Bionic (5 nm),Apple GPU (4-core graphics),256,4,172,2022
+65829577,motorola,Motorola Edge 30 Pro,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),Adreno 730,256,12,229.99,2022
+67127550,samsung,Samsung Galaxy A03s,Mediatek MT6765 Helio P35 (12 nm),PowerVR GE8320,32,4,138,2021
+67264741,nokia,Nokia G100,Qualcomm SM6115 Snapdragon 662 (11 nm),Adreno 610,128,4,169.99,2022
+67349873,oppo,Oppo Find N3 Flip,Mediatek Dimensity 9200 (4 nm),Immortalis-G715 MC11,512,12,849,2023
+67489514,samsung,Samsung Galaxy S24,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm) - USA/Canada/China,Adreno 750 (1 GHz) - USA/Canada/China,512,8,779.99,2024
+67599104,google,Google Pixel 7,Google Tensor G2 (5 nm),Mali-G710 MP7,256,8,299,2022
+67680090,honor,Honor 200,Qualcomm SM7550-AB Snapdragon 7 Gen 3 (4 nm),Adreno 720,256,12,441.75,2024
+70193334,samsung,Samsung Galaxy S21 Ultra 5G,Exynos 2100 (5 nm) - International,Mali-G78 MP14 - International,512,12,254.99,2021
+70196807,xiaomi,Xiaomi Redmi Note 12S,Mediatek MT6781 Helio G96 (12 nm),Mali-G57 MC2,128,6,149.5,2023
+70246839,asus,Asus Zenfone 8,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,256,8,375.13,2021
+70294038,xiaomi,Xiaomi Poco M5,Mediatek Helio G99 (6 nm),Mali-G57 MC2,128,6,164.99,2022
+70498762,samsung,Samsung Galaxy A14 5G,Exynos 1330 (5 nm) - SM-A146B,Mali-G68 MP2 - SM-A146B,128,4,59.95,2023
+71056695,xiaomi,Xiaomi Redmi Note 11 Pro 5G,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,6,149.99,2022
+72460070,apple,Apple iPhone 16 Plus,Apple A18 (3 nm),Apple GPU (5-core graphics),512,8,1029.99,2024
+72764502,oneplus,OnePlus 9 Pro,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,256,12,320,2021
+74085068,motorola,Motorola Razr 50 Ultra,Qualcomm SM8635 Snapdragon 8s Gen 3 (4 nm),Adreno 735,256,12,999,2024
+75353327,samsung,Samsung Galaxy A23 5G,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,4,227.01,2022
+75951570,xiaomi,Xiaomi Poco X4 Pro 5G,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,8,230,2022
+76106595,samsung,Samsung Galaxy A52,Qualcomm SM7125 Snapdragon 720G (8 nm),Adreno 618,128,8,138,2021
+76570861,samsung,Samsung Galaxy A03s,Mediatek MT6765 Helio P35 (12 nm),PowerVR GE8320,32,3,115.96,2021
+77121658,xiaomi,Xiaomi Redmi 9A,Mediatek MT6762G Helio G25 (12 nm),PowerVR GE8320,64,4,52.63,2020
+77274257,samsung,Samsung Galaxy A14,Mediatek MT6769 Helio G80 (12 nm) - Version A,Mali-G52 MC2,128,4,90,2023
+77918538,xiaomi,Xiaomi Redmi Note 13 Pro,Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm),Adreno 710,512,12,258,2023
+78276975,oneplus,OnePlus 9 Pro,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,256,12,188.09,2021
+78935300,xiaomi,Xiaomi 11T Pro,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,256,8,199.99,2021
+78957099,xiaomi,Xiaomi Redmi Note 11 Pro 5G,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,4,139.51,2022
+79731447,samsung,Samsung Galaxy Z Fold4,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,1024,12,1919.99,2022
+79964715,samsung,Samsung Galaxy Z Flip4,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,256,8,232,2022
+80727217,motorola,Motorola Moto G Stylus 5G (2022),Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,6,84.95,2022
+80802502,apple,Apple iPhone 13 mini,Apple A15 Bionic (5 nm),Apple GPU (4-core graphics),256,4,342,2021
+81774399,samsung,Samsung Galaxy A15,Mediatek Helio G99 (6 nm),Mali-G57 MC2,128,6,121.99,2023
+81919705,samsung,Samsung Galaxy S24 Ultra,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm),Adreno 750 (1 GHz),512,12,1219.99,2024
+83416972,samsung,Samsung Galaxy A32 5G,Mediatek Dimensity 720 (7 nm),Mali-G57 MC3,128,4,100,2021
+83543837,zte,ZTE Blade V60 Design,Unisoc T606 (12 nm),Mali-G57 MP1,256,6,117.99,2024
+84614247,realme,Realme GT 5G,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,256,12,369.99,2021
+84962249,motorola,Motorola Moto E22,Mediatek MT6765V/CB Helio G37 (12 nm),PowerVR GE8320,64,4,92.04,2022
+85730212,samsung,Samsung Galaxy Z Fold4,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,1024,12,1719.99,2022
+86051617,samsung,Samsung Galaxy Note10+,Exynos 9825 (7 nm) - EMEA/LATAM,Mali-G76 MP12 - EMEA/LATAM,512,12,318,2019
+86147559,zte,ZTE Axon 40 Ultra,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),Adreno 730,256,8,899,2022
+86440464,oneplus,OnePlus Nord CE 3 Lite,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,256,8,235,2023
+86660873,xiaomi,Xiaomi Poco X5 Pro,Qualcomm SM7325 Snapdragon 778G 5G (6 nm),Adreno 642L,256,8,279.99,2023
+87456037,realme,Realme 9 Pro,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,8,250.42,2022
+87601845,samsung,Samsung Galaxy S22 Ultra 5G,Exynos 2200 (4 nm) - Europe,Xclipse 920 - Europe,256,12,319.95,2022
+87618508,samsung,Samsung Galaxy S9,Exynos 9810 (10 nm) - EMEA,Mali-G72 MP18 - EMEA,256,4,221.98,2018
+87941419,xiaomi,Xiaomi 11 Lite 5G NE,Qualcomm SM7325 Snapdragon 778G 5G (6 nm),Adreno 642L,128,8,429,2021
+88069199,oppo,Oppo A54s,Mediatek MT6765G Helio G35 (12 nm),PowerVR GE8320,128,8,119.89,2021
+88071265,xiaomi,Xiaomi Redmi Note 13 Pro 4G,Mediatek Helio G99 Ultra,Mali-G57 MC2,256,8,213,2024
+88196918,samsung,Samsung Galaxy S23 Ultra,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),Adreno 740,256,12,635.5,2023
+88529472,xiaomi,Xiaomi Poco F5,Qualcomm SM7475-AB Snapdragon 7+ Gen 2 (4 nm),Adreno 725,256,12,300,2023
+88654420,xiaomi,Xiaomi Poco M4 5G,Mediatek Dimensity 700 (7 nm),Mali-G57 MC2,128,6,160,2022
+89014346,apple,Apple iPhone 13 mini,Apple A15 Bionic (5 nm),Apple GPU (4-core graphics),256,4,295,2021
+89295179,apple,Apple iPhone 16 Pro,Apple A18 Pro (3 nm),Apple GPU (6-core graphics),256,8,1256.99,2024
+90017060,xiaomi,Xiaomi Redmi 14C,Mediatek Helio G81 Ultra,Mali-G52 MC2,128,6,208.92,2024
+90135335,apple,Apple iPhone 12,Apple A14 Bionic (5 nm),Apple GPU (4-core graphics),128,4,244,2020
+90560587,apple,Apple iPhone 16,Apple A18 (3 nm),Apple GPU (5-core graphics),512,8,899,2024
+91088769,motorola,Motorola Moto G85,Qualcomm SM6375 Snapdragon 6s Gen 3 (6 nm),Adreno 619,256,12,266.56,2024
+91356726,samsung,Samsung Galaxy A53 5G,Exynos 1280 (5 nm),Mali-G68,128,8,183.7,2022
+92013740,realme,Realme 12x,Mediatek Dimensity 6100+ (6 nm),Mali-G57 MC2,256,8,162.05,2024
+92195780,xiaomi,Xiaomi Redmi Note 13 Pro,Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm),Adreno 710,256,8,219.72,2023
+92501749,xiaomi,Xiaomi Redmi Note 9,Mediatek MT6769Z Helio G85 (12 nm),Mali-G52 MC2,128,4,280,2020
+92531433,honor,Honor Magic4 Pro,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),Adreno 730,512,12,339.99,2022
+92619531,xiaomi,Xiaomi Redmi 12,Mediatek MT6769H Helio G88 (12 nm),Mali-G52 MC2,128,8,139.99,2023
+92839366,honor,Honor X8b,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,256,6,289.99,2023
+93037613,honor,Honor X7b,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,256,6,129,2023
+93546632,honor,Honor Magic5 Lite,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,256,8,233.23,2023
+93594098,oneplus,OnePlus Nord CE 5G,Qualcomm SM7225 Snapdragon 750G 5G (8 nm),Adreno 619,128,8,229.99,2021
+93801710,xiaomi,Xiaomi Redmi Note 11S 5G,Mediatek Dimensity 810 (6 nm),Mali-G57 MC2,128,4,224.99,2022
+93942891,honor,Honor Magic V3,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Adreno 750,512,12,1959,2024
+94172966,xiaomi,Xiaomi Redmi 9A,Mediatek MT6762G Helio G25 (12 nm),PowerVR GE8320,32,3,61.44,2020
+95768516,samsung,Samsung Galaxy S10+,Exynos 9820 (8 nm) - EMEA/LATAM,Mali-G76 MP12 - EMEA/LATAM,128,8,170,2019
+96433663,samsung,Samsung Galaxy A23 5G,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,64,6,179.99,2022
+97838310,xiaomi,Xiaomi Redmi 13C,Mediatek MT6769Z Helio G85 (12 nm),Mali-G52 MC2,128,6,109.19,2023
+98588820,xiaomi,Xiaomi Mi 11 Lite 5G,Qualcomm SM7350-AB Snapdragon 780G (5 nm),Adreno 642,128,8,134.99,2021
+99133189,motorola,Motorola Moto G42,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,128,4,234.61,2022
+99258016,xiaomi,Xiaomi Redmi Note 13 Pro 4G,Mediatek Helio G99 Ultra,Mali-G57 MC2,256,8,284.33,2024
+99904362,xiaomi,Xiaomi Redmi 10C,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,64,4,107.5,2022
+100496721,xiaomi,Xiaomi Redmi Note 11S 5G,Mediatek Dimensity 810 (6 nm),Mali-G57 MC2,128,6,149,2022
+101453925,xiaomi,Xiaomi Redmi Note 10 Pro,Qualcomm SM7150 Snapdragon 732G (8 nm),Adreno 618,256,8,217.51,2021
+102538994,samsung,Samsung Galaxy A05s,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,128,4,99.99,2023
+103519996,samsung,Samsung Galaxy S21 Ultra 5G,Exynos 2100 (5 nm) - International,Mali-G78 MP14 - International,512,16,1499,2021
+103558321,google,Google Pixel 8a,Google Tensor G3 (4 nm),Immortalis-G715s MC10,256,8,305,2024
+103639795,motorola,Motorola Moto G22,Mediatek MT6765V/CB Helio G37 (12 nm),PowerVR GE8320,128,4,128.78,2022
+105593109,nokia,Nokia G21,Unisoc T606 (12 nm),Mali-G57 MP1,64,4,89.13,2022
+105801189,nokia,Nokia G60,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,6,299.85,2022
+107760404,realme,Realme 12 Pro,Qualcomm SM6450 Snapdragon 6 Gen 1 (4 nm),Adreno 710,256,8,540,2024
+107864632,xiaomi,Xiaomi Poco C40,JLQ JR510 (11 nm),Mali-G57 MC1,32,4,108.37,2022
+108264210,xiaomi,Xiaomi 12,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),Adreno 730,256,8,295,2021
+109367234,oneplus,OnePlus 8 Pro,Qualcomm SM8250 Snapdragon 865 5G (7 nm+),Adreno 650,256,12,194.45,2020
+109932786,samsung,Samsung Galaxy A04,Mediatek MT6765 Helio P35 (12 nm),PowerVR GE8320,128,4,69.5,2022
+110263138,samsung,Samsung Galaxy Z Fold5,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),Adreno 740,1024,12,880,2023
+110464349,xiaomi,Xiaomi Redmi Note 12 Pro 4G,Qualcomm SM7150 Snapdragon 732G (8 nm),Adreno 618,256,8,237.99,2023
+111288193,nothing,Nothing Phone (1),Qualcomm SM7325-AE Snapdragon 778G+ 5G (6 nm),Adreno 642L,256,12,349.5,2022
+112033577,xiaomi,Xiaomi Mi Note 10 Lite,Qualcomm SDM730 Snapdragon 730G (8 nm),Adreno 618,128,6,239.99,2020
+112104287,oneplus,OnePlus 8T,Qualcomm SM8250 Snapdragon 865 5G (7 nm+),Adreno 650,256,12,175.51,2020
+113715272,samsung,Samsung Galaxy A52,Qualcomm SM7125 Snapdragon 720G (8 nm),Adreno 618,256,6,500,2021
+115047398,asus,Asus ROG Phone 6,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,128,12,846,2022
+115098585,zte,ZTE nubia Red Magic 6,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,128,12,515,2021
+115537039,samsung,Samsung Galaxy A54,Exynos 1380 (5 nm),Mali-G68 MP5,256,8,235.95,2023
+116162178,realme,Realme 9 Pro+,Mediatek Dimensity 920 (6 nm),Mali-G68 MC4,128,8,189.31,2022
+117277196,motorola,Motorola Moto G85,Qualcomm SM6375 Snapdragon 6s Gen 3 (6 nm),Adreno 619,256,12,253.1,2024
+117640361,apple,Apple iPhone 14 Pro,Apple A16 Bionic (4 nm),Apple GPU (5-core graphics),512,6,679.05,2022
+118046900,apple,Apple iPhone XS,Apple A12 Bionic (7 nm),Apple GPU (4-core graphics),256,4,147.25,2018
+118574947,oppo,Oppo A57 4G,Mediatek MT6765G Helio G35 (12 nm),PowerVR GE8320,64,4,156.41,2022
+119470327,realme,Realme C11,Mediatek MT6765G Helio G35 (12 nm),PowerVR GE8320,32,3,94.99,2020
+119804985,motorola,Motorola Edge 50 Neo,Mediatek Dimensity 7300 (4 nm),Mali-G615 MC2,512,12,399.99,2024
+120079606,xiaomi,Xiaomi 12T,Mediatek Dimensity 8100 Ultra (5 nm),Mali-G610 MC6,256,8,329,2022
+120171135,xiaomi,Xiaomi 13T Pro,Mediatek Dimensity 9200+ (4 nm),Immortalis-G715 MC11,512,12,539.99,2023
+120855923,tcl,TCL 40 SE,Mediatek MT6765 Helio G37 (12 nm),PowerVR GE8320,256,6,85.7,2023
+124218908,xiaomi,Xiaomi Redmi Note 11 Pro 5G,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,8,216.07,2022
+124972483,oppo,Oppo A16,Mediatek MT6765G Helio G35 (12 nm),PowerVR GE8320,256,4,144.99,2021
+127106537,oppo,Oppo Reno6 5G,Mediatek Dimensity 900 (6 nm),Mali-G68 MC4,256,12,293,2021
+127348582,samsung,Samsung Galaxy Z Flip6,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm),Adreno 750 (1 GHz),512,12,675.01,2024
+127535920,samsung,Samsung Galaxy A53 5G,Exynos 1280 (5 nm),Mali-G68,128,6,499.99,2022
+127917109,samsung,Samsung Galaxy S22 Ultra 5G,Exynos 2200 (4 nm) - Europe,Xclipse 920 - Europe,512,12,929,2022
+128523667,google,Google Pixel 7 Pro,Google Tensor G2 (5 nm),Mali-G710 MP7,256,12,369.07,2022
+129403536,xiaomi,Xiaomi Redmi Note 9,Mediatek MT6769Z Helio G85 (12 nm),Mali-G52 MC2,128,4,109.37,2020
+130083653,samsung,Samsung Galaxy A12,Mediatek MT6765 Helio P35 (12 nm),PowerVR GE8320,128,3,115.16,2020
+130134355,samsung,Samsung Galaxy Z Fold6,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm),Adreno 750 (1 GHz),512,12,1399.99,2024
+131337807,xiaomi,Xiaomi Redmi Note 13 Pro 4G,Mediatek Helio G99 Ultra,Mali-G57 MC2,512,12,246,2024
+131676667,xiaomi,Xiaomi Redmi Note 12S,Mediatek MT6781 Helio G96 (12 nm),Mali-G57 MC2,128,6,127,2023
+132565506,xiaomi,Xiaomi Poco C65,Mediatek MT6769Z Helio G85 (12 nm),Mali-G52 MC2,256,8,111,2023
+133045648,motorola,Motorola Edge 30 Fusion,Qualcomm SM8350 Snapdragon 888+ 5G (5 nm),Adreno 660,256,8,264.95,2022
+135086714,xiaomi,Xiaomi Poco M5,Mediatek Helio G99 (6 nm),Mali-G57 MC2,128,4,169.99,2022
+135678047,realme,Realme C61,Unisoc Tiger T612 (12 nm),Mali-G57,256,6,149.98,2024
+135699836,honor,Honor Magic5 Pro,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,256,12,599.99,2023
+136187240,nokia,Nokia G21,Unisoc T606 (12 nm),Mali-G57 MP1,64,4,70,2022
+136487156,samsung,Samsung Galaxy S22+ 5G,Exynos 2200 (4 nm) - Europe,Xclipse 920 - Europe,256,8,999.99,2022
+136501852,samsung,Samsung Galaxy A55,Exynos 1480 (4 nm),Xclipse 530,256,12,311.5,2024
+136559826,asus,Asus Zenfone 10,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,256,16,649.99,2023
+137040488,xiaomi,Xiaomi 13T,Mediatek Dimensity 8200 Ultra (4 nm),Mali-G610 MC6,256,12,529,2023
+137469450,xiaomi,Xiaomi Redmi Note 13,Mediatek Dimensity 6080 (6 nm),Mali-G57 MC2,256,8,187.5,2024
+138308161,samsung,Samsung Galaxy A71,Qualcomm SDM730 Snapdragon 730 (8 nm) - Global,Adreno 618,128,8,159.07,2020
+138617657,samsung,Samsung Galaxy S22+ 5G,Exynos 2200 (4 nm) - Europe,Xclipse 920 - Europe,256,8,214.99,2022
+138689973,motorola,Motorola Moto G24 Power,Mediatek MT6769Z Helio G85 (12 nm),Mali-G52 MC2,128,8,129,2024
+138976492,samsung,Samsung Galaxy A24 4G,Mediatek Helio G99 (6 nm),Mali-G57 MC2,128,6,187.49,2023
+139773371,samsung,Samsung Galaxy A05s,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,128,4,110.24,2023
+140638665,sony,Sony Xperia 1 III,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,512,12,904,2021
+142218699,samsung,Samsung Galaxy Z Fold4,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,512,12,1599.99,2022
+142760660,samsung,Samsung Galaxy A13 5G,Mediatek Dimensity 700 (7 nm),Mali-G57 MC2,128,4,185,2021
+142768594,motorola,Motorola Edge (2022),MediaTek Dimensity 1050 (6 nm),Arm Mali-G610 MC3,256,8,239.99,2022
+142849280,motorola,Motorola Moto G71 5G,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,6,390,2022
+143129331,xiaomi,Xiaomi Redmi Note 12 4G,Qualcomm SM6225 Snapdragon 685 (6 nm),Adreno 610,128,8,196.47,2023
+144213450,samsung,Samsung Galaxy M33,Exynos 1280 (5 nm),Mali-G68,128,8,374.92,2022
+144620773,xiaomi,Xiaomi 12,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),Adreno 730,256,8,254.24,2021
+144799857,xiaomi,Xiaomi Redmi Note 13 4G,Qualcomm SM6225 Snapdragon 685 (6 nm),Adreno 610,128,8,141.16,2024
+145303303,xiaomi,Xiaomi Redmi Note 10 5G,Mediatek Dimensity 700 (7 nm),Mali-G57 MC2,128,8,279.9,2021
+145585930,huawei,Huawei nova 8i,Qualcomm SM6115 Snapdragon 662 (11 nm),Adreno 610,128,8,114.51,2021
+145687094,nothing,Nothing Phone (2),Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,256,12,590,2023
+146451188,apple,Apple iPhone XR,Apple A12 Bionic (7 nm),Apple GPU (4-core graphics),128,3,142.97,2018
+147737458,apple,Apple iPhone 11,Apple A13 Bionic (7 nm+),Apple GPU (4-core graphics),256,4,190,2019
+147815074,honor,Honor Magic5 Pro,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,256,12,759,2023
+149023156,samsung,Samsung Galaxy S20 Ultra 5G,Exynos 990 (7 nm+) - Global,Mali-G77 MP11 - Global,256,12,354.99,2020
+149111792,motorola,Motorola Moto G24 Power,Mediatek MT6769Z Helio G85 (12 nm),Mali-G52 MC2,128,8,127.24,2024
+149136519,nokia,Nokia X30,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,256,8,177,2022
+151147645,samsung,Samsung Galaxy A35,Exynos 1380 (5 nm),Mali-G68 MP5,256,8,288.96,2024
+151168453,apple,Apple iPhone 14,Apple A15 Bionic (5 nm),Apple GPU (5-core graphics),256,6,447.5,2022
+151284387,asus,Asus Zenfone 11 Ultra,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Adreno 750,512,16,817.99,2024
+151610748,xiaomi,Xiaomi Redmi 10,Mediatek MT6769H Helio G88 (12 nm),Mali-G52 MC2,128,6,119.99,2021
+152221942,samsung,Samsung Galaxy S21+ 5G,Exynos 2100 (5 nm) - International,Mali-G78 MP14 - International,256,8,679,2021
+152358866,apple,Apple iPhone 12 Pro,Apple A14 Bionic (5 nm),Apple GPU (4-core graphics),512,6,446,2020
+152850955,apple,Apple iPhone 15 Pro Max,Apple A17 Pro (3 nm),Apple GPU (6-core graphics),1024,8,929,2023
+152926808,samsung,Samsung Galaxy A14 5G,Exynos 1330 (5 nm) - SM-A146B,Mali-G68 MP2 - SM-A146B,128,6,133.99,2023
+154099622,apple,Apple iPhone 15 Pro,Apple A17 Pro (3 nm),Apple GPU (6-core graphics),256,8,895.59,2023
+154935927,samsung,Samsung Galaxy S23 Ultra,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),Adreno 740,1024,12,682.53,2023
+154985789,xiaomi,Xiaomi Poco X6,Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm),Adreno 710,512,12,252.99,2024
+155821471,samsung,Samsung Galaxy A05,Mediatek Helio G85 (12 nm),Mali-G52 MC2,128,4,89.99,2023
+156439047,asus,Asus Zenfone 9,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,256,16,670,2022
+157078915,samsung,Samsung Galaxy Z Fold5,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,12,1147,2023
+158127212,nothing,Nothing Phone (1),Qualcomm SM7325-AE Snapdragon 778G+ 5G (6 nm),Adreno 642L,256,8,278.86,2022
+158769729,motorola,Motorola Moto G Stylus 5G (2024),Qualcomm SM6450 Snapdragon 6 Gen 1 (4 nm),Adreno 710,256,8,212.31,2024
+159065958,motorola,Motorola Moto G52,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,128,6,425,2022
+159475900,sony,Sony Xperia 1 VI,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Adreno 750,512,12,1048,2024
+159495397,samsung,Samsung Galaxy M15,Mediatek Dimensity 6100+ (6 nm),Mali-G57 MC2,128,6,134.99,2024
+159920360,xiaomi,Xiaomi Poco M4 Pro 5G,Mediatek Dimensity 810 (6 nm),Mali-G57 MC2,64,6,149.2,2021
+160109862,apple,Apple iPhone 15,Apple A16 Bionic (4 nm),Apple GPU (5-core graphics),256,6,829.99,2023
+161131792,xiaomi,Xiaomi Redmi Note 9T,Mediatek Dimensity 800U (7 nm),Mali-G57 MC3,128,6,199.99,2021
+161177954,motorola,Motorola Edge 40,Mediatek Dimensity 8020 (6 nm),Mali-G77 MC9,256,8,253.92,2023
+162891951,motorola,Motorola Moto G42,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,128,4,118.99,2022
+162896216,samsung,Samsung Galaxy M53,Mediatek Dimensity 900 (6 nm),Mali-G68 MC4,128,8,321.45,2022
+162904348,apple,Apple iPhone 14 Pro Max,Apple A16 Bionic (4 nm),Apple GPU (5-core graphics),256,6,624.97,2022
+163804153,apple,Apple iPhone XR,Apple A12 Bionic (7 nm),Apple GPU (4-core graphics),256,3,199,2018
+164250185,motorola,Motorola Moto G31,Mediatek MT6769Z Helio G85 (12 nm),Mali-G52 MC2,128,4,89.99,2021
+166562432,apple,Apple iPhone 12 Pro,Apple A14 Bionic (5 nm),Apple GPU (4-core graphics),512,6,361.74,2020
+167115773,xiaomi,Xiaomi Poco X5 Pro,Qualcomm SM7325 Snapdragon 778G 5G (6 nm),Adreno 642L,256,8,249.29,2023
+167171507,samsung,Samsung Galaxy A51,Exynos 9611 (10 nm),Mali-G72 MP3,128,4,101.95,2019
+167800730,xiaomi,Xiaomi 13T,Mediatek Dimensity 8200 Ultra (4 nm),Mali-G610 MC6,256,12,420.99,2023
+168099827,xiaomi,Xiaomi 13 Ultra,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,12,1305,2023
+168134439,apple,Apple iPhone 14 Pro Max,Apple A16 Bionic (4 nm),Apple GPU (5-core graphics),256,6,778.09,2022
+169064875,samsung,Samsung Galaxy S22+ 5G,Exynos 2200 (4 nm) - Europe,Xclipse 920 - Europe,256,8,829.99,2022
+169634862,nothing,Nothing Phone (1),Qualcomm SM7325-AE Snapdragon 778G+ 5G (6 nm),Adreno 642L,256,12,353.36,2022
+169760744,google,Google Pixel 8,Google Tensor G3 (4 nm),Immortalis-G715s MC10,256,8,374.94,2023
+169974883,samsung,Samsung Galaxy S23+,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,8,999.99,2023
+170375440,samsung,Samsung Galaxy M32,Mediatek MT6769V/CU Helio G80 (12 nm),Mali-G52 MC2,128,6,220.64,2021
+172119812,samsung,Samsung Galaxy A53 5G,Exynos 1280 (5 nm),Mali-G68,128,8,219.99,2022
+173956372,xiaomi,Xiaomi Mi 11,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,128,8,250,2021
+174280535,asus,Asus Zenfone 8,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,256,12,412.04,2021
+175056438,samsung,Samsung Galaxy S21+ 5G,Exynos 2100 (5 nm) - International,Mali-G78 MP14 - International,256,8,899.99,2021
+175344750,sony,Sony Xperia 1 V,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,12,839,2023
+175423766,samsung,Samsung Galaxy S22 5G,Exynos 2200 (4 nm) - Europe,Xclipse 920 - Europe,256,8,449.99,2022
+175633698,apple,Apple iPhone SE (2020),Apple A13 Bionic (7 nm+),Apple GPU (4-core graphics),128,3,94,2020
+176143829,motorola,Motorola Razr 40,Qualcomm SM7450-AB Snapdragon 7 Gen 1 (4 nm),Adreno 644,256,8,424,2023
+176241237,xiaomi,Xiaomi Poco C65,Mediatek MT6769Z Helio G85 (12 nm),Mali-G52 MC2,256,8,105,2023
+176329492,samsung,Samsung Galaxy A04e,Mediatek MT6765 Helio P35 (12 nm),PowerVR GE8320,32,4,83,2022
+176722251,samsung,Samsung Galaxy M55,Qualcomm SM7450-AB Snapdragon 7 Gen 1 (4 nm),Adreno 644,256,8,284.53,2024
+177436238,apple,Apple iPhone 13 Pro Max,Apple A15 Bionic (5 nm),Apple GPU (5-core graphics),256,6,538.95,2021
+177908834,xiaomi,Xiaomi Poco X6,Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm),Adreno 710,256,12,217.98,2024
+178646084,google,Google Pixel 8,Google Tensor G3 (4 nm),Immortalis-G715s MC10,256,8,503.68,2023
+178860599,realme,Realme C61,Unisoc Tiger T612 (12 nm),Mali-G57,256,6,121.27,2024
+178981337,xiaomi,Xiaomi Poco M5s,Mediatek MT6785V/CD Helio G95 (12 nm),Mali-G76 MC4,128,4,130,2022
+179067950,asus,Asus ROG Phone 8 Pro,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Adreno 750,1024,24,1199.99,2024
+179618223,xiaomi,Xiaomi Redmi Note 11S,Mediatek MT6781 Helio G96 (12 nm),Mali-G57 MC2,128,6,117.83,2022
+180344312,xiaomi,Xiaomi Poco M6 Pro,Mediatek Helio G99 Ultra,Mali-G57 MC2,512,12,172.5,2024
+180867690,xiaomi,Xiaomi 14,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Adreno 750,512,12,696.53,2023
+182095527,sony,Sony Xperia 1 III,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,512,12,329.95,2021
+182143858,apple,Apple iPhone 16,Apple A18 (3 nm),Apple GPU (5-core graphics),512,8,929.99,2024
+182173869,xiaomi,Xiaomi Redmi Note 11 Pro,Mediatek MT6781 Helio G96 (12 nm),Mali-G57 MC2,128,6,154.99,2022
+182495375,oneplus,OnePlus Nord CE 2 5G,Mediatek Dimensity 900 (6 nm),Mali-G68 MC4,128,8,149,2022
+184567289,tcl,TCL 40 SE,Mediatek MT6765 Helio G37 (12 nm),PowerVR GE8320,256,6,69.99,2023
+184805876,samsung,Samsung Galaxy S10e,Exynos 9820 (8 nm) - EMEA/LATAM,Mali-G76 MP12 - EMEA/LATAM,256,8,319.99,2019
+184916700,motorola,Motorola Moto G13,Mediatek MT6769Z Helio G85 (12 nm),Mali-G52 MC2,128,4,95,2023
+185401121,realme,Realme C31,Unisoc Tiger T612 (12 nm),Mali-G57,64,4,266.12,2022
+186249198,samsung,Samsung Galaxy M53,Mediatek Dimensity 900 (6 nm),Mali-G68 MC4,256,8,251.08,2022
+186288269,xiaomi,Xiaomi Mi 10 5G,Qualcomm SM8250 Snapdragon 865 5G (7 nm+),Adreno 650,256,6,256.48,2020
+186368890,oneplus,OnePlus 10T,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,256,16,629.99,2022
+186712566,xiaomi,Xiaomi Redmi Note 12 Pro+,Mediatek Dimensity 1080 (6 nm),Mali-G68 MC4,256,12,240.22,2022
+186744398,samsung,Samsung Galaxy S20 Ultra 5G,Exynos 990 (7 nm+) - Global,Mali-G77 MP11 - Global,256,12,236.52,2020
+186800075,oneplus,OnePlus Nord 2 5G,Mediatek Dimensity 1200 (6 nm),Mali-G77 MC9,256,12,379.99,2021
+187230364,asus,Asus Zenfone 11 Ultra,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Adreno 750,512,16,749,2024
+187469287,samsung,Samsung Galaxy A55,Exynos 1480 (4 nm),Xclipse 530,256,8,319,2024
+187531203,xiaomi,Xiaomi Poco M6 4G,Mediatek Helio G91 Ultra (12 nm),Mali-G52 MC2,256,8,113.74,2024
+187583065,oppo,Oppo Reno5 5G,Qualcomm SM7250 Snapdragon 765G 5G (7 nm),Adreno 620,256,12,199.95,2021
+187745952,apple,Apple iPhone SE (2020),Apple A13 Bionic (7 nm+),Apple GPU (4-core graphics),256,3,116.75,2020
+187816169,motorola,Motorola Moto G72,Mediatek Helio G99 (6 nm),Mali-G57 MC2,128,8,179.99,2022
+188838249,apple,Apple iPhone 12 mini,Apple A14 Bionic (5 nm),Apple GPU (4-core graphics),128,4,194.5,2020
+188971556,tecno,Tecno Spark 10 Pro,Mediatek MT6769H Helio G88 (12 nm),Mali-G52 MC2,256,8,159.98,2023
+190617376,xiaomi,Xiaomi Poco M4 5G,Mediatek Dimensity 700 (7 nm),Mali-G57 MC2,128,6,182.4,2022
+191155622,xiaomi,Xiaomi Mi 11 Lite,Qualcomm SM7150 Snapdragon 732G (8 nm),Adreno 618,128,6,157.79,2021
+191724365,samsung,Samsung Galaxy A22 5G,Mediatek Dimensity 700 (7 nm),Mali-G57 MC2,128,4,79.95,2021
+191745095,samsung,Samsung Galaxy S20+ 5G,Exynos 990 (7 nm+) - Global,Mali-G77 MP11 - Global,512,12,409.98,2020
+193340685,samsung,Samsung Galaxy Z Fold4,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,512,12,865,2022
+194165771,huawei,Huawei nova 11,Qualcomm SM7325 Snapdragon 778G 4G (6 nm),Adreno 642L,256,8,310.4,2023
+194585938,apple,Apple iPhone X,Apple A11 Bionic (10 nm),Apple GPU (three-core graphics),256,3,162.9,2017
+194805408,xiaomi,Xiaomi 12 Pro,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),Adreno 730,256,12,486.79,2021
+195028045,motorola,Motorola Moto G Power (2021),Qualcomm SM6115 Snapdragon 662 (11 nm),Adreno 610,64,4,64.95,2021
+195153923,samsung,Samsung Galaxy Z Flip4,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,512,8,809.99,2022
+195259143,samsung,Samsung Galaxy S24 Ultra,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm),Adreno 750 (1 GHz),1024,12,1219.99,2024
+195979857,samsung,Samsung Galaxy A25,Exynos 1280 (5 nm),Mali-G68,256,8,144.99,2023
+198605157,xiaomi,Xiaomi Redmi Note 10 Pro,Qualcomm SM7150 Snapdragon 732G (8 nm),Adreno 618,128,6,196.99,2021
+199167110,oneplus,OnePlus Nord CE 3 Lite,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,256,8,169,2023
+200566869,apple,Apple iPhone 12,Apple A14 Bionic (5 nm),Apple GPU (4-core graphics),128,4,301,2020
+201638063,xiaomi,Xiaomi Poco F6,Qualcomm SM8635 Snapdragon 8s Gen 3 (4 nm),Adreno 735,512,12,279.03,2024
+201779418,xiaomi,Xiaomi Poco M5,Mediatek Helio G99 (6 nm),Mali-G57 MC2,128,4,141.35,2022
+203114917,samsung,Samsung Galaxy S23 Ultra,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),Adreno 740,1024,12,692,2023
+203334162,apple,Apple iPhone 15,Apple A16 Bionic (4 nm),Apple GPU (5-core graphics),256,6,688.49,2023
+204074810,realme,Realme C35,Unisoc Tiger T616 (12 nm),Mali-G57 MP1,64,6,109,2022
+204513259,motorola,Motorola Moto G14,Unisoc Tiger T616 (12 nm),Mali-G57 MP1,256,8,99,2023
+205603580,nokia,Nokia C21 Plus,Unisoc SC9863A (28 nm),IMG8322,32,3,233,2022
+206389972,xiaomi,Xiaomi Redmi Note 13 Pro+,Mediatek Dimensity 7200 Ultra (4 nm),Mali-G610 MC4,512,12,449,2023
+207281935,samsung,Samsung Galaxy A35,Exynos 1380 (5 nm),Mali-G68 MP5,128,8,399.99,2024
+208246168,apple,Apple iPhone 15 Pro,Apple A17 Pro (3 nm),Apple GPU (6-core graphics),1024,8,1115.39,2023
+208733007,samsung,Samsung Galaxy S24 Ultra,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm),Adreno 750 (1 GHz),1024,12,898.94,2024
+208821114,samsung,Samsung Galaxy Z Flip4,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,256,8,391,2022
+208916303,samsung,Samsung Galaxy S24 Ultra,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm),Adreno 750 (1 GHz),1024,12,909,2024
+209372649,samsung,Samsung Galaxy Z Fold6,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm),Adreno 750 (1 GHz),1024,12,1559,2024
+210100153,apple,Apple iPhone 11 Pro Max,Apple A13 Bionic (7 nm+),Apple GPU (4-core graphics),512,4,390.99,2019
+210983890,apple,Apple iPhone 14,Apple A15 Bionic (5 nm),Apple GPU (5-core graphics),512,6,473.99,2022
+212209817,samsung,Samsung Galaxy A72,Qualcomm SM7125 Snapdragon 720G (8 nm),Adreno 618,256,6,465,2021
+213230003,htc,HTC U23 Pro,Qualcomm SM7450-AB Snapdragon 7 Gen 1 (4 nm),Adreno 644,256,12,399,2023
+213504833,samsung,Samsung Galaxy Note20 Ultra 5G,Exynos 990 (7 nm+) - Global,Mali-G77 MP11 - Global,256,8,314.18,2020
+213813500,realme,Realme 9 Pro,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,8,199.99,2022
+214499692,realme,Realme 11 Pro,Mediatek Dimensity 7050 (6 nm),Mali-G68 MC4,256,8,223.53,2023
+215689455,xiaomi,Xiaomi Poco C65,Mediatek MT6769Z Helio G85 (12 nm),Mali-G52 MC2,256,8,137.16,2023
+215880544,google,Google Pixel 8a,Google Tensor G3 (4 nm),Immortalis-G715s MC10,256,8,422.74,2024
+216997913,samsung,Samsung Galaxy S24+,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm) - USA/Canada/China,Adreno 750 (1 GHz) - USA/Canada/China,512,12,569.95,2024
+217337140,motorola,Motorola Moto G14,Unisoc Tiger T616 (12 nm),Mali-G57 MP1,256,8,84.3,2023
+217390345,apple,Apple iPhone 15 Plus,Apple A16 Bionic (4 nm),Apple GPU (5-core graphics),256,6,635.96,2023
+218136895,xiaomi,Xiaomi Redmi Note 9T,Mediatek Dimensity 800U (7 nm),Mali-G57 MC3,128,4,129.99,2021
+218302567,xiaomi,Xiaomi Redmi Note 11S,Mediatek MT6781 Helio G96 (12 nm),Mali-G57 MC2,128,8,156.28,2022
+220056310,samsung,Samsung Galaxy S23+,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,8,799.99,2023
+220469801,asus,Asus Zenfone 10,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,16,705.99,2023
+220713526,samsung,Samsung Galaxy A02,Mediatek MT6739W (28 nm),PowerVR GE8100,32,4,119.99,2021
+220717594,apple,Apple iPhone 15 Pro Max,Apple A17 Pro (3 nm),Apple GPU (6-core graphics),1024,8,1168.35,2023
+220802477,realme,Realme Narzo 50A Prime,Unisoc Tiger T612 (12 nm),Mali-G57,128,4,68.73,2022
+221184740,apple,Apple iPhone 13 mini,Apple A15 Bionic (5 nm),Apple GPU (4-core graphics),512,4,395,2021
+222002899,oppo,Oppo Find X5,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,256,8,236.78,2022
+222133313,samsung,Samsung Galaxy A12,Mediatek MT6765 Helio P35 (12 nm),PowerVR GE8320,32,3,182.3,2020
+222141069,nokia,Nokia G42,Qualcomm SM4350-AC Snapdragon 480+ 5G (8 nm),Adreno 619,128,6,129.98,2023
+222254439,oneplus,OnePlus 7T,Qualcomm SM8150 Snapdragon 855+ (7 nm),Adreno 640 (700 MHz),256,8,129.9,2019
+223149077,samsung,Samsung Galaxy Z Fold6,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm),Adreno 750 (1 GHz),512,12,1899.99,2024
+224090505,xiaomi,Xiaomi 14T,Mediatek Dimensity 8300 Ultra (4 nm),Mali G615-MC6,512,12,649.9,2024
+225054303,xiaomi,Xiaomi Poco F6 Pro,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,1024,16,433,2024
+225911556,sony,Sony Xperia 5 III,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,256,8,550,2021
+225914800,google,Google Pixel 7 Pro,Google Tensor G2 (5 nm),Mali-G710 MP7,512,12,422.94,2022
+227333638,xiaomi,Xiaomi Poco M5s,Mediatek MT6785V/CD Helio G95 (12 nm),Mali-G76 MC4,256,8,193.69,2022
+227397849,xiaomi,Xiaomi Redmi Note 11 Pro+ 5G,Mediatek Dimensity 920 (6 nm),Mali-G68 MC4,128,8,199.98,2021
+227574311,xiaomi,Xiaomi Redmi Note 13 Pro+,Mediatek Dimensity 7200 Ultra (4 nm),Mali-G610 MC4,512,8,314,2023
+227806093,xiaomi,Xiaomi Redmi Note 10 5G,Mediatek Dimensity 700 (7 nm),Mali-G57 MC2,128,6,179.66,2021
+228969991,apple,Apple iPhone 11 Pro,Apple A13 Bionic (7 nm+),Apple GPU (4-core graphics),512,4,246.6,2019
+229857331,google,Google Pixel 6 Pro,Google Tensor (5 nm),Mali-G78 MP20,256,12,204.95,2021
+231334136,samsung,Samsung Galaxy S21 5G,Exynos 2100 (5 nm) - International,Mali-G78 MP14 - International,256,8,293,2021
+231989767,honor,Honor 200 Pro,Qualcomm SM8635 Snapdragon 8s Gen 3 (4 nm),Adreno 735,512,12,619.99,2024
+232083806,samsung,Samsung Galaxy A15 5G,Mediatek Dimensity 6100+ (6 nm),Mali-G57 MC2,128,6,169.87,2023
+232939644,samsung,Samsung Galaxy S24,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm) - USA/Canada/China,Adreno 750 (1 GHz) - USA/Canada/China,256,8,469.98,2024
+233300530,honor,Honor X7,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,128,6,98.49,2022
+233948356,xiaomi,Xiaomi Redmi 10 5G,Mediatek Dimensity 700 (7 nm),Mali-G57 MC2,128,4,138.73,2022
+234375296,nokia,Nokia XR20,Qualcomm SM4350 Snapdragon 480 5G (8 nm),Adreno 619,128,6,241.3,2021
+234387430,oppo,Oppo Reno8 T,Mediatek Helio G99 (6 nm),Mali-G57 MC2,256,8,490.73,2023
+234435076,samsung,Samsung Galaxy Z Flip5,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,8,482.93,2023
+235350092,samsung,Samsung Galaxy Z Flip5,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,8,414.99,2023
+235805786,apple,Apple iPhone 14 Pro,Apple A16 Bionic (4 nm),Apple GPU (5-core graphics),256,6,710.22,2022
+236253078,oneplus,OnePlus 8T,Qualcomm SM8250 Snapdragon 865 5G (7 nm+),Adreno 650,256,12,219.95,2020
+236350185,apple,Apple iPhone 16 Pro,Apple A18 Pro (3 nm),Apple GPU (6-core graphics),1024,8,1299.99,2024
+238909346,oppo,Oppo Find X3 Pro,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,256,12,239.51,2021
+239275958,apple,Apple iPhone 16 Plus,Apple A18 (3 nm),Apple GPU (5-core graphics),512,8,999,2024
+239337388,sony,Sony Xperia 1 IV,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),Adreno 730,512,12,1399.99,2022
+239583618,nothing,Nothing CMF Phone 1,Mediatek Dimensity 7300 (4 nm),Mali-G615 MC2,128,8,239,2024
+239904291,apple,Apple iPhone SE (2020),Apple A13 Bionic (7 nm+),Apple GPU (4-core graphics),256,3,130.72,2020
+240239312,xiaomi,Xiaomi Poco M5s,Mediatek MT6785V/CD Helio G95 (12 nm),Mali-G76 MC4,128,4,159.99,2022
+240420014,xiaomi,Xiaomi Redmi 10 2022,Mediatek MT6769H Helio G88 (12 nm),Mali-G52 MC2,128,4,158.09,2022
+240887597,samsung,Samsung Galaxy S23 FE,Exynos 2200 (4 nm) - International,Xclipse 920 - International,256,8,599.99,2023
+241285756,asus,Asus Zenfone 8,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,128,8,462.69,2021
+242104011,oppo,Oppo Reno10,Mediatek Dimensity 7050 (6 nm),Mali-G68 MC4,256,8,235.99,2023
+242566049,samsung,Samsung Galaxy A51,Exynos 9611 (10 nm),Mali-G72 MP3,128,6,153.3,2019
+242769397,oneplus,OnePlus 11,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,256,12,455.68,2023
+242813729,apple,Apple iPhone 14 Plus,Apple A15 Bionic (5 nm),Apple GPU (5-core graphics),256,6,427.99,2022
+243087414,asus,Asus ROG Phone 8,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Adreno 750,256,16,917.9,2024
+243368457,samsung,Samsung Galaxy A15,Mediatek Helio G99 (6 nm),Mali-G57 MC2,128,6,128.99,2023
+243797590,nothing,Nothing Phone (1),Qualcomm SM7325-AE Snapdragon 778G+ 5G (6 nm),Adreno 642L,256,8,529,2022
+244112050,motorola,Motorola Edge 40,Mediatek Dimensity 8020 (6 nm),Mali-G77 MC9,256,8,359.99,2023
+244764641,honor,Honor Magic5 Pro,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,12,999,2023
+245305802,samsung,Samsung Galaxy M13,Exynos 850 (8 nm),Mali-G52,128,4,129.59,2022
+245799484,samsung,Samsung Galaxy S20 FE 5G,Qualcomm SM8250 Snapdragon 865 5G (7 nm+),Adreno 650,128,8,299.99,2020
+246456420,samsung,Samsung Galaxy S22 Ultra 5G,Exynos 2200 (4 nm) - Europe,Xclipse 920 - Europe,256,12,829,2022
+247168580,vivo,vivo X100 Pro,Mediatek Dimensity 9300 (4 nm),Immortalis-G720 MC12,256,16,888.88,2023
+247523350,oneplus,OnePlus 12,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Adreno 750,512,16,749,2023
+249057100,oneplus,OnePlus 10 Pro,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),Adreno 730,256,12,576,2022
+249697800,samsung,Samsung Galaxy A35,Exynos 1380 (5 nm),Mali-G68 MP5,128,8,245.92,2024
+251464308,oppo,Oppo Reno8 Pro,Mediatek Dimensity 8100 Max (5 nm),Mali-G610 MC6,256,12,310.8,2022
+251857445,samsung,Samsung Galaxy S9+,Exynos 9810 (10 nm) - EMEA,Mali-G72 MP18 - EMEA,64,6,749.99,2018
+253375862,google,Google Pixel 8 Pro,Google Tensor G3 (4 nm),Immortalis-G715s MC10,256,12,459.95,2023
+254074973,xiaomi,Xiaomi Poco X3 NFC,Qualcomm SM7150-AC Snapdragon 732G (8 nm),Adreno 618,128,6,182.23,2020
+254118658,samsung,Samsung Galaxy S24 FE,Exynos 2400e (4 nm),Xclipse 940,256,8,649.99,2024
+254287459,xiaomi,Xiaomi Redmi Note 11 Pro,Mediatek MT6781 Helio G96 (12 nm),Mali-G57 MC2,128,8,166.71,2022
+254959961,samsung,Samsung Galaxy A14 5G,Exynos 1330 (5 nm) - SM-A146B,Mali-G68 MP2 - SM-A146B,128,4,199.99,2023
+255153105,xiaomi,Xiaomi Redmi 12C,Mediatek MT6769Z Helio G85 (12 nm),Mali-G52 MC2,64,3,84,2023
+255171713,apple,Apple iPhone 13 Pro,Apple A15 Bionic (5 nm),Apple GPU (5-core graphics),256,6,495.98,2021
+256731900,xiaomi,Xiaomi 14,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Adreno 750,512,12,750.87,2023
+256860763,nokia,Nokia C32,Unisoc SC9863A1 (22 nm),IMG8322,128,4,109.99,2023
+257511530,samsung,Samsung Galaxy S22 Ultra 5G,Exynos 2200 (4 nm) - Europe,Xclipse 920 - Europe,1024,12,549,2022
+258816904,nothing,Nothing Phone (2),Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,512,12,600.79,2023
+259033475,google,Google Pixel 9,Google Tensor G4 (4 nm),Mali-G715 MC7,256,12,799,2024
+259295270,samsung,Samsung Galaxy Z Flip4,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,512,8,425,2022
+259509472,motorola,Motorola Moto G55,Mediatek Dimensity 7025 (6 nm),IMG BXM-8-256,256,8,199.99,2024
+259669729,honor,Honor Magic5 Pro,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,256,12,599.5,2023
+262219235,samsung,Samsung Galaxy S23,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,8,859.99,2023
+262356819,xiaomi,Xiaomi Redmi 9C,Mediatek MT6765G Helio G35 (12 nm),PowerVR GE8320,64,3,102.49,2020
+262773783,apple,Apple iPhone 15 Pro,Apple A17 Pro (3 nm),Apple GPU (6-core graphics),256,8,787.49,2023
+262789887,nokia,Nokia G21,Unisoc T606 (12 nm),Mali-G57 MP1,64,4,162,2022
+262971438,xiaomi,Xiaomi Mi 11 Lite 5G,Qualcomm SM7350-AB Snapdragon 780G (5 nm),Adreno 642,128,6,217.31,2021
+263159682,xiaomi,Xiaomi Poco M3 Pro 5G,Mediatek Dimensity 700 (7 nm),Mali-G57 MC2,128,6,159.99,2021
+263717065,oneplus,OnePlus 11,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,256,16,553.91,2023
+264489016,samsung,Samsung Galaxy A51,Exynos 9611 (10 nm),Mali-G72 MP3,128,4,187.08,2019
+265743603,google,Google Pixel 9 Pro XL,Google Tensor G4 (4 nm),Mali-G715 MC7,256,16,960.96,2024
+265858342,xiaomi,Xiaomi Poco M4 Pro 5G,Mediatek Dimensity 810 (6 nm),Mali-G57 MC2,64,6,149.22,2021
+266940778,xiaomi,Xiaomi Redmi 13,Mediatek Helio G91 Ultra (12 nm),Mali-G52 MC2,256,8,109.99,2024
+268137990,vivo,vivo Y50,Qualcomm SM6125 Snapdragon 665 (11 nm),Adreno 610,128,8,69.3,2020
+270030386,oppo,Oppo A77,Mediatek Dimensity 810 (6 nm),Mali-G57 MC2,128,6,110,2022
+270048673,xiaomi,Xiaomi Redmi A3,Mediatek Helio G36 (12 nm),PowerVR GE8320,128,4,72.51,2024
+270791357,samsung,Samsung Galaxy S23 Ultra,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,12,749,2023
+273085638,motorola,Motorola Moto G82,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,8,99.5,2022
+274335025,xiaomi,Xiaomi Mi 11 Lite,Qualcomm SM7150 Snapdragon 732G (8 nm),Adreno 618,128,6,299.99,2021
+274983967,xiaomi,Xiaomi Poco F4,Qualcomm SM8250-AC Snapdragon 870 5G (7 nm),Adreno 650,128,8,235.97,2022
+275802007,realme,Realme 10,Mediatek Helio G99 (6 nm),Mali-G57 MC2,128,4,361,2022
+275837155,oneplus,OnePlus Nord 2T,Mediatek Dimensity 1300 (6 nm),Mali-G77 MC9,256,12,259.99,2022
+276711776,apple,Apple iPhone 13 Pro,Apple A15 Bionic (5 nm),Apple GPU (5-core graphics),1024,6,525.44,2021
+276972645,apple,Apple iPhone 15 Pro Max,Apple A17 Pro (3 nm),Apple GPU (6-core graphics),512,8,1199.99,2023
+277351435,honor,Honor Magic V3,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Adreno 750,512,12,1689,2024
+277611868,samsung,Samsung Galaxy S21 FE 5G,Qualcomm SM8350 Snapdragon 888 5G (5 nm) - Version 1,Adreno 660 - Version 1,128,8,148,2022
+277741420,xiaomi,Xiaomi Poco F6,Qualcomm SM8635 Snapdragon 8s Gen 3 (4 nm),Adreno 735,512,12,364.89,2024
+277813128,motorola,Motorola Moto G54,Mediatek Dimensity 7020 (6 nm),IMG BXM-8-256,256,8,139,2023
+279288641,xiaomi,Xiaomi Mi 11 Lite 5G,Qualcomm SM7350-AB Snapdragon 780G (5 nm),Adreno 642,128,6,249.99,2021
+280266186,xiaomi,Xiaomi Redmi 12C,Mediatek MT6769Z Helio G85 (12 nm),Mali-G52 MC2,64,3,84.99,2023
+281891556,apple,Apple iPhone 16 Pro,Apple A18 Pro (3 nm),Apple GPU (6-core graphics),512,8,1099.99,2024
+282722024,xiaomi,Xiaomi Redmi Note 10S,Mediatek MT6785V/CD Helio G95 (12 nm),Mali-G76 MC4,128,4,142.12,2021
+283616070,xiaomi,Xiaomi Mix Flip,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Adreno 750,512,12,1999,2024
+283685203,oppo,Oppo Reno10,Mediatek Dimensity 7050 (6 nm),Mali-G68 MC4,256,8,305.46,2023
+283858446,huawei,Huawei P50 Pro,Kirin 9000 (5 nm),Mali-G78 MP24,256,8,401.99,2021
+286102879,huawei,Huawei P30,Kirin 980 (7 nm),Mali-G76 MP10,128,6,144.49,2019
+287742459,oneplus,OnePlus 8T,Qualcomm SM8250 Snapdragon 865 5G (7 nm+),Adreno 650,256,12,239.95,2020
+288330632,xiaomi,Xiaomi Redmi 10,Mediatek MT6769H Helio G88 (12 nm),Mali-G52 MC2,128,4,89.99,2021
+289216470,oneplus,OnePlus 10 Pro,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),Adreno 730,256,8,239.95,2022
+289773372,xiaomi,Xiaomi Redmi Note 10 Pro,Qualcomm SM7150 Snapdragon 732G (8 nm),Adreno 618,256,8,192.38,2021
+289999325,oneplus,OnePlus 12,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Adreno 750,512,16,842.14,2023
+291144037,xiaomi,Xiaomi Poco M4 Pro,Mediatek MT6781 Helio G96 (12 nm),Mali-G57 MC2,128,8,199.99,2022
+291291116,samsung,Samsung Galaxy A55,Exynos 1480 (4 nm),Xclipse 530,256,8,299.99,2024
+291581162,motorola,Motorola Moto G51 5G,Qualcomm SM4350-AC Snapdragon 480+ 5G (8 nm),Adreno 619,64,6,98.82,2021
+291823105,samsung,Samsung Galaxy A25,Exynos 1280 (5 nm),Mali-G68,256,8,299.99,2023
+292191486,xiaomi,Xiaomi 13 Ultra,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,16,1178,2023
+293221093,samsung,Samsung Galaxy A51 5G,Exynos 980 (8 nm),Mali-G76 MP5,128,8,106.83,2020
+293453544,xiaomi,Xiaomi Poco X3 Pro,Qualcomm Snapdragon 860 (7 nm),Adreno 640,128,8,290,2021
+293949382,xiaomi,Xiaomi 11T,Mediatek Dimensity 1200 (6 nm),Mali-G77 MC9,256,8,146.99,2021
+296359706,motorola,Motorola Moto G73,Mediatek Dimensity 930 (6 nm),IMG BXM-8-256,256,8,234.11,2023
+296850034,samsung,Samsung Galaxy A32 5G,Mediatek Dimensity 720 (7 nm),Mali-G57 MC3,128,6,129.29,2021
+297008593,xiaomi,Xiaomi Poco M4 5G,Mediatek Dimensity 700 (7 nm),Mali-G57 MC2,128,6,205,2022
+297423586,samsung,Samsung Galaxy Z Flip4,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,512,8,235,2022
+299145505,apple,Apple iPhone 14,Apple A15 Bionic (5 nm),Apple GPU (5-core graphics),512,6,530,2022
+299153849,xiaomi,Xiaomi Poco X6,Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm),Adreno 710,512,12,228,2024
+299635245,nokia,Nokia G60,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,4,119,2022
+299732061,oneplus,OnePlus Nord 2T,Mediatek Dimensity 1300 (6 nm),Mali-G77 MC9,256,12,359.99,2022
+299906492,samsung,Samsung Galaxy A53 5G,Exynos 1280 (5 nm),Mali-G68,128,6,179,2022
+300134173,nokia,Nokia G42,Qualcomm SM4350-AC Snapdragon 480+ 5G (8 nm),Adreno 619,128,6,240.01,2023
+300939834,sony,Sony Xperia 5 IV,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),Adreno 730,256,8,549,2022
+300993451,samsung,Samsung Galaxy A15,Mediatek Helio G99 (6 nm),Mali-G57 MC2,128,8,134.99,2023
+303181495,motorola,Motorola Edge 50 Ultra,Qualcomm SM8635 Snapdragon 8s Gen 3 (4 nm),Adreno 735,512,16,782.67,2024
+303719963,xiaomi,Xiaomi Redmi Note 12,Qualcomm SM4375 Snapdragon 4 Gen 1 (6 nm),Adreno 619,128,6,99.99,2023
+305106266,oppo,Oppo A57 4G,Mediatek MT6765G Helio G35 (12 nm),PowerVR GE8320,64,4,85,2022
+305163589,xiaomi,Xiaomi Redmi Note 11,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,64,6,129.99,2022
+306196950,apple,Apple iPhone 14 Plus,Apple A15 Bionic (5 nm),Apple GPU (5-core graphics),256,6,390,2022
+306656516,apple,Apple iPhone 11 Pro,Apple A13 Bionic (7 nm+),Apple GPU (4-core graphics),256,4,259.9,2019
+308900377,samsung,Samsung Galaxy A06,Mediatek Helio G85 (12 nm),Mali-G52 MC2,128,6,125,2024
+310232569,honor,Honor 70,Qualcomm SM7325-AE Snapdragon 778G+ 5G (6 nm),Adreno 642L,256,12,213.32,2022
+310672917,oppo,Oppo Reno11,Mediatek Dimensity 7050 (6 nm),Mali-G68 MC4,256,12,372.72,2024
+310952719,google,Google Pixel 9 Pro XL,Google Tensor G4 (4 nm),Mali-G715 MC7,1024,16,1319,2024
+311518871,xiaomi,Xiaomi Poco X3 GT,Mediatek Dimensity 1100 (6 nm),Mali-G77 MC9,256,8,198.54,2021
+312231485,motorola,Motorola Moto G32,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,256,8,89.99,2022
+313657381,xiaomi,Xiaomi Redmi Note 13 Pro+,Mediatek Dimensity 7200 Ultra (4 nm),Mali-G610 MC4,512,8,417.95,2023
+315920256,xiaomi,Xiaomi 13 Pro,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,256,8,763.65,2022
+316058469,nokia,Nokia G60,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,6,299.99,2022
+316527641,xiaomi,Xiaomi Poco F6 Pro,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,12,386.85,2024
+317534598,xiaomi,Xiaomi Redmi 9C,Mediatek MT6765G Helio G35 (12 nm),PowerVR GE8320,64,3,118.79,2020
+318606440,huawei,Huawei nova Y90,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,128,6,189.99,2022
+318669165,xiaomi,Xiaomi Redmi A3,Mediatek Helio G36 (12 nm),PowerVR GE8320,128,4,161.07,2024
+318922305,xiaomi,Xiaomi Redmi 10 2022,Mediatek MT6769H Helio G88 (12 nm),Mali-G52 MC2,128,4,85.89,2022
+319381840,samsung,Samsung Galaxy S24,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm) - USA/Canada/China,Adreno 750 (1 GHz) - USA/Canada/China,256,8,514.99,2024
+320236757,xiaomi,Xiaomi Redmi Note 13 Pro 4G,Mediatek Helio G99 Ultra,Mali-G57 MC2,256,8,262.05,2024
+321081645,apple,Apple iPhone 14,Apple A15 Bionic (5 nm),Apple GPU (5-core graphics),512,6,686.73,2022
+321848680,xiaomi,Xiaomi Redmi Note 10 Pro,Qualcomm SM7150 Snapdragon 732G (8 nm),Adreno 618,128,8,219.99,2021
+323171227,samsung,Samsung Galaxy S23 FE,Exynos 2200 (4 nm) - International,Xclipse 920 - International,256,8,499.99,2023
+323462095,samsung,Samsung Galaxy A71 5G,Exynos 980 (8 nm),Mali-G76 MP5,128,8,119,2020
+323642584,motorola,Motorola Moto G24,Mediatek MT6769Z Helio G85 (12 nm),Mali-G52 MC2,128,8,108.47,2024
+324217917,huawei,Huawei Mate 50 Pro,Qualcomm SM8475 Snapdragon 8+ Gen 1 4G (4 nm),Adreno 730,512,8,613.74,2022
+324399657,samsung,Samsung Galaxy Tab A7 Lite,Mediatek MT8768T Helio P22T (12 nm),PowerVR GE8320,32,3,124.99,2021
+324462445,apple,Apple iPhone SE (2020),Apple A13 Bionic (7 nm+),Apple GPU (4-core graphics),128,3,146,2020
+324601130,apple,Apple iPhone 14,Apple A15 Bionic (5 nm),Apple GPU (5-core graphics),256,6,592.59,2022
+324653543,motorola,Motorola Moto G30,Qualcomm SM6115 Snapdragon 662 (11 nm),Adreno 610,128,6,190,2021
+324988815,apple,Apple iPhone 14 Pro,Apple A16 Bionic (4 nm),Apple GPU (5-core graphics),256,6,603.41,2022
+325245861,oneplus,OnePlus Nord CE 2 5G,Mediatek Dimensity 900 (6 nm),Mali-G68 MC4,128,8,199.99,2022
+325673441,google,Google Pixel 7,Google Tensor G2 (5 nm),Mali-G710 MP7,256,8,218.97,2022
+327762788,apple,Apple iPhone 16,Apple A18 (3 nm),Apple GPU (5-core graphics),512,8,1079,2024
+327773196,xiaomi,Xiaomi 14T Pro,Mediatek Dimensity 9300+ (4 nm),Immortalis-G720 MC12,512,12,699,2024
+329360465,xiaomi,Xiaomi Redmi Note 9T,Mediatek Dimensity 800U (7 nm),Mali-G57 MC3,128,4,115.91,2021
+329966465,oppo,Oppo Find X3 Pro,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,256,12,234.3,2021
+330924073,apple,Apple iPhone 15 Pro,Apple A17 Pro (3 nm),Apple GPU (6-core graphics),1024,8,1299.99,2023
+331033741,xiaomi,Xiaomi Redmi Note 10 5G,Mediatek Dimensity 700 (7 nm),Mali-G57 MC2,128,4,94.99,2021
+331679773,motorola,Motorola Moto G Power (2021),Qualcomm SM6115 Snapdragon 662 (11 nm),Adreno 610,64,4,189.99,2021
+332526005,xiaomi,Xiaomi Redmi 13C,Mediatek MT6769Z Helio G85 (12 nm),Mali-G52 MC2,128,6,106.37,2023
+332558680,google,Google Pixel 8 Pro,Google Tensor G3 (4 nm),Immortalis-G715s MC10,256,12,448,2023
+334386353,apple,Apple iPhone 16,Apple A18 (3 nm),Apple GPU (5-core graphics),256,8,799,2024
+335373220,oppo,Oppo Reno7,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,256,8,189.99,2022
+335823096,xiaomi,Xiaomi Redmi Note 10 5G,Mediatek Dimensity 700 (7 nm),Mali-G57 MC2,128,4,168,2021
+336787999,realme,Realme 9i,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,128,6,208,2022
+337944368,apple,Apple iPhone 15,Apple A16 Bionic (4 nm),Apple GPU (5-core graphics),512,6,766.99,2023
+338059696,samsung,Samsung Galaxy S21 Ultra 5G,Exynos 2100 (5 nm) - International,Mali-G78 MP14 - International,256,12,255.45,2021
+338113062,samsung,Samsung Galaxy Note10+,Exynos 9825 (7 nm) - EMEA/LATAM,Mali-G76 MP12 - EMEA/LATAM,512,12,391.73,2019
+338710975,huawei,Huawei nova Y90,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,128,6,179.99,2022
+340117287,oneplus,OnePlus Nord 2 5G,Mediatek Dimensity 1200 (6 nm),Mali-G77 MC9,256,12,370.47,2021
+340637656,nothing,Nothing Phone (2),Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,512,12,498.24,2023
+340666117,samsung,Samsung Galaxy A32,Mediatek MT6769V/CU Helio G80 (12 nm),Mali-G52 MC2,128,4,246.84,2021
+340913209,xiaomi,Xiaomi 12T Pro,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,256,8,399,2022
+341597192,zte,ZTE nubia Flip,Qualcomm SM7450-AB Snapdragon 7 Gen 1 (4 nm),Adreno 644,256,8,499.99,2024
+343982887,apple,Apple iPhone 12,Apple A14 Bionic (5 nm),Apple GPU (4-core graphics),256,4,265,2020
+344328677,nokia,Nokia G10,Mediatek MT6762G Helio G25 (12 nm),PowerVR GE8320,32,4,57,2021
+344795531,realme,Realme GT Neo2,Qualcomm SM8250-AC Snapdragon 870 5G (7 nm),Adreno 650,256,8,441.26,2021
+345694148,xiaomi,Xiaomi Redmi Note 11 4G,Mediatek MT6769H Helio G88 (12 nm),Mali-G52 MC2,128,6,120,2021
+345937947,google,Google Pixel 4 XL,Qualcomm SM8150 Snapdragon 855 (7 nm),Adreno 640,128,6,599.99,2019
+346051036,oneplus,OnePlus Nord 3,Mediatek Dimensity 9000 (4 nm),Mali-G710 MC10,256,16,419,2023
+346480953,xiaomi,Xiaomi Redmi Note 12 4G,Qualcomm SM6225 Snapdragon 685 (6 nm),Adreno 610,128,4,119.21,2023
+346550397,samsung,Samsung Galaxy S24,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm) - USA/Canada/China,Adreno 750 (1 GHz) - USA/Canada/China,512,8,699.9,2024
+347673226,samsung,Samsung Galaxy A53 5G,Exynos 1280 (5 nm),Mali-G68,256,6,219.99,2022
+347798678,xiaomi,Xiaomi 11T Pro,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,256,12,182.99,2021
+347803823,realme,Realme GT 5G,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,256,12,318.14,2021
+349374909,samsung,Samsung Galaxy S23,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),Adreno 740,256,8,699.99,2023
+349428986,huawei,Huawei Mate 50 Pro,Qualcomm SM8475 Snapdragon 8+ Gen 1 4G (4 nm),Adreno 730,512,8,575,2022
+350408239,realme,Realme GT Neo 3,Mediatek Dimensity 8100 (5 nm),Mali-G610 MC6,128,8,655,2022
+350491587,google,Google Pixel 9 Pro,Google Tensor G4 (4 nm),Mali-G715 MC7,1024,16,1219,2024
+350543474,google,Google Pixel 9 Pro,Google Tensor G4 (4 nm),Mali-G715 MC7,256,16,1082.97,2024
+352206868,samsung,Samsung Galaxy Z Flip4,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,512,8,255,2022
+352223467,samsung,Samsung Galaxy S10+,Exynos 9820 (8 nm) - EMEA/LATAM,Mali-G76 MP12 - EMEA/LATAM,128,8,280,2019
+354194725,xiaomi,Xiaomi 13,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,256,12,977.98,2022
+354349690,apple,Apple iPhone SE (2020),Apple A13 Bionic (7 nm+),Apple GPU (4-core graphics),128,3,99.64,2020
+354726375,xiaomi,Xiaomi 12T Pro,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,256,12,361.99,2022
+356078209,xiaomi,Xiaomi Poco X6,Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm),Adreno 710,512,12,232,2024
+356279665,oppo,Oppo A54s,Mediatek MT6765G Helio G35 (12 nm),PowerVR GE8320,128,8,169.99,2021
+356796751,xiaomi,Xiaomi Poco F5,Qualcomm SM7475-AB Snapdragon 7+ Gen 2 (4 nm),Adreno 725,256,12,355.98,2023
+356894842,oneplus,OnePlus 8 Pro,Qualcomm SM8250 Snapdragon 865 5G (7 nm+),Adreno 650,256,12,425,2020
+357709267,honor,Honor 50,Qualcomm SM7325 Snapdragon 778G 5G (6 nm),Adreno 642L,128,8,172.13,2021
+357751242,apple,Apple iPhone 15 Plus,Apple A16 Bionic (4 nm),Apple GPU (5-core graphics),512,6,922,2023
+357906727,sony,Sony Xperia 1 IV,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),Adreno 730,512,12,597.47,2022
+358767412,apple,Apple iPhone 12 Pro Max,Apple A14 Bionic (5 nm),Apple GPU (4-core graphics),256,6,410.33,2020
+359017573,realme,Realme 9,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,128,8,279,2022
+359662755,xiaomi,Xiaomi Redmi Note 12 4G,Qualcomm SM6225 Snapdragon 685 (6 nm),Adreno 610,128,4,97.03,2023
+359936229,apple,Apple iPhone 11 Pro,Apple A13 Bionic (7 nm+),Apple GPU (4-core graphics),512,4,349.37,2019
+360213205,xiaomi,Xiaomi Poco F5 Pro,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,512,12,399.99,2023
+360231621,samsung,Samsung Galaxy Z Fold3 5G,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,512,12,399.95,2021
+360721074,samsung,Samsung Galaxy A32,Mediatek MT6769V/CU Helio G80 (12 nm),Mali-G52 MC2,128,6,160.24,2021
+360774362,sony,Sony Xperia 5 V,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,256,8,749,2023
+360942530,samsung,Samsung Galaxy A52,Qualcomm SM7125 Snapdragon 720G (8 nm),Adreno 618,128,6,140.83,2021
+361290015,nokia,Nokia G11,Unisoc T606 (12 nm),Mali-G57 MP1,64,4,255,2022
+361329022,motorola,Motorola Edge 20,Qualcomm SM7325 Snapdragon 778G 5G (6 nm),Adreno 642L,256,8,154,2021
+361340243,samsung,Samsung Galaxy Z Flip3 5G,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,256,8,999.99,2021
+362924865,samsung,Samsung Galaxy A04e,Mediatek MT6765 Helio P35 (12 nm),PowerVR GE8320,32,4,75.99,2022
+362971818,samsung,Samsung Galaxy Z Fold4,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,1024,12,629.77,2022
+363255171,samsung,Samsung Galaxy S20+ 5G,Exynos 990 (7 nm+) - Global,Mali-G77 MP11 - Global,256,12,270,2020
+365028554,xiaomi,Xiaomi Redmi Note 9T,Mediatek Dimensity 800U (7 nm),Mali-G57 MC3,128,6,349,2021
+365932386,xiaomi,Xiaomi Poco F4 GT,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),Adreno 730,256,12,399.99,2022
+367332507,motorola,Motorola Moto G14,Unisoc Tiger T616 (12 nm),Mali-G57 MP1,256,8,68.49,2023
+368285865,apple,Apple iPhone 15 Pro,Apple A17 Pro (3 nm),Apple GPU (6-core graphics),512,8,1099.99,2023
+368531910,nothing,Nothing Phone (2),Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,512,12,634.5,2023
+369056620,apple,Apple iPhone 13,Apple A15 Bionic (5 nm),Apple GPU (4-core graphics),256,4,318.8,2021
+369678209,oppo,Oppo Find X3 Neo,Qualcomm SM8250 Snapdragon 865 5G (7 nm+),Adreno 650,256,12,161,2021
+370702455,samsung,Samsung Galaxy S21 FE 5G,Qualcomm SM8350 Snapdragon 888 5G (5 nm) - Version 1,Adreno 660 - Version 1,256,8,199,2022
+371157382,sony,Sony Xperia 10 III,Qualcomm SM6350 Snapdragon 690 5G (8 nm),Adreno 619,256,6,193.3,2021
+371502164,xiaomi,Xiaomi Mi 11 Lite,Qualcomm SM7150 Snapdragon 732G (8 nm),Adreno 618,128,8,249.99,2021
+371662542,oppo,Oppo Reno6 5G,Mediatek Dimensity 900 (6 nm),Mali-G68 MC4,256,12,244.99,2021
+372517262,samsung,Samsung Galaxy A12,Mediatek MT6765 Helio P35 (12 nm),PowerVR GE8320,128,3,180,2020
+373214738,samsung,Samsung Galaxy A13 5G,Mediatek Dimensity 700 (7 nm),Mali-G57 MC2,128,4,114.99,2021
+373258644,samsung,Samsung Galaxy A35,Exynos 1380 (5 nm),Mali-G68 MP5,128,8,249.99,2024
+374490208,realme,Realme 12+,Mediatek Dimensity 7050 (6 nm),Mali-G68 MC4,256,8,265,2024
+374981701,xiaomi,Xiaomi Redmi Note 9 Pro,Qualcomm SM7125 Snapdragon 720G (8 nm),Adreno 618,128,6,140,2020
+375301800,google,Google Pixel 6 Pro,Google Tensor (5 nm),Mali-G78 MP20,512,12,258.99,2021
+375462682,motorola,Motorola Edge 30 Ultra,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,256,8,990,2022
+376451542,samsung,Samsung Galaxy A12,Mediatek MT6765 Helio P35 (12 nm),PowerVR GE8320,32,3,73.7,2020
+377074681,samsung,Samsung Galaxy S24+,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm) - USA/Canada/China,Adreno 750 (1 GHz) - USA/Canada/China,512,12,799.66,2024
+377242619,asus,Asus Zenfone 10,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,256,16,659,2023
+377280906,samsung,Samsung Galaxy S21 5G,Exynos 2100 (5 nm) - International,Mali-G78 MP14 - International,256,8,187.15,2021
+377944106,apple,Apple iPhone 11,Apple A13 Bionic (7 nm+),Apple GPU (4-core graphics),256,4,239,2019
+378275664,xiaomi,Xiaomi Redmi Note 12 Pro,Mediatek Dimensity 1080 (6 nm),Mali-G68 MC4,128,8,189,2022
+378489069,xiaomi,Xiaomi Poco F5 Pro,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,256,12,544.81,2023
+378610405,oppo,Oppo Find X3 Neo,Qualcomm SM8250 Snapdragon 865 5G (7 nm+),Adreno 650,256,12,660,2021
+378625077,apple,Apple iPhone 16 Pro Max,Apple A18 Pro (3 nm),Apple GPU (6-core graphics),512,8,1449,2024
+379160073,realme,Realme C31,Unisoc Tiger T612 (12 nm),Mali-G57,64,4,99.19,2022
+380324918,apple,Apple iPhone 12 Pro,Apple A14 Bionic (5 nm),Apple GPU (4-core graphics),256,6,323.84,2020
+381284795,samsung,Samsung Galaxy Z Fold4,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,512,12,1799.99,2022
+381426218,samsung,Samsung Galaxy A04e,Mediatek MT6765 Helio P35 (12 nm),PowerVR GE8320,32,4,105.33,2022
+381609458,samsung,Samsung Galaxy S20 Ultra 5G,Exynos 990 (7 nm+) - Global,Mali-G77 MP11 - Global,256,12,231.74,2020
+381614641,oppo,Oppo A15,Mediatek MT6765 Helio P35 (12 nm),PowerVR GE8320,32,3,405,2020
+381764633,oppo,Oppo A16,Mediatek MT6765G Helio G35 (12 nm),PowerVR GE8320,256,4,99.99,2021
+384063186,xiaomi,Xiaomi Redmi Note 10 Pro,Qualcomm SM7150 Snapdragon 732G (8 nm),Adreno 618,128,8,123.42,2021
+385479931,xiaomi,Xiaomi Poco F5 Pro,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,256,12,490.04,2023
+385653101,apple,Apple iPhone SE (2022),Apple A15 Bionic (5 nm),Apple GPU (4-core graphics),256,4,233.33,2022
+386634737,samsung,Samsung Galaxy Z Flip5,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,8,999.99,2023
+386687179,xiaomi,Xiaomi Redmi Note 12 4G,Qualcomm SM6225 Snapdragon 685 (6 nm),Adreno 610,128,8,154,2023
+386728234,nothing,Nothing CMF Phone 1,Mediatek Dimensity 7300 (4 nm),Mali-G615 MC2,128,8,209,2024
+387461830,oneplus,OnePlus 12,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Adreno 750,512,16,799.99,2023
+387792483,samsung,Samsung Galaxy S20+ 5G,Exynos 990 (7 nm+) - Global,Mali-G77 MP11 - Global,128,12,379,2020
+388771983,apple,Apple iPhone 13 Pro Max,Apple A15 Bionic (5 nm),Apple GPU (5-core graphics),512,6,508.5,2021
+389427794,nokia,Nokia X20,Qualcomm SM4350 Snapdragon 480 5G (8 nm),Adreno 619,128,8,199,2021
+389686642,xiaomi,Xiaomi Redmi Note 9S,Qualcomm SM7125 Snapdragon 720G (8 nm),Adreno 618,128,4,99.28,2020
+390672529,samsung,Samsung Galaxy Z Fold4,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,512,12,848,2022
+391376077,samsung,Samsung Galaxy A55,Exynos 1480 (4 nm),Xclipse 530,256,12,350.95,2024
+391391239,xiaomi,Xiaomi Redmi 12,Mediatek MT6769H Helio G88 (12 nm),Mali-G52 MC2,128,8,97.9,2023
+391751855,oneplus,OnePlus 10 Pro,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),Adreno 730,256,8,406.94,2022
+392072692,samsung,Samsung Galaxy A52 5G,Qualcomm SM7225 Snapdragon 750G 5G (8 nm),Adreno 619,128,8,317.99,2021
+393798964,apple,Apple iPhone SE (2022),Apple A15 Bionic (5 nm),Apple GPU (4-core graphics),256,4,261,2022
+394668747,google,Google Pixel 8 Pro,Google Tensor G3 (4 nm),Immortalis-G715s MC10,1024,12,609.99,2023
+395938303,samsung,Samsung Galaxy A31,Mediatek MT6768 Helio P65 (12 nm),Mali-G52 MC2,128,4,179,2020
+396181540,motorola,Motorola Edge 30 Pro,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),Adreno 730,256,8,999,2022
+396352377,samsung,Samsung Galaxy A03s,Mediatek MT6765 Helio P35 (12 nm),PowerVR GE8320,64,4,175.84,2021
+397407851,samsung,Samsung Galaxy S21 FE 5G,Qualcomm SM8350 Snapdragon 888 5G (5 nm) - Version 1,Adreno 660 - Version 1,128,8,340.53,2022
+397863735,honor,Honor X8a,Mediatek MT6769H Helio G88 (12 nm),Mali-G52 MC2,128,8,160,2023
+398293550,oneplus,OnePlus 9,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,256,12,126.83,2021
+398569833,motorola,Motorola ThinkPhone,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,256,8,528.74,2023
+398674658,oneplus,OnePlus 11,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,256,12,400.62,2023
+398984440,apple,Apple iPhone 13 Pro,Apple A15 Bionic (5 nm),Apple GPU (5-core graphics),256,6,564.81,2021
+399688289,samsung,Samsung Galaxy A13,Exynos 850 (8 nm),Mali-G52,32,4,87,2022
+400278839,xiaomi,Xiaomi Poco C65,Mediatek MT6769Z Helio G85 (12 nm),Mali-G52 MC2,256,8,99.84,2023
+400761814,xiaomi,Xiaomi Poco M5s,Mediatek MT6785V/CD Helio G95 (12 nm),Mali-G76 MC4,128,6,176.33,2022
+402299567,xiaomi,Xiaomi Redmi 10 2022,Mediatek MT6769H Helio G88 (12 nm),Mali-G52 MC2,128,6,86.97,2022
+403391047,realme,Realme GT2 Pro,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),Adreno 730,256,12,426.27,2022
+403801502,samsung,Samsung Galaxy S21 Ultra 5G,Exynos 2100 (5 nm) - International,Mali-G78 MP14 - International,512,16,699.99,2021
+404525306,nothing,Nothing Phone (1),Qualcomm SM7325-AE Snapdragon 778G+ 5G (6 nm),Adreno 642L,256,12,289,2022
+404823154,samsung,Samsung Galaxy Note20 5G,Exynos 990 (7 nm+) - Global,Mali-G77 MP11 - Global,256,8,224.95,2020
+405164067,samsung,Samsung Galaxy A03s,Mediatek MT6765 Helio P35 (12 nm),PowerVR GE8320,32,3,79.49,2021
+405962015,nothing,Nothing Phone (2a),Mediatek Dimensity 7200 Pro (4 nm),Mali-G610 MC4,256,12,297.29,2024
+406987340,vivo,vivo X100,Mediatek Dimensity 9300 (4 nm),Immortalis-G720 MC12,512,16,591.99,2023
+407826538,samsung,Samsung Galaxy S21+ 5G,Exynos 2100 (5 nm) - International,Mali-G78 MP14 - International,256,8,326,2021
+409602129,motorola,Motorola Razr 50,Mediatek Dimensity 7300X (4 nm),Mali-G615 MC2,512,12,849,2024
+409629165,apple,Apple iPhone 12 Pro Max,Apple A14 Bionic (5 nm),Apple GPU (4-core graphics),512,6,580,2020
+409727396,oneplus,OnePlus Nord 2 5G,Mediatek Dimensity 1200 (6 nm),Mali-G77 MC9,256,12,405,2021
+409781069,samsung,Samsung Galaxy Note20 5G,Exynos 990 (7 nm+) - Global,Mali-G77 MP11 - Global,256,8,429.54,2020
+409840062,oppo,Oppo A54s,Mediatek MT6765G Helio G35 (12 nm),PowerVR GE8320,128,8,179.99,2021
+410360094,nokia,Nokia G11,Unisoc T606 (12 nm),Mali-G57 MP1,64,4,95.98,2022
+411293316,motorola,Motorola One 5G Ace,Qualcomm SM7225 Snapdragon 750G 5G (8 nm),Adreno 619,128,6,68,2021
+411961838,oneplus,OnePlus 12,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Adreno 750,512,16,649.99,2023
+412026469,apple,Apple iPhone SE (2020),Apple A13 Bionic (7 nm+),Apple GPU (4-core graphics),256,3,176,2020
+412919885,samsung,Samsung Galaxy S22 Ultra 5G,Exynos 2200 (4 nm) - Europe,Xclipse 920 - Europe,256,12,360.99,2022
+413439740,oppo,Oppo Reno12 Pro,Mediatek Dimensity 7300 Energy (4 nm),Mali-G615 MC2,512,12,509.99,2024
+414172392,samsung,Samsung Galaxy Z Fold5,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,12,1799.99,2023
+415373136,tecno,Tecno Spark Go 2023,Mediatek MT6761 Helio A22 (12 nm),PowerVR GE8320,64,3,109.79,2023
+416252882,samsung,Samsung Galaxy S23,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,8,473.5,2023
+416894534,samsung,Samsung Galaxy A14 5G,Exynos 1330 (5 nm) - SM-A146B,Mali-G68 MP2 - SM-A146B,128,4,92,2023
+417236752,apple,Apple iPhone 16,Apple A18 (3 nm),Apple GPU (5-core graphics),256,8,829.99,2024
+417706681,xiaomi,Xiaomi 14,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Adreno 750,512,12,849.5,2023
+418040489,vivo,vivo V40,Qualcomm SM7550-AB Snapdragon 7 Gen 3 (4 nm),Adreno 720,512,12,677.94,2024
+418650218,nokia,Nokia X20,Qualcomm SM4350 Snapdragon 480 5G (8 nm),Adreno 619,128,8,249.28,2021
+418865712,nothing,Nothing Phone (2a),Mediatek Dimensity 7200 Pro (4 nm),Mali-G610 MC4,256,12,349.99,2024
+419702315,apple,Apple iPhone 14 Plus,Apple A15 Bionic (5 nm),Apple GPU (5-core graphics),256,6,630.59,2022
+419730580,samsung,Samsung Galaxy Note20 Ultra 5G,Exynos 990 (7 nm+) - Global,Mali-G77 MP11 - Global,512,12,779.46,2020
+419868311,motorola,Motorola Moto G32,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,128,4,89.95,2022
+419937747,xiaomi,Xiaomi 13T Pro,Mediatek Dimensity 9200+ (4 nm),Immortalis-G715 MC11,512,12,459.99,2023
+420566652,samsung,Samsung Galaxy A35,Exynos 1380 (5 nm),Mali-G68 MP5,256,8,209.99,2024
+421021889,xiaomi,Xiaomi Redmi Note 12 Pro+,Mediatek Dimensity 1080 (6 nm),Mali-G68 MC4,256,12,211.96,2022
+421739750,xiaomi,Xiaomi Redmi 10A,Mediatek MT6762G Helio G25 (12 nm),PowerVR GE8320,32,3,82.61,2022
+421832968,xiaomi,Xiaomi Poco F5 Pro,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,512,12,459.99,2023
+422600431,google,Google Pixel 7 Pro,Google Tensor G2 (5 nm),Mali-G710 MP7,512,12,324.95,2022
+422824677,oneplus,OnePlus Nord CE 2 Lite 5G,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,8,239.99,2022
+423093495,oneplus,OnePlus Nord CE 5G,Qualcomm SM7225 Snapdragon 750G 5G (8 nm),Adreno 619,128,8,279.75,2021
+423627851,nokia,Nokia C32,Unisoc SC9863A1 (22 nm),IMG8322,64,4,110.26,2023
+424035170,samsung,Samsung Galaxy A42 5G,Qualcomm SM7225 Snapdragon 750 5G (8 nm),Adreno 619,128,6,289.99,2020
+424068364,motorola,Motorola Moto G23,Mediatek MT6769Z Helio G85 (12 nm),Mali-G52 MC2,128,8,160,2023
+425733749,oppo,Oppo A77,Mediatek Dimensity 810 (6 nm),Mali-G57 MC2,128,6,133.99,2022
+426843271,samsung,Samsung Galaxy S24,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm) - USA/Canada/China,Adreno 750 (1 GHz) - USA/Canada/China,256,8,859.99,2024
+427334813,nothing,Nothing Phone (2),Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,256,12,520.9,2023
+427392685,samsung,Samsung Galaxy S23+,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,8,469.66,2023
+427824608,samsung,Samsung Galaxy A52,Qualcomm SM7125 Snapdragon 720G (8 nm),Adreno 618,128,8,158.55,2021
+428222156,honor,Honor X8b,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,256,8,241.93,2023
+428675743,zte,ZTE nubia Z50S Pro,Qualcomm SM8550-AC Snapdragon 8+ Gen 2 (4 nm),Adreno 740 (719 MHz),1024,12,522,2023
+429038352,apple,Apple iPhone 15 Plus,Apple A16 Bionic (4 nm),Apple GPU (5-core graphics),256,6,753.73,2023
+429748288,oneplus,OnePlus Nord 4,Qualcomm SM7675 Snapdragon 7+ Gen 3 (4 nm),Adreno 732,512,16,447,2024
+430286094,samsung,Samsung Galaxy A15,Mediatek Helio G99 (6 nm),Mali-G57 MC2,128,8,198.53,2023
+430800914,google,Google Pixel 7 Pro,Google Tensor G2 (5 nm),Mali-G710 MP7,512,12,360,2022
+431362633,xiaomi,Xiaomi Poco X6,Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm),Adreno 710,256,12,235.37,2024
+431387608,samsung,Samsung Galaxy S20 5G,Exynos 990 (7 nm+) - Global,Mali-G77 MP11 - Global,128,12,169.79,2020
+431395773,apple,Apple iPhone XR,Apple A12 Bionic (7 nm),Apple GPU (4-core graphics),256,3,135,2018
+431571624,samsung,Samsung Galaxy A15 5G,Mediatek Dimensity 6100+ (6 nm),Mali-G57 MC2,128,8,139,2023
+432495643,zte,ZTE nubia Red Magic 9S Pro,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm),Adreno 750 (1 GHz),512,16,749,2024
+432973629,samsung,Samsung Galaxy S10e,Exynos 9820 (8 nm) - EMEA/LATAM,Mali-G76 MP12 - EMEA/LATAM,256,8,144.5,2019
+433417907,samsung,Samsung Galaxy A03,Unisoc T606 (12 nm),Mali-G57 MP1,64,4,99.99,2022
+434409950,apple,Apple iPhone 16 Pro,Apple A18 Pro (3 nm),Apple GPU (6-core graphics),256,8,999.99,2024
+434435852,xiaomi,Xiaomi Poco M4 Pro,Mediatek MT6781 Helio G96 (12 nm),Mali-G57 MC2,128,6,175.54,2022
+434473498,xiaomi,Xiaomi Redmi 9C,Mediatek MT6765G Helio G35 (12 nm),PowerVR GE8320,64,4,85.99,2020
+434741912,motorola,Motorola Moto G Stylus 5G (2023),Qualcomm SM6450 Snapdragon 6 Gen 1 (4 nm),Adreno 710,256,6,168,2023
+435217468,motorola,Motorola Edge 30 Neo,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,8,169.09,2022
+435367514,honor,Honor 200,Qualcomm SM7550-AB Snapdragon 7 Gen 3 (4 nm),Adreno 720,512,12,479,2024
+437396718,honor,Honor 50,Qualcomm SM7325 Snapdragon 778G 5G (6 nm),Adreno 642L,128,8,369.5,2021
+437570545,samsung,Samsung Galaxy A04s,Exynos 850 (8 nm),Mali-G52,32,4,121.7,2022
+437858751,motorola,Motorola Edge 50 Pro,Qualcomm SM7550-AB Snapdragon 7 Gen 3 (4 nm),Adreno 720,256,12,699,2024
+437980863,samsung,Samsung Galaxy S23,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),Adreno 740,256,8,314.49,2023
+438162191,honor,Honor 90,Qualcomm Snapdragon 7 Gen 1 Accelerated Edition (4 nm),Adreno 644,512,12,490,2023
+438322789,xiaomi,Xiaomi Redmi Note 13 Pro,Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm),Adreno 710,256,12,218.27,2023
+439553131,sony,Sony Xperia 1 VI,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Adreno 750,512,12,1059,2024
+440002220,xiaomi,Xiaomi Redmi 9C,Mediatek MT6765G Helio G35 (12 nm),PowerVR GE8320,32,3,64.99,2020
+440171705,samsung,Samsung Galaxy A05,Mediatek Helio G85 (12 nm),Mali-G52 MC2,128,6,89.99,2023
+440864502,samsung,Samsung Galaxy S24 FE,Exynos 2400e (4 nm),Xclipse 940,512,8,709.99,2024
+441191837,samsung,Samsung Galaxy A04s,Exynos 850 (8 nm),Mali-G52,32,4,119.99,2022
+441907636,motorola,Motorola Moto G53,Qualcomm SM4350-AC Snapdragon 480+ 5G (8 nm),Adreno 619,128,4,199.5,2022
+442077992,samsung,Samsung Galaxy Tab S9 FE,Exynos 1380 (5 nm),Mali-G68 MP5,256,8,349.99,2023
+442636344,huawei,Huawei nova Y70 Plus,Kirin 710A (14 nm),Mali-G51 MP4,128,4,199.99,2022
+442917725,realme,Realme GT Neo 3,Mediatek Dimensity 8100 (5 nm),Mali-G610 MC6,128,8,479.99,2022
+442945642,xiaomi,Xiaomi Redmi Note 13 Pro,Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm),Adreno 710,512,12,254.99,2023
+443186816,oppo,Oppo Find N2 Flip,Mediatek Dimensity 9000+ (4 nm),Mali-G710 MC10,512,16,400,2022
+443770834,xiaomi,Xiaomi Poco C40,JLQ JR510 (11 nm),Mali-G57 MC1,64,4,111.25,2022
+445850017,samsung,Samsung Galaxy A72,Qualcomm SM7125 Snapdragon 720G (8 nm),Adreno 618,256,6,429.99,2021
+446532817,tecno,Tecno Spark Go 2024,Unisoc T606 (12 nm),Mali-G57 MP1,128,4,114.94,2023
+446648202,xiaomi,Xiaomi Redmi 10 2022,Mediatek MT6769H Helio G88 (12 nm),Mali-G52 MC2,128,6,111.89,2022
+446861349,oneplus,OnePlus Nord 2 5G,Mediatek Dimensity 1200 (6 nm),Mali-G77 MC9,128,8,186,2021
+446890548,motorola,Motorola Edge 30 Neo,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,256,8,279.99,2022
+450471603,blackview,Blackview A96,Mediatek Helio G99 (6 nm),Mali-G57 MC2,256,12,213.4,2023
+450558149,realme,Realme 9i,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,128,6,239.99,2022
+451117916,xiaomi,Xiaomi Redmi Note 13 Pro+,Mediatek Dimensity 7200 Ultra (4 nm),Mali-G610 MC4,512,12,329.05,2023
+451151438,samsung,Samsung Galaxy S24 FE,Exynos 2400e (4 nm),Xclipse 940,256,8,649.99,2024
+451430015,honor,Honor 90,Qualcomm Snapdragon 7 Gen 1 Accelerated Edition (4 nm),Adreno 644,512,12,259,2023
+452314256,samsung,Samsung Galaxy Z Flip6,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm),Adreno 750 (1 GHz),512,12,1099.99,2024
+452362940,apple,Apple iPhone 16,Apple A18 (3 nm),Apple GPU (5-core graphics),256,8,949,2024
+453480311,xiaomi,Xiaomi Redmi A2,Mediatek Helio G36 (12 nm),PowerVR GE8320,64,3,74.99,2023
+453809815,samsung,Samsung Galaxy S10+,Exynos 9820 (8 nm) - EMEA/LATAM,Mali-G76 MP12 - EMEA/LATAM,512,8,485.99,2019
+454445117,oneplus,OnePlus 12R,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,256,16,497,2024
+454790048,motorola,Motorola Edge 40,Mediatek Dimensity 8020 (6 nm),Mali-G77 MC9,256,8,336.01,2023
+456340934,apple,Apple iPhone 14 Pro Max,Apple A16 Bionic (4 nm),Apple GPU (5-core graphics),512,6,668.95,2022
+456979535,xiaomi,Xiaomi Redmi 9,Mediatek MT6769V/CU Helio G80 (12 nm),Mali-G52 MC2,128,4,107.3,2020
+458707920,motorola,Motorola Edge 20 Pro,Qualcomm SM8250-AC Snapdragon 870 5G (7 nm),Adreno 650,128,8,359.95,2021
+459202308,honor,Honor X7b,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,128,8,349,2023
+460299655,nothing,Nothing CMF Phone 1,Mediatek Dimensity 7300 (4 nm),Mali-G615 MC2,256,8,324.76,2024
+460370618,asus,Asus Zenfone 11 Ultra,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Adreno 750,512,16,699.99,2024
+460998378,apple,Apple iPhone 13,Apple A15 Bionic (5 nm),Apple GPU (4-core graphics),512,4,374,2021
+461992934,samsung,Samsung Galaxy Z Fold3 5G,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,512,12,510,2021
+462276360,nokia,Nokia G21,Unisoc T606 (12 nm),Mali-G57 MP1,128,4,219.99,2022
+462537228,google,Google Pixel 9 Pro,Google Tensor G4 (4 nm),Mali-G715 MC7,1024,16,1329,2024
+463631613,samsung,Samsung Galaxy A12,Mediatek MT6765 Helio P35 (12 nm),PowerVR GE8320,32,3,79.99,2020
+464068929,motorola,Motorola Edge 20,Qualcomm SM7325 Snapdragon 778G 5G (6 nm),Adreno 642L,256,8,147.49,2021
+464591023,asus,Asus Zenfone 9,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,256,16,634.82,2022
+465304104,apple,Apple iPhone 12 Pro Max,Apple A14 Bionic (5 nm),Apple GPU (4-core graphics),512,6,421.89,2020
+466832743,samsung,Samsung Galaxy S10,Exynos 9820 (8 nm) - EMEA/LATAM,Mali-G76 MP12 - EMEA/LATAM,512,8,178.99,2019
+468170522,motorola,Motorola Edge 30 Ultra,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,256,12,990,2022
+468290276,xiaomi,Xiaomi Redmi Note 11 Pro 5G,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,4,157.31,2022
+468900324,apple,Apple iPhone 14 Pro,Apple A16 Bionic (4 nm),Apple GPU (5-core graphics),1024,6,687.17,2022
+469241530,motorola,Motorola Moto E13,Unisoc T606 (12 nm),Mali-G57 MP1,64,4,60,2023
+470677201,xiaomi,Xiaomi Redmi 12,Mediatek MT6769H Helio G88 (12 nm),Mali-G52 MC2,256,8,155.25,2023
+471398252,samsung,Samsung Galaxy S21 FE 5G,Qualcomm SM8350 Snapdragon 888 5G (5 nm) - Version 1,Adreno 660 - Version 1,256,8,439,2022
+471876789,samsung,Samsung Galaxy A03s,Mediatek MT6765 Helio P35 (12 nm),PowerVR GE8320,32,4,128.99,2021
+473997308,xiaomi,Xiaomi Redmi 9C,Mediatek MT6765G Helio G35 (12 nm),PowerVR GE8320,64,3,77.99,2020
+474275599,apple,Apple iPhone 13 mini,Apple A15 Bionic (5 nm),Apple GPU (4-core graphics),512,4,433,2021
+475141130,oppo,Oppo Find N2 Flip,Mediatek Dimensity 9000+ (4 nm),Mali-G710 MC10,512,16,699.99,2022
+475469869,apple,Apple iPhone 11,Apple A13 Bionic (7 nm+),Apple GPU (4-core graphics),128,4,245,2019
+476502360,apple,Apple iPhone XS,Apple A12 Bionic (7 nm),Apple GPU (4-core graphics),512,4,270,2018
+476717067,oppo,Oppo Find X5 Pro,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm) - Global,Adreno 730 - Global,256,12,1070,2022
+476803681,samsung,Samsung Galaxy S20 5G,Exynos 990 (7 nm+) - Global,Mali-G77 MP11 - Global,128,12,184.99,2020
+477034943,sony,Sony Xperia 5 III,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,256,8,419.5,2021
+477191613,apple,Apple iPhone 13 Pro Max,Apple A15 Bionic (5 nm),Apple GPU (5-core graphics),1024,6,753.81,2021
+477787983,samsung,Samsung Galaxy S23,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,8,648.46,2023
+478148939,xiaomi,Xiaomi Redmi Note 10,Qualcomm SDM678 Snapdragon 678 (11 nm),Adreno 612,128,6,99.99,2021
+478204892,xiaomi,Xiaomi 14T,Mediatek Dimensity 8300 Ultra (4 nm),Mali G615-MC6,512,12,724.12,2024
+478342711,motorola,Motorola Moto G82,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,8,162.72,2022
+478655180,google,Google Pixel 9 Pro Fold,Google Tensor G4 (4 nm),Mali-G715 MC7,512,16,1890.99,2024
+480327649,samsung,Samsung Galaxy A33 5G,Exynos 1280 (5 nm),Mali-G68,128,6,219.95,2022
+480445973,zte,ZTE Blade A75 4G,Unisoc T606 (12 nm),Mali-G57 MP1,256,4,106.99,2024
+480684023,motorola,Motorola Moto G85,Qualcomm SM6375 Snapdragon 6s Gen 3 (6 nm),Adreno 619,256,12,233.53,2024
+480749305,samsung,Samsung Galaxy Z Fold6,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm),Adreno 750 (1 GHz),512,12,1179.9,2024
+481472441,apple,Apple iPhone 16 Plus,Apple A18 (3 nm),Apple GPU (5-core graphics),512,8,1229,2024
+481829857,samsung,Samsung Galaxy S21 Ultra 5G,Exynos 2100 (5 nm) - International,Mali-G78 MP14 - International,256,12,278.97,2021
+482721194,motorola,Motorola Moto G72,Mediatek Helio G99 (6 nm),Mali-G57 MC2,128,8,171.06,2022
+484311188,samsung,Samsung Galaxy A32,Mediatek MT6769V/CU Helio G80 (12 nm),Mali-G52 MC2,128,4,105,2021
+484914250,motorola,Motorola Moto G (2023),Qualcomm SM4350-AC Snapdragon 480+ 5G (8 nm),Adreno 619,128,4,79.95,2023
+485911803,samsung,Samsung Galaxy A02s,Qualcomm SDM450 Snapdragon 450 (14 nm),Adreno 506,32,2,66.43,2021
+486771642,nokia,Nokia C32,Unisoc SC9863A1 (22 nm),IMG8322,128,4,125.73,2023
+487301483,nokia,Nokia G42,Qualcomm SM4350-AC Snapdragon 480+ 5G (8 nm),Adreno 619,256,8,149.99,2023
+487304736,samsung,Samsung Galaxy A04s,Exynos 850 (8 nm),Mali-G52,32,4,77,2022
+487361099,oneplus,OnePlus 9,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,256,12,167.62,2021
+487811741,xiaomi,Xiaomi Redmi Note 11S,Mediatek MT6781 Helio G96 (12 nm),Mali-G57 MC2,128,6,159.99,2022
+488543133,xiaomi,Xiaomi Poco X6 Pro,Mediatek Dimensity 8300 Ultra (4 nm),Mali G615-MC6,512,12,245.71,2024
+488723389,google,Google Pixel 6 Pro,Google Tensor (5 nm),Mali-G78 MP20,512,12,269.99,2021
+489273154,samsung,Samsung Galaxy A23,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,64,6,189.99,2022
+489284857,realme,Realme C53,Unisoc Tiger T612 (12 nm),Mali-G57,256,8,155.36,2023
+491255345,motorola,Motorola Moto G31,Mediatek MT6769Z Helio G85 (12 nm),Mali-G52 MC2,128,4,116.05,2021
+491274453,samsung,Samsung Galaxy A13,Exynos 850 (8 nm),Mali-G52,64,4,109.9,2022
+492292409,oneplus,OnePlus 9 Pro,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,256,8,550,2021
+492758982,xiaomi,Xiaomi Redmi Note 12 4G,Qualcomm SM6225 Snapdragon 685 (6 nm),Adreno 610,128,6,116.46,2023
+493811801,asus,Asus ROG Phone 7,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,16,850.2,2023
+494054495,xiaomi,Xiaomi Redmi Note 10S,Mediatek MT6785V/CD Helio G95 (12 nm),Mali-G76 MC4,128,4,161,2021
+494196022,xiaomi,Xiaomi Poco F4,Qualcomm SM8250-AC Snapdragon 870 5G (7 nm),Adreno 650,128,8,249.29,2022
+495461220,samsung,Samsung Galaxy A51,Exynos 9611 (10 nm),Mali-G72 MP3,128,4,122.64,2019
+496539493,xiaomi,Xiaomi Redmi Note 11 Pro 5G,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,8,170,2022
+498427086,apple,Apple iPhone 16 Plus,Apple A18 (3 nm),Apple GPU (5-core graphics),256,8,899,2024
+498560250,samsung,Samsung Galaxy A14,Mediatek MT6769 Helio G80 (12 nm) - Version A,Mali-G52 MC2,128,6,141.59,2023
+499014852,samsung,Samsung Galaxy S21 Ultra 5G,Exynos 2100 (5 nm) - International,Mali-G78 MP14 - International,512,12,342.64,2021
+499351700,oneplus,OnePlus 9,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,256,12,289.95,2021
+500038859,realme,Realme 11 Pro+,Mediatek Dimensity 7050 (6 nm),Mali-G68 MC4,256,12,436.49,2023
+500825093,xiaomi,Xiaomi Redmi 10 2022,Mediatek MT6769H Helio G88 (12 nm),Mali-G52 MC2,128,4,107.99,2022
+501824156,oneplus,OnePlus Nord 3,Mediatek Dimensity 9000 (4 nm),Mali-G710 MC10,256,16,331.36,2023
+501916165,xiaomi,Xiaomi Poco M6 4G,Mediatek Helio G91 Ultra (12 nm),Mali-G52 MC2,256,8,125,2024
+502400465,xiaomi,Xiaomi Redmi 12C,Mediatek MT6769Z Helio G85 (12 nm),Mali-G52 MC2,64,3,81.76,2023
+503550256,xiaomi,Xiaomi Redmi Note 9 Pro,Qualcomm SM7125 Snapdragon 720G (8 nm),Adreno 618,128,6,172.99,2020
+503575332,samsung,Samsung Galaxy A13 5G,Mediatek Dimensity 700 (7 nm),Mali-G57 MC2,128,4,79,2021
+503724586,apple,Apple iPhone 13,Apple A15 Bionic (5 nm),Apple GPU (4-core graphics),256,4,348,2021
+504427495,samsung,Samsung Galaxy A53 5G,Exynos 1280 (5 nm),Mali-G68,128,8,412.61,2022
+505052832,xiaomi,Xiaomi Mi 11 Pro,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,256,8,254.9,2021
+505748227,samsung,Samsung Galaxy A12,Mediatek MT6765 Helio P35 (12 nm),PowerVR GE8320,64,4,74,2020
+506078077,asus,Asus ROG Phone 8,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Adreno 750,256,16,799.99,2024
+506697890,xiaomi,Xiaomi Redmi 9T,Qualcomm SM6115 Snapdragon 662 (11 nm),Adreno 610,128,4,100.99,2021
+507150918,samsung,Samsung Galaxy A25,Exynos 1280 (5 nm),Mali-G68,256,8,159.95,2023
+507192208,motorola,Motorola Edge 50 Pro,Qualcomm SM7550-AB Snapdragon 7 Gen 3 (4 nm),Adreno 720,512,12,504.47,2024
+508741737,samsung,Samsung Galaxy A22,Mediatek MT6769V/CU Helio G80 (12 nm),Mali-G52 MC2,128,4,122.78,2021
+509553091,google,Google Pixel 8,Google Tensor G3 (4 nm),Immortalis-G715s MC10,256,8,349,2023
+512229958,apple,Apple iPhone XR,Apple A12 Bionic (7 nm),Apple GPU (4-core graphics),128,3,160,2018
+512319210,xiaomi,Xiaomi 13 Ultra,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,12,1349,2023
+514450860,samsung,Samsung Galaxy Z Flip3 5G,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,256,8,241,2021
+514482221,sony,Sony Xperia 10 III,Qualcomm SM6350 Snapdragon 690 5G (8 nm),Adreno 619,256,6,219,2021
+514503205,honor,Honor X7,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,128,6,144.57,2022
+514618639,samsung,Samsung Galaxy A35,Exynos 1380 (5 nm),Mali-G68 MP5,256,8,248.87,2024
+515136524,motorola,Motorola Edge (2022),MediaTek Dimensity 1050 (6 nm),Arm Mali-G610 MC3,256,8,99.99,2022
+515769637,xiaomi,Xiaomi 12,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),Adreno 730,256,12,215.88,2021
+516637376,apple,Apple iPhone 13 Pro,Apple A15 Bionic (5 nm),Apple GPU (5-core graphics),1024,6,693.61,2021
+516838615,samsung,Samsung Galaxy A02,Mediatek MT6739W (28 nm),PowerVR GE8100,32,3,139.9,2021
+517020929,xiaomi,Xiaomi Poco X4 GT,Mediatek Dimensity 8100 (5 nm),Mali-G610 MC6,256,8,199.99,2022
+517680944,honor,Honor 70,Qualcomm SM7325-AE Snapdragon 778G+ 5G (6 nm),Adreno 642L,256,8,274.31,2022
+517957169,samsung,Samsung Galaxy M53,Mediatek Dimensity 900 (6 nm),Mali-G68 MC4,128,8,389.99,2022
+518157613,motorola,Motorola Edge 20 Pro,Qualcomm SM8250-AC Snapdragon 870 5G (7 nm),Adreno 650,128,8,410,2021
+518306355,motorola,Motorola Razr 40 Ultra,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,256,12,309.95,2023
+518898711,honor,Honor Magic5 Lite,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,256,8,229.99,2023
+520154009,sony,Sony Xperia 1 V,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,12,972.05,2023
+520301083,huawei,Huawei nova 12i,Qualcomm Snapdragon 680 4G (6 nm),Adreno 610,256,8,199.95,2024
+520347257,realme,Realme 11 Pro,Mediatek Dimensity 7050 (6 nm),Mali-G68 MC4,256,12,334.89,2023
+520378196,motorola,Motorola Moto G (2022),Mediatek Dimensity 700 (7 nm),Mali-G57 MC2,256,6,147.99,2022
+520850220,motorola,Motorola Razr 50 Ultra,Qualcomm SM8635 Snapdragon 8s Gen 3 (4 nm),Adreno 735,256,12,804.18,2024
+521058495,samsung,Samsung Galaxy S10+,Exynos 9820 (8 nm) - EMEA/LATAM,Mali-G76 MP12 - EMEA/LATAM,512,8,245.6,2019
+521211000,samsung,Samsung Galaxy S24 FE,Exynos 2400e (4 nm),Xclipse 940,512,8,809,2024
+521286601,samsung,Samsung Galaxy A72,Qualcomm SM7125 Snapdragon 720G (8 nm),Adreno 618,256,6,789.99,2021
+521302084,samsung,Samsung Galaxy A04s,Exynos 850 (8 nm),Mali-G52,64,4,78.94,2022
+524631626,realme,Realme 10,Mediatek Helio G99 (6 nm),Mali-G57 MC2,128,4,237.99,2022
+524689665,xiaomi,Xiaomi Redmi 13C,Mediatek MT6769Z Helio G85 (12 nm),Mali-G52 MC2,256,8,132.27,2023
+524973384,oneplus,OnePlus Nord 2T,Mediatek Dimensity 1300 (6 nm),Mali-G77 MC9,256,12,214.99,2022
+525294408,xiaomi,Xiaomi Redmi 9C,Mediatek MT6765G Helio G35 (12 nm),PowerVR GE8320,32,3,64.8,2020
+526722896,xiaomi,Xiaomi Poco X6 Pro,Mediatek Dimensity 8300 Ultra (4 nm),Mali G615-MC6,512,12,321.99,2024
+527535467,motorola,Motorola Moto G 5G,Qualcomm SM7225 Snapdragon 750G 5G (8 nm),Adreno 619,128,2,84.74,2020
+529628858,samsung,Samsung Galaxy S22 Ultra 5G,Exynos 2200 (4 nm) - Europe,Xclipse 920 - Europe,1024,12,445,2022
+531275310,samsung,Samsung Galaxy A23 5G,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,64,6,190.99,2022
+531339681,samsung,Samsung Galaxy A05,Mediatek Helio G85 (12 nm),Mali-G52 MC2,128,6,84.3,2023
+531388069,samsung,Samsung Galaxy A22,Mediatek MT6769V/CU Helio G80 (12 nm),Mali-G52 MC2,128,4,149.99,2021
+533746840,asus,Asus ROG Phone 7,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,16,558.9,2023
+533867071,xiaomi,Xiaomi Poco M5s,Mediatek MT6785V/CD Helio G95 (12 nm),Mali-G76 MC4,128,6,179.99,2022
+533877394,xiaomi,Xiaomi Redmi 9,Mediatek MT6769V/CU Helio G80 (12 nm),Mali-G52 MC2,64,4,66.11,2020
+534128197,motorola,Motorola Moto G53,Qualcomm SM4350-AC Snapdragon 480+ 5G (8 nm),Adreno 619,128,4,109,2022
+534427919,realme,Realme C35,Unisoc Tiger T616 (12 nm),Mali-G57 MP1,64,6,149,2022
+534852772,samsung,Samsung Galaxy S24,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm) - USA/Canada/China,Adreno 750 (1 GHz) - USA/Canada/China,256,8,619,2024
+535480612,samsung,Samsung Galaxy M12,Exynos 850 (8 nm),Mali-G52,32,4,170.63,2021
+535609986,apple,Apple iPhone 11 Pro Max,Apple A13 Bionic (7 nm+),Apple GPU (4-core graphics),256,4,285,2019
+536349747,xiaomi,Xiaomi 14 Ultra,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Adreno 750,512,16,1075,2024
+537671501,apple,Apple iPhone 11,Apple A13 Bionic (7 nm+),Apple GPU (4-core graphics),128,4,192.24,2019
+537692874,apple,Apple iPhone 12 Pro,Apple A14 Bionic (5 nm),Apple GPU (4-core graphics),256,6,424,2020
+538582132,samsung,Samsung Galaxy Note10+,Exynos 9825 (7 nm) - EMEA/LATAM,Mali-G76 MP12 - EMEA/LATAM,512,12,278,2019
+538686973,xiaomi,Xiaomi Redmi 13,Mediatek Helio G91 Ultra (12 nm),Mali-G52 MC2,256,8,159,2024
+539478536,samsung,Samsung Galaxy A14 5G,Exynos 1330 (5 nm) - SM-A146B,Mali-G68 MP2 - SM-A146B,128,4,139,2023
+539504348,google,Google Pixel 9 Pro,Google Tensor G4 (4 nm),Mali-G715 MC7,256,16,1017.53,2024
+539862593,samsung,Samsung Galaxy A02,Mediatek MT6739W (28 nm),PowerVR GE8100,32,3,149.99,2021
+540255381,motorola,Motorola Edge 50 Fusion,Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm) - International,Adreno 710,256,8,450,2024
+540840022,sony,Sony Xperia 5 IV,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),Adreno 730,256,8,629.95,2022
+542682501,xiaomi,Xiaomi 12X,Qualcomm SM8250-AC Snapdragon 870 5G (7 nm),Adreno 650,256,8,423.11,2021
+543493512,samsung,Samsung Galaxy A52s 5G,Qualcomm SM7325 Snapdragon 778G 5G (6 nm),Adreno 642L,128,6,129,2021
+544251084,xiaomi,Xiaomi Redmi Note 11,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,64,6,126.99,2022
+544628459,realme,Realme Narzo 50A Prime,Unisoc Tiger T612 (12 nm),Mali-G57,128,4,71.65,2022
+544954417,google,Google Pixel Fold,Google Tensor G2 (5 nm),Mali-G710 MP7,512,12,1179.22,2023
+545051631,samsung,Samsung Galaxy S23 Ultra,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),Adreno 740,256,12,759.99,2023
+545313727,vivo,vivo X100 Pro,Mediatek Dimensity 9300 (4 nm),Immortalis-G720 MC12,256,16,759.99,2023
+545425895,samsung,Samsung Galaxy S21 Ultra 5G,Exynos 2100 (5 nm) - International,Mali-G78 MP14 - International,512,12,508.19,2021
+545769540,google,Google Pixel 8 Pro,Google Tensor G3 (4 nm),Immortalis-G715s MC10,256,12,600.22,2023
+545819409,xiaomi,Xiaomi Redmi A3,Mediatek Helio G36 (12 nm),PowerVR GE8320,128,6,99,2024
+546001047,oneplus,OnePlus 12R,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,256,16,558.8,2024
+547093496,apple,Apple iPhone 16 Pro,Apple A18 Pro (3 nm),Apple GPU (6-core graphics),256,8,1099,2024
+547438922,samsung,Samsung Galaxy A14 5G,Exynos 1330 (5 nm) - SM-A146B,Mali-G68 MP2 - SM-A146B,128,4,199.99,2023
+547507865,apple,Apple iPhone 12 Pro Max,Apple A14 Bionic (5 nm),Apple GPU (4-core graphics),256,6,485.92,2020
+549030440,samsung,Samsung Galaxy S21 Ultra 5G,Exynos 2100 (5 nm) - International,Mali-G78 MP14 - International,256,12,470.89,2021
+549626277,samsung,Samsung Galaxy M55,Qualcomm SM7450-AB Snapdragon 7 Gen 1 (4 nm),Adreno 644,256,8,326.98,2024
+549701847,oneplus,OnePlus 10T,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,256,12,208.23,2022
+549781607,xiaomi,Xiaomi Poco X6,Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm),Adreno 710,256,12,242.99,2024
+551327708,realme,Realme C55,Mediatek MT6769H Helio G88 (12 nm),Mali-G52 MC2,256,8,275,2023
+552198826,motorola,Motorola Edge 30 Fusion,Qualcomm SM8350 Snapdragon 888+ 5G (5 nm),Adreno 660,256,8,215.76,2022
+552813066,samsung,Samsung Galaxy S20+ 5G,Exynos 990 (7 nm+) - Global,Mali-G77 MP11 - Global,128,12,196,2020
+553236231,samsung,Samsung Galaxy A03s,Mediatek MT6765 Helio P35 (12 nm),PowerVR GE8320,32,4,130,2021
+553326069,nokia,Nokia C21 Plus,Unisoc SC9863A (28 nm),IMG8322,64,3,169.9,2022
+554720139,motorola,Motorola Edge 30 Ultra,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,256,8,895,2022
+554747779,samsung,Samsung Galaxy Z Flip3 5G,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,256,8,322,2021
+555323799,samsung,Samsung Galaxy Z Flip4,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,256,8,999.99,2022
+555812873,samsung,Samsung Galaxy A12,Mediatek MT6765 Helio P35 (12 nm),PowerVR GE8320,64,4,135,2020
+555867578,huawei,Huawei Mate 50 Pro,Qualcomm SM8475 Snapdragon 8+ Gen 1 4G (4 nm),Adreno 730,512,8,699.99,2022
+556131632,honor,Honor Magic6 Pro,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Adreno 750,512,12,845,2024
+556369804,samsung,Samsung Galaxy S23 FE,Exynos 2200 (4 nm) - International,Xclipse 920 - International,256,8,269.99,2023
+556376603,honor,Honor Magic V3,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Adreno 750,512,16,1459,2024
+556587818,xiaomi,Xiaomi Poco X6 Pro,Mediatek Dimensity 8300 Ultra (4 nm),Mali G615-MC6,256,12,282.5,2024
+556658910,xiaomi,Xiaomi Redmi Note 13,Mediatek Dimensity 6080 (6 nm),Mali-G57 MC2,256,8,198.97,2024
+556686998,xiaomi,Xiaomi 11 Lite 5G NE,Qualcomm SM7325 Snapdragon 778G 5G (6 nm),Adreno 642L,256,8,134.99,2021
+557288516,samsung,Samsung Galaxy A52 5G,Qualcomm SM7225 Snapdragon 750G 5G (8 nm),Adreno 619,128,8,139.7,2021
+557648261,samsung,Samsung Galaxy A71,Qualcomm SDM730 Snapdragon 730 (8 nm) - Global,Adreno 618,128,8,124.99,2020
+558132108,google,Google Pixel 9 Pro XL,Google Tensor G4 (4 nm),Mali-G715 MC7,1024,16,1388.87,2024
+558797907,xiaomi,Xiaomi Mi 10T Pro 5G,Qualcomm SM8250 Snapdragon 865 5G (7 nm+),Adreno 650,256,8,149.99,2020
+560008111,oppo,Oppo Reno5 5G,Qualcomm SM7250 Snapdragon 765G 5G (7 nm),Adreno 620,256,12,269,2021
+560627233,google,Google Pixel 9,Google Tensor G4 (4 nm),Mali-G715 MC7,256,12,754.99,2024
+560628816,motorola,Motorola ThinkPhone,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,256,8,775,2023
+563166227,xiaomi,Xiaomi Redmi Note 10 5G,Mediatek Dimensity 700 (7 nm),Mali-G57 MC2,128,6,108,2021
+563737651,apple,Apple iPhone 16 Plus,Apple A18 (3 nm),Apple GPU (5-core graphics),256,8,1099,2024
+564026543,apple,Apple iPhone 12 Pro Max,Apple A14 Bionic (5 nm),Apple GPU (4-core graphics),512,6,500,2020
+564363902,xiaomi,Xiaomi Redmi Note 12S,Mediatek MT6781 Helio G96 (12 nm),Mali-G57 MC2,256,8,156,2023
+564904951,xiaomi,Xiaomi Poco C40,JLQ JR510 (11 nm),Mali-G57 MC1,64,4,108,2022
+566067736,google,Google Pixel 4 XL,Qualcomm SM8150 Snapdragon 855 (7 nm),Adreno 640,128,6,183.8,2019
+566074377,xiaomi,Xiaomi Redmi 9,Mediatek MT6769V/CU Helio G80 (12 nm),Mali-G52 MC2,64,4,146.65,2020
+566150161,realme,Realme 11,Mediatek Dimensity 6100+ (6 nm),Mali-G57 MC2,256,8,229,2023
+566833970,motorola,Motorola Moto G04s,Unisoc T606 (12 nm),Mali-G57 MP1,128,4,92.06,2024
+570308858,zte,ZTE nubia Red Magic 9S Pro,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm),Adreno 750 (1 GHz),512,16,659,2024
+573423056,realme,Realme 12+,Mediatek Dimensity 7050 (6 nm),Mali-G68 MC4,256,8,452.73,2024
+574394075,xiaomi,Xiaomi Redmi 9C,Mediatek MT6765G Helio G35 (12 nm),PowerVR GE8320,64,4,125.96,2020
+576034209,nokia,Nokia G60,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,4,249.93,2022
+576673811,xiaomi,Xiaomi Redmi Note 11S,Mediatek MT6781 Helio G96 (12 nm),Mali-G57 MC2,128,8,139.99,2022
+576717262,oppo,Oppo Find X5 Pro,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm) - Global,Adreno 730 - Global,256,12,225,2022
+577290613,xiaomi,Xiaomi Redmi Note 13,Mediatek Dimensity 6080 (6 nm),Mali-G57 MC2,256,12,212.5,2024
+578586362,samsung,Samsung Galaxy A54,Exynos 1380 (5 nm),Mali-G68 MP5,128,8,285,2023
+578738148,apple,Apple iPhone 15,Apple A16 Bionic (4 nm),Apple GPU (5-core graphics),256,6,571.5,2023
+579825835,samsung,Samsung Galaxy S24,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm) - USA/Canada/China,Adreno 750 (1 GHz) - USA/Canada/China,512,8,614.5,2024
+580634609,apple,Apple iPhone 14 Pro Max,Apple A16 Bionic (4 nm),Apple GPU (5-core graphics),256,6,999.99,2022
+581170310,blackview,Blackview A96,Mediatek Helio G99 (6 nm),Mali-G57 MC2,256,12,228.08,2023
+581171723,samsung,Samsung Galaxy A23,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,64,6,147.99,2022
+581314025,nokia,Nokia G60,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,4,400,2022
+581789211,apple,Apple iPhone 15 Plus,Apple A16 Bionic (4 nm),Apple GPU (5-core graphics),512,6,726.75,2023
+582690717,xiaomi,Xiaomi Mi 10 5G,Qualcomm SM8250 Snapdragon 865 5G (7 nm+),Adreno 650,256,8,300.38,2020
+582776775,xiaomi,Xiaomi Redmi Note 9,Mediatek MT6769Z Helio G85 (12 nm),Mali-G52 MC2,64,4,116.72,2020
+582987757,xiaomi,Xiaomi Redmi 9T,Qualcomm SM6115 Snapdragon 662 (11 nm),Adreno 610,128,4,89.99,2021
+583333160,samsung,Samsung Galaxy A15 5G,Mediatek Dimensity 6100+ (6 nm),Mali-G57 MC2,128,6,149.1,2023
+584043730,xiaomi,Xiaomi Poco M5s,Mediatek MT6785V/CD Helio G95 (12 nm),Mali-G76 MC4,128,6,139.1,2022
+584735781,vivo,vivo X100,Mediatek Dimensity 9300 (4 nm),Immortalis-G720 MC12,256,16,584.79,2023
+586698524,huawei,Huawei nova 8i,Qualcomm SM6115 Snapdragon 662 (11 nm),Adreno 610,128,8,197.16,2021
+586861300,nokia,Nokia C21 Plus,Unisoc SC9863A (28 nm),IMG8322,32,3,90.71,2022
+587065183,xiaomi,Xiaomi Redmi Note 13 4G,Qualcomm SM6225 Snapdragon 685 (6 nm),Adreno 610,256,8,169.99,2024
+587960050,motorola,Motorola Moto G42,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,128,4,345,2022
+588158989,samsung,Samsung Galaxy S20 Ultra 5G,Exynos 990 (7 nm+) - Global,Mali-G77 MP11 - Global,512,16,499,2020
+588434518,nokia,Nokia G22,Unisoc T606 (12 nm),Mali-G57 MP1,128,4,190.16,2023
+589790167,oneplus,OnePlus Nord 2 5G,Mediatek Dimensity 1200 (6 nm),Mali-G77 MC9,128,8,185,2021
+590344398,xiaomi,Xiaomi 12X,Qualcomm SM8250-AC Snapdragon 870 5G (7 nm),Adreno 650,256,8,360.72,2021
+590561975,oppo,Oppo Find X5 Pro,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm) - Global,Adreno 730 - Global,256,12,378.88,2022
+591954627,vivo,vivo iQOO 12,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Adreno 750,1024,16,596.99,2023
+592669979,sony,Sony Xperia 1 IV,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),Adreno 730,512,12,639.95,2022
+593397704,zte,ZTE nubia Red Magic 9S Pro,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm),Adreno 750 (1 GHz),512,16,749,2024
+593952953,xiaomi,Xiaomi Redmi Note 11 4G,Mediatek MT6769H Helio G88 (12 nm),Mali-G52 MC2,128,6,204.99,2021
+594493920,samsung,Samsung Galaxy S21 FE 5G,Qualcomm SM8350 Snapdragon 888 5G (5 nm) - Version 1,Adreno 660 - Version 1,128,8,150,2022
+594509637,xiaomi,Xiaomi Redmi Note 10 Pro,Qualcomm SM7150 Snapdragon 732G (8 nm),Adreno 618,128,6,173.23,2021
+595017448,samsung,Samsung Galaxy A22,Mediatek MT6769V/CU Helio G80 (12 nm),Mali-G52 MC2,128,6,155.84,2021
+595812147,samsung,Samsung Galaxy A05s,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,128,6,100,2023
+596155487,oneplus,OnePlus 7T,Qualcomm SM8150 Snapdragon 855+ (7 nm),Adreno 640 (700 MHz),256,8,143,2019
+596441688,apple,Apple iPhone 14 Pro Max,Apple A16 Bionic (4 nm),Apple GPU (5-core graphics),256,6,686.07,2022
+596571915,xiaomi,Xiaomi Redmi Note 11 4G,Mediatek MT6769H Helio G88 (12 nm),Mali-G52 MC2,128,6,88,2021
+597367869,apple,Apple iPhone 15 Pro Max,Apple A17 Pro (3 nm),Apple GPU (6-core graphics),512,8,788.95,2023
+597595423,apple,Apple iPhone 11 Pro Max,Apple A13 Bionic (7 nm+),Apple GPU (4-core graphics),256,4,361.69,2019
+598149866,samsung,Samsung Galaxy S10,Exynos 9820 (8 nm) - EMEA/LATAM,Mali-G76 MP12 - EMEA/LATAM,128,8,169.99,2019
+598412182,realme,Realme GT Neo 3,Mediatek Dimensity 8100 (5 nm),Mali-G610 MC6,256,8,589.99,2022
+598962967,xiaomi,Xiaomi Mi 10 5G,Qualcomm SM8250 Snapdragon 865 5G (7 nm+),Adreno 650,256,6,286.8,2020
+599894312,motorola,Motorola Moto G Stylus 5G (2022),Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,6,299.99,2022
+600731016,xiaomi,Xiaomi Poco X4 Pro 5G,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,6,334.99,2022
+602142829,xiaomi,Xiaomi Redmi Note 13 Pro 4G,Mediatek Helio G99 Ultra,Mali-G57 MC2,256,8,253,2024
+603744750,samsung,Samsung Galaxy S9,Exynos 9810 (10 nm) - EMEA,Mali-G72 MP18 - EMEA,128,4,130,2018
+605884867,xiaomi,Xiaomi Poco X5 Pro,Qualcomm SM7325 Snapdragon 778G 5G (6 nm),Adreno 642L,256,8,229,2023
+606578170,nothing,Nothing Phone (2),Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,256,12,572,2023
+606967172,samsung,Samsung Galaxy A12 Nacho,Exynos 850 (8 nm),Mali-G52,32,4,121.83,2021
+608991425,motorola,Motorola Moto G23,Mediatek MT6769Z Helio G85 (12 nm),Mali-G52 MC2,128,8,139.99,2023
+609363620,xiaomi,Xiaomi Poco M3,Qualcomm SM6115 Snapdragon 662 (11 nm),Adreno 610,128,4,152.99,2020
+609366231,oneplus,OnePlus 9RT 5G,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,256,8,419.99,2021
+609451006,xiaomi,Xiaomi Redmi Note 12 Pro,Mediatek Dimensity 1080 (6 nm),Mali-G68 MC4,256,12,219,2022
+609954763,apple,Apple iPhone 13,Apple A15 Bionic (5 nm),Apple GPU (4-core graphics),512,4,499,2021
+610877488,zte,ZTE nubia Flip,Qualcomm SM7450-AB Snapdragon 7 Gen 1 (4 nm),Adreno 644,256,8,446.99,2024
+611084450,google,Google Pixel 9 Pro Fold,Google Tensor G4 (4 nm),Mali-G715 MC7,512,16,1799,2024
+613446948,honor,Honor X8a,Mediatek MT6769H Helio G88 (12 nm),Mali-G52 MC2,128,8,175,2023
+613776370,google,Google Pixel 8 Pro,Google Tensor G3 (4 nm),Immortalis-G715s MC10,256,12,999,2023
+614220572,motorola,Motorola Edge 40 Pro,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,12,1293.66,2023
+616483766,motorola,Motorola Edge 30 Fusion,Qualcomm SM8350 Snapdragon 888+ 5G (5 nm),Adreno 660,256,12,1080.67,2022
+616518235,samsung,Samsung Galaxy S23 Ultra,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),Adreno 740,256,12,639.95,2023
+616854685,samsung,Samsung Galaxy S23 Ultra,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,12,999.99,2023
+616997513,samsung,Samsung Galaxy A23 5G,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,4,145,2022
+617274844,samsung,Samsung Galaxy M35,Exynos 1380 (5 nm),Mali-G68 MP5,256,8,231,2024
+617670206,oneplus,OnePlus 12R,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,256,16,429.99,2024
+618064575,samsung,Samsung Galaxy A23 5G,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,64,6,100,2022
+618898190,samsung,Samsung Galaxy S24 Ultra,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm),Adreno 750 (1 GHz),512,12,1019,2024
+621362975,samsung,Samsung Galaxy A73 5G,Qualcomm SM7325 Snapdragon 778G 5G (6 nm),Adreno 642L,128,8,599,2022
+621902257,xiaomi,Xiaomi Poco F6 Pro,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,1024,16,481.49,2024
+623535695,xiaomi,Xiaomi Redmi 10C,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,128,4,129.99,2022
+624172752,huawei,Huawei Mate X3,Qualcomm SM8475 Snapdragon 8+ Gen 1 4G (4 nm),Adreno 730,512,12,2179.46,2023
+624494164,samsung,Samsung Galaxy Z Fold5,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,12,1799.99,2023
+624890070,oneplus,OnePlus 8,Qualcomm SM8250 Snapdragon 865 5G (7 nm+),Adreno 650,256,12,499.95,2020
+625055999,realme,Realme 11 Pro,Mediatek Dimensity 7050 (6 nm),Mali-G68 MC4,256,8,170.04,2023
+627259111,realme,Realme C53,Unisoc Tiger T612 (12 nm),Mali-G57,256,8,132.89,2023
+628450791,samsung,Samsung Galaxy A52 5G,Qualcomm SM7225 Snapdragon 750G 5G (8 nm),Adreno 619,256,8,266.74,2021
+629522948,samsung,Samsung Galaxy Z Flip6,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm),Adreno 750 (1 GHz),512,12,1099.99,2024
+629903375,motorola,Motorola Edge 30 Neo,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,8,410,2022
+629951359,huawei,Huawei P30,Kirin 980 (7 nm),Mali-G76 MP10,128,6,139.52,2019
+630110247,samsung,Samsung Galaxy S22 Ultra 5G,Exynos 2200 (4 nm) - Europe,Xclipse 920 - Europe,256,12,421.86,2022
+631351303,xiaomi,Xiaomi Mi 11 Lite 5G,Qualcomm SM7350-AB Snapdragon 780G (5 nm),Adreno 642,128,8,121.99,2021
+631417562,xiaomi,Xiaomi Redmi Note 9,Mediatek MT6769Z Helio G85 (12 nm),Mali-G52 MC2,128,4,85.5,2020
+631668834,samsung,Samsung Galaxy A12,Mediatek MT6765 Helio P35 (12 nm),PowerVR GE8320,128,3,120,2020
+631965982,apple,Apple iPhone X,Apple A11 Bionic (10 nm),Apple GPU (three-core graphics),256,3,213.85,2017
+632295066,apple,Apple iPhone 15 Pro Max,Apple A17 Pro (3 nm),Apple GPU (6-core graphics),1024,8,1056.99,2023
+632356883,samsung,Samsung Galaxy A35,Exynos 1380 (5 nm),Mali-G68 MP5,128,8,172,2024
+632624100,google,Google Pixel 4 XL,Qualcomm SM8150 Snapdragon 855 (7 nm),Adreno 640,128,6,152.49,2019
+632970110,xiaomi,Xiaomi Redmi Note 11S 5G,Mediatek Dimensity 810 (6 nm),Mali-G57 MC2,128,4,123.12,2022
+633757096,google,Google Pixel 7 Pro,Google Tensor G2 (5 nm),Mali-G710 MP7,256,12,276.83,2022
+634521731,apple,Apple iPhone 14 Pro,Apple A16 Bionic (4 nm),Apple GPU (5-core graphics),1024,6,943.28,2022
+635336329,apple,Apple iPhone 15 Pro,Apple A17 Pro (3 nm),Apple GPU (6-core graphics),512,8,788.5,2023
+635351905,google,Google Pixel 6,Google Tensor (5 nm),Mali-G78 MP20,256,8,199.08,2021
+635653452,apple,Apple iPhone 13 Pro,Apple A15 Bionic (5 nm),Apple GPU (5-core graphics),1024,6,662.54,2021
+636520402,realme,Realme 6 Pro,Qualcomm SM7125 Snapdragon 720G (8 nm),Adreno 618,128,6,539,2020
+637463971,xiaomi,Xiaomi Poco M3,Qualcomm SM6115 Snapdragon 662 (11 nm),Adreno 610,64,6,160,2020
+637837451,honor,Honor 70,Qualcomm SM7325-AE Snapdragon 778G+ 5G (6 nm),Adreno 642L,256,8,210.98,2022
+638265377,xiaomi,Xiaomi Redmi 10,Mediatek MT6769H Helio G88 (12 nm),Mali-G52 MC2,128,4,105,2021
+638439666,apple,Apple iPhone 15 Pro Max,Apple A17 Pro (3 nm),Apple GPU (6-core graphics),512,8,867,2023
+638659168,motorola,Motorola Moto G73,Mediatek Dimensity 930 (6 nm),IMG BXM-8-256,256,8,148.75,2023
+639209801,samsung,Samsung Galaxy A22 5G,Mediatek Dimensity 700 (7 nm),Mali-G57 MC2,128,4,235,2021
+639481861,google,Google Pixel 6 Pro,Google Tensor (5 nm),Mali-G78 MP20,256,12,169,2021
+639808913,samsung,Samsung Galaxy S24,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm) - USA/Canada/China,Adreno 750 (1 GHz) - USA/Canada/China,512,8,599.99,2024
+641317217,cubot,Cubot KingKong X,Mediatek Dimensity 7050 (6 nm),Mali-G68 MC4,512,16,208.79,2024
+641980355,oneplus,OnePlus 11,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,256,12,595,2023
+642122081,xiaomi,Xiaomi Mi 11 Lite 5G,Qualcomm SM7350-AB Snapdragon 780G (5 nm),Adreno 642,128,6,240.42,2021
+642709695,motorola,Motorola Edge 50 Neo,Mediatek Dimensity 7300 (4 nm),Mali-G615 MC2,512,12,460.86,2024
+643510458,xiaomi,Xiaomi Poco F4 GT,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),Adreno 730,256,12,360.72,2022
+643592445,sony,Sony Xperia 5 III,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,256,8,251.9,2021
+645458022,samsung,Samsung Galaxy Note20 Ultra 5G,Exynos 990 (7 nm+) - Global,Mali-G77 MP11 - Global,256,12,467.74,2020
+645513915,xiaomi,Xiaomi Redmi Note 12S,Mediatek MT6781 Helio G96 (12 nm),Mali-G57 MC2,128,6,172.51,2023
+645971857,apple,Apple iPhone 15 Plus,Apple A16 Bionic (4 nm),Apple GPU (5-core graphics),512,6,649.99,2023
+646233498,apple,Apple iPhone 11 Pro Max,Apple A13 Bionic (7 nm+),Apple GPU (4-core graphics),256,4,254,2019
+646890658,nokia,Nokia G60,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,6,127.89,2022
+647465815,samsung,Samsung Galaxy S23,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),Adreno 740,256,8,496,2023
+648027859,xiaomi,Xiaomi Redmi Note 11,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,64,6,113.28,2022
+648985662,oneplus,OnePlus 10T,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,256,16,566.86,2022
+650077885,oneplus,OnePlus 10T,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,256,12,259.94,2022
+650148185,nokia,Nokia C21 Plus,Unisoc SC9863A (28 nm),IMG8322,32,3,79,2022
+651386667,oppo,Oppo Find X3 Neo,Qualcomm SM8250 Snapdragon 865 5G (7 nm+),Adreno 650,256,12,302.04,2021
+651506455,realme,Realme C65,Mediatek Helio G85 (12 nm),Mali-G52 MC2,128,8,126.74,2024
+651518188,apple,Apple iPhone 13 Pro Max,Apple A15 Bionic (5 nm),Apple GPU (5-core graphics),256,6,494,2021
+651768024,motorola,Motorola Moto G Stylus 5G (2022),Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,256,8,249.99,2022
+652690665,samsung,Samsung Galaxy S21 5G,Exynos 2100 (5 nm) - International,Mali-G78 MP14 - International,256,8,190,2021
+652948036,vivo,vivo V30,Qualcomm SM7550-AB Snapdragon 7 Gen 3 (4 nm),Adreno 720,256,8,696.99,2024
+653240821,apple,Apple iPhone 11,Apple A13 Bionic (7 nm+),Apple GPU (4-core graphics),128,4,208,2019
+655270910,xiaomi,Xiaomi Redmi Note 11S,Mediatek MT6781 Helio G96 (12 nm),Mali-G57 MC2,128,6,132.99,2022
+656211891,honor,Honor X7a,Mediatek MT6765H Helio G37 (12 nm),PowerVR GE8320,128,6,139.99,2023
+656317622,realme,Realme 12 Pro+,Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm),Adreno 710,256,8,534.98,2024
+656421964,samsung,Samsung Galaxy S9,Exynos 9810 (10 nm) - EMEA,Mali-G72 MP18 - EMEA,128,4,98.49,2018
+657446844,google,Google Pixel 8 Pro,Google Tensor G3 (4 nm),Immortalis-G715s MC10,512,12,1059,2023
+657576450,xiaomi,Xiaomi Poco X4 GT,Mediatek Dimensity 8100 (5 nm),Mali-G610 MC6,256,8,188.99,2022
+658071252,samsung,Samsung Galaxy S10,Exynos 9820 (8 nm) - EMEA/LATAM,Mali-G76 MP12 - EMEA/LATAM,512,8,259,2019
+658743111,samsung,Samsung Galaxy S9+,Exynos 9810 (10 nm) - EMEA,Mali-G72 MP18 - EMEA,256,6,309.04,2018
+658776592,motorola,Motorola Moto G34,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,8,116.49,2023
+658905526,google,Google Pixel 9 Pro XL,Google Tensor G4 (4 nm),Mali-G715 MC7,256,16,1099,2024
+659278551,motorola,Motorola Moto G22,Mediatek MT6765V/CB Helio G37 (12 nm),PowerVR GE8320,128,4,68.29,2022
+659647415,oneplus,OnePlus 10 Pro,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),Adreno 730,256,12,750,2022
+661169670,tcl,TCL 50 SE,Mediatek Helio G88 (12 nm),Mali-G52 MC2,256,6,163.88,2024
+661897825,apple,Apple iPhone 15 Plus,Apple A16 Bionic (4 nm),Apple GPU (5-core graphics),512,6,1029.99,2023
+662291990,oppo,Oppo Reno12 Pro,Mediatek Dimensity 7300 Energy (4 nm),Mali-G615 MC2,512,12,587.03,2024
+663037571,samsung,Samsung Galaxy Z Fold3 5G,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,512,12,378.75,2021
+663133556,honor,Honor X6,Mediatek MT6762G Helio G25 (12 nm),PowerVR GE8320,128,4,177.99,2022
+663625213,motorola,Motorola Moto G32,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,128,6,129.9,2022
+663697738,google,Google Pixel 4 XL,Qualcomm SM8150 Snapdragon 855 (7 nm),Adreno 640,128,6,121.99,2019
+664094700,apple,Apple iPhone 15,Apple A16 Bionic (4 nm),Apple GPU (5-core graphics),256,6,525.98,2023
+664872528,apple,Apple iPhone 15 Pro,Apple A17 Pro (3 nm),Apple GPU (6-core graphics),256,8,999.99,2023
+665845093,honor,Honor 90,Qualcomm Snapdragon 7 Gen 1 Accelerated Edition (4 nm),Adreno 644,512,12,292.49,2023
+665985076,samsung,Samsung Galaxy A54,Exynos 1380 (5 nm),Mali-G68 MP5,128,8,177.85,2023
+666212101,zte,ZTE nubia Z60 Ultra,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Adreno 750,256,12,584.99,2023
+666503258,xiaomi,Xiaomi Redmi Note 12 4G,Qualcomm SM6225 Snapdragon 685 (6 nm),Adreno 610,128,4,154.5,2023
+666699457,xiaomi,Xiaomi Redmi Note 12 4G,Qualcomm SM6225 Snapdragon 685 (6 nm),Adreno 610,128,6,150.49,2023
+667591390,motorola,Motorola Razr 40,Qualcomm SM7450-AB Snapdragon 7 Gen 1 (4 nm),Adreno 644,256,8,442.12,2023
+668476383,xiaomi,Xiaomi Redmi Note 12S,Mediatek MT6781 Helio G96 (12 nm),Mali-G57 MC2,128,6,154.99,2023
+668656077,realme,Realme 8,Mediatek MT6785V/CD Helio G95 (12 nm),Mali-G76 MC4,128,4,112.26,2021
+669462568,samsung,Samsung Galaxy S21 FE 5G,Qualcomm SM8350 Snapdragon 888 5G (5 nm) - Version 1,Adreno 660 - Version 1,256,8,499,2022
+670013031,samsung,Samsung Galaxy A02,Mediatek MT6739W (28 nm),PowerVR GE8100,32,3,78,2021
+670100751,samsung,Samsung Galaxy S24 Ultra,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm),Adreno 750 (1 GHz),512,12,769.97,2024
+671141257,xiaomi,Xiaomi Redmi 10 5G,Mediatek Dimensity 700 (7 nm),Mali-G57 MC2,128,4,127.92,2022
+671241527,nokia,Nokia C32,Unisoc SC9863A1 (22 nm),IMG8322,64,4,90.31,2023
+673037209,samsung,Samsung Galaxy Note20 5G,Exynos 990 (7 nm+) - Global,Mali-G77 MP11 - Global,256,8,699.99,2020
+673618981,samsung,Samsung Galaxy A14,Mediatek MT6769 Helio G80 (12 nm) - Version A,Mali-G52 MC2,128,4,129.99,2023
+674286939,samsung,Samsung Galaxy A13 (SM-A137),Mediatek MT6769V/CU Helio G80 (12 nm),Mali-G52 MC2,64,4,170.26,2022
+674435613,honor,Honor 200,Qualcomm SM7550-AB Snapdragon 7 Gen 3 (4 nm),Adreno 720,256,12,529.9,2024
+674617361,asus,Asus Zenfone 10,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,256,8,585.99,2023
+677241011,motorola,Motorola Moto G53,Qualcomm SM4350-AC Snapdragon 480+ 5G (8 nm),Adreno 619,128,4,295,2022
+677367894,xiaomi,Xiaomi Redmi 12,Mediatek MT6769H Helio G88 (12 nm),Mali-G52 MC2,128,8,103,2023
+678204941,realme,Realme C35,Unisoc Tiger T616 (12 nm),Mali-G57 MP1,64,6,129.99,2022
+679936245,samsung,Samsung Galaxy Z Fold5,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,12,1375,2023
+680934210,xiaomi,Xiaomi Redmi Note 10S,Mediatek MT6785V/CD Helio G95 (12 nm),Mali-G76 MC4,128,6,159.99,2021
+681033016,samsung,Samsung Galaxy A34,Mediatek Dimensity 1080 (6 nm),Mali-G68 MC4,256,8,201.99,2023
+681437116,samsung,Samsung Galaxy A32 5G,Mediatek Dimensity 720 (7 nm),Mali-G57 MC3,128,4,105,2021
+682376383,oppo,Oppo Reno7,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,256,8,239.99,2022
+682449355,samsung,Samsung Galaxy A13,Exynos 850 (8 nm),Mali-G52,128,4,114.99,2022
+682824326,oneplus,OnePlus Nord,Qualcomm SM7250 Snapdragon 765G 5G (7 nm),Adreno 620,256,12,197.21,2020
+682837473,xiaomi,Xiaomi Redmi 9,Mediatek MT6769V/CU Helio G80 (12 nm),Mali-G52 MC2,64,4,196.62,2020
+683621554,samsung,Samsung Galaxy Z Fold4,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,1024,12,560,2022
+684159710,apple,Apple iPhone XS Max,Apple A12 Bionic (7 nm),Apple GPU (4-core graphics),256,4,219.28,2018
+685238690,xiaomi,Xiaomi Poco F6 Pro,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,1024,16,411.69,2024
+685291402,samsung,Samsung Galaxy A03,Unisoc T606 (12 nm),Mali-G57 MP1,32,4,99,2022
+686048809,realme,Realme 12 Pro+,Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm),Adreno 710,256,8,370.72,2024
+687161258,xiaomi,Xiaomi Poco X6,Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm),Adreno 710,512,12,636,2024
+687861315,google,Google Pixel 7 Pro,Google Tensor G2 (5 nm),Mali-G710 MP7,256,12,899,2022
+688494333,realme,Realme C55,Mediatek MT6769H Helio G88 (12 nm),Mali-G52 MC2,256,8,109.27,2023
+689174681,oneplus,OnePlus 8 Pro,Qualcomm SM8250 Snapdragon 865 5G (7 nm+),Adreno 650,256,12,210,2020
+689376437,xiaomi,Xiaomi Redmi 13C,Mediatek MT6769Z Helio G85 (12 nm),Mali-G52 MC2,128,6,82.24,2023
+689828401,samsung,Samsung Galaxy A51 5G,Exynos 980 (8 nm),Mali-G76 MP5,128,8,119.95,2020
+689969961,xiaomi,Xiaomi Poco F3,Qualcomm SM8250-AC Snapdragon 870 5G (7 nm),Adreno 650,128,8,179.99,2021
+691224544,xiaomi,Xiaomi 13,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,256,8,627.62,2022
+691648182,xiaomi,Xiaomi Redmi Note 11 Pro 5G,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,6,160,2022
+691784202,xiaomi,Xiaomi Redmi A3,Mediatek Helio G36 (12 nm),PowerVR GE8320,128,4,84.5,2024
+692341553,apple,Apple iPhone 11 Pro Max,Apple A13 Bionic (7 nm+),Apple GPU (4-core graphics),512,4,341.96,2019
+692626268,apple,Apple iPhone XS Max,Apple A12 Bionic (7 nm),Apple GPU (4-core graphics),256,4,154,2018
+692659429,xiaomi,Xiaomi Redmi Note 13 4G,Qualcomm SM6225 Snapdragon 685 (6 nm),Adreno 610,256,8,161.91,2024
+693257572,oneplus,OnePlus Nord CE 2 Lite 5G,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,8,149,2022
+694001466,nokia,Nokia X30,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,256,8,279.89,2022
+694253087,xiaomi,Xiaomi Poco F2 Pro,Qualcomm SM8250 Snapdragon 865 5G (7 nm+),Adreno 650,256,8,376.09,2020
+694272470,xiaomi,Xiaomi 11T Pro,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,256,12,159.99,2021
+694299345,samsung,Samsung Galaxy Tab S9 FE+,Exynos 1380 (5 nm),Mali-G68 MP5,256,12,734.59,2023
+694468159,oneplus,OnePlus 10T,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,256,12,252.27,2022
+694808376,oppo,Oppo Reno7,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,256,8,530,2022
+695090186,xiaomi,Xiaomi Mi 11,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,128,8,199.9,2021
+695277713,motorola,Motorola Edge 20,Qualcomm SM7325 Snapdragon 778G 5G (6 nm),Adreno 642L,256,8,375,2021
+695576077,apple,Apple iPhone XS Max,Apple A12 Bionic (7 nm),Apple GPU (4-core graphics),512,4,282.29,2018
+695738713,xiaomi,Xiaomi Redmi Note 12 4G,Qualcomm SM6225 Snapdragon 685 (6 nm),Adreno 610,256,8,141.18,2023
+696016310,samsung,Samsung Galaxy A14 5G,Exynos 1330 (5 nm) - SM-A146B,Mali-G68 MP2 - SM-A146B,128,8,134,2023
+696066424,google,Google Pixel 9 Pro XL,Google Tensor G4 (4 nm),Mali-G715 MC7,1024,16,1319,2024
+697249937,samsung,Samsung Galaxy S22 Ultra 5G,Exynos 2200 (4 nm) - Europe,Xclipse 920 - Europe,512,12,410,2022
+697621973,apple,Apple iPhone 15 Plus,Apple A16 Bionic (4 nm),Apple GPU (5-core graphics),256,6,929.99,2023
+698147690,xiaomi,Xiaomi 12 Pro,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),Adreno 730,256,8,350,2021
+699000342,samsung,Samsung Galaxy A34,Mediatek Dimensity 1080 (6 nm),Mali-G68 MC4,128,8,245,2023
+700477876,samsung,Samsung Galaxy A15 5G,Mediatek Dimensity 6100+ (6 nm),Mali-G57 MC2,128,6,199.99,2023
+700926430,nokia,Nokia X30,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,256,8,529,2022
+701152020,xiaomi,Xiaomi Redmi Note 11 Pro 5G,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,6,169,2022
+701220465,huawei,Huawei nova 11,Qualcomm SM7325 Snapdragon 778G 4G (6 nm),Adreno 642L,256,8,364.99,2023
+701316853,motorola,Motorola Moto E22,Mediatek MT6765V/CB Helio G37 (12 nm),PowerVR GE8320,64,4,265,2022
+701348468,oppo,Oppo Reno10,Mediatek Dimensity 7050 (6 nm),Mali-G68 MC4,256,8,428.36,2023
+702096690,oppo,Oppo Find X5,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,256,8,128.95,2022
+703490123,oppo,Oppo Find X3 Pro,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,256,12,620,2021
+704215808,realme,Realme Note 50,Unisoc Tiger T612 (12 nm),Mali-G57,128,4,99.99,2024
+704272781,samsung,Samsung Galaxy S24+,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm) - USA/Canada/China,Adreno 750 (1 GHz) - USA/Canada/China,512,12,999.99,2024
+704484996,xiaomi,Xiaomi Mi 10T 5G,Qualcomm SM8250 Snapdragon 865 5G (7 nm+),Adreno 650,128,8,249,2020
+704732309,nokia,Nokia C22,Unisoc SC9863A (28 nm),IMG8322,64,3,108.51,2023
+704946922,xiaomi,Xiaomi Redmi Note 13,Mediatek Dimensity 6080 (6 nm),Mali-G57 MC2,256,12,111,2024
+705341026,samsung,Samsung Galaxy A12,Mediatek MT6765 Helio P35 (12 nm),PowerVR GE8320,64,4,144,2020
+705631556,xiaomi,Xiaomi Redmi 10 5G,Mediatek Dimensity 700 (7 nm),Mali-G57 MC2,128,6,139.99,2022
+706283700,oneplus,OnePlus 12R,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,256,16,499.99,2024
+706499354,samsung,Samsung Galaxy A22 5G,Mediatek Dimensity 700 (7 nm),Mali-G57 MC2,128,4,109.4,2021
+707126781,nokia,Nokia G11,Unisoc T606 (12 nm),Mali-G57 MP1,64,4,66.2,2022
+707605088,xiaomi,Xiaomi Poco M4 Pro 5G,Mediatek Dimensity 810 (6 nm),Mali-G57 MC2,128,6,244,2021
+708047023,apple,Apple iPhone 11 Pro,Apple A13 Bionic (7 nm+),Apple GPU (4-core graphics),512,4,249,2019
+708237486,xiaomi,Xiaomi Redmi 10A,Mediatek MT6762G Helio G25 (12 nm),PowerVR GE8320,64,3,75,2022
+709366699,xiaomi,Xiaomi Poco M5s,Mediatek MT6785V/CD Helio G95 (12 nm),Mali-G76 MC4,256,8,107,2022
+709384085,samsung,Samsung Galaxy A14,Mediatek MT6769 Helio G80 (12 nm) - Version A,Mali-G52 MC2,128,6,109.5,2023
+709406360,xiaomi,Xiaomi Redmi 13C 5G,Mediatek Dimensity 6100+ (6 nm),Mali-G57 MC2,128,6,122.63,2023
+710482580,samsung,Samsung Galaxy A13,Exynos 850 (8 nm),Mali-G52,64,4,78.95,2022
+712704132,motorola,Motorola Razr 40,Qualcomm SM7450-AB Snapdragon 7 Gen 1 (4 nm),Adreno 644,256,8,312.99,2023
+713724250,samsung,Samsung Galaxy A53 5G,Exynos 1280 (5 nm),Mali-G68,256,8,389,2022
+713768109,apple,Apple iPhone 14 Pro Max,Apple A16 Bionic (4 nm),Apple GPU (5-core graphics),512,6,679.73,2022
+714594143,xiaomi,Xiaomi Redmi 10 5G,Mediatek Dimensity 700 (7 nm),Mali-G57 MC2,128,4,121.72,2022
+714638091,motorola,Motorola Moto G73,Mediatek Dimensity 930 (6 nm),IMG BXM-8-256,256,8,171.99,2023
+715003016,xiaomi,Xiaomi 12 Pro,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),Adreno 730,256,8,489.99,2021
+715386806,motorola,Motorola Moto G53,Qualcomm SM4350-AC Snapdragon 480+ 5G (8 nm),Adreno 619,128,6,129,2022
+716679274,xiaomi,Xiaomi Redmi 12C,Mediatek MT6769Z Helio G85 (12 nm),Mali-G52 MC2,64,3,61.49,2023
+716997272,samsung,Samsung Galaxy A32 5G,Mediatek Dimensity 720 (7 nm),Mali-G57 MC3,128,6,365.99,2021
+717943296,apple,Apple iPhone 12,Apple A14 Bionic (5 nm),Apple GPU (4-core graphics),128,4,249.99,2020
+718061186,samsung,Samsung Galaxy S23,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),Adreno 740,256,8,759.99,2023
+719014787,asus,Asus Zenfone 10,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,256,8,661.77,2023
+719835274,apple,Apple iPhone 12,Apple A14 Bionic (5 nm),Apple GPU (4-core graphics),256,4,348,2020
+720675987,oppo,Oppo A54 5G,Qualcomm SM4350 Snapdragon 480 5G (8 nm),Adreno 619,128,4,441,2021
+720842769,zte,ZTE nubia Red Magic 9 Pro,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Adreno 750,512,16,649,2023
+721159982,samsung,Samsung Galaxy A31,Mediatek MT6768 Helio P65 (12 nm),Mali-G52 MC2,128,4,139.99,2020
+721253355,google,Google Pixel 7 Pro,Google Tensor G2 (5 nm),Mali-G710 MP7,512,12,999,2022
+722001176,motorola,Motorola Edge 30 Pro,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),Adreno 730,256,8,999.99,2022
+722517142,samsung,Samsung Galaxy A15,Mediatek Helio G99 (6 nm),Mali-G57 MC2,128,6,136.08,2023
+722767903,xiaomi,Xiaomi Poco M6 4G,Mediatek Helio G91 Ultra (12 nm),Mali-G52 MC2,256,8,154.69,2024
+722815649,motorola,Motorola Moto G Stylus 5G (2023),Qualcomm SM6450 Snapdragon 6 Gen 1 (4 nm),Adreno 710,256,6,399.99,2023
+723510125,oneplus,OnePlus Nord CE 2 5G,Mediatek Dimensity 900 (6 nm),Mali-G68 MC4,128,8,155.89,2022
+723911417,google,Google Pixel 9,Google Tensor G4 (4 nm),Mali-G715 MC7,256,12,743.77,2024
+723951754,samsung,Samsung Galaxy M11,Qualcomm SDM450 Snapdragon 450 (14 nm),Adreno 506,64,4,173,2020
+724817585,vivo,vivo Y76 5G,Mediatek Dimensity 700 (7 nm),Mali-G57 MC2,256,8,481.58,2021
+724973357,samsung,Samsung Galaxy A55,Exynos 1480 (4 nm),Xclipse 530,256,12,480.03,2024
+725374720,xiaomi,Xiaomi Poco C40,JLQ JR510 (11 nm),Mali-G57 MC1,64,4,104,2022
+725891031,samsung,Samsung Galaxy S10,Exynos 9820 (8 nm) - EMEA/LATAM,Mali-G76 MP12 - EMEA/LATAM,512,8,135,2019
+726386141,xiaomi,Xiaomi Redmi A2,Mediatek Helio G36 (12 nm),PowerVR GE8320,64,3,54.99,2023
+727435695,asus,Asus ROG Phone 5,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,128,12,899,2021
+727437066,infinix,Infinix Note 12 G96,Mediatek MT6781 Helio G96 (12 nm),Mali-G57 MC2,256,8,123.49,2022
+727774686,xiaomi,Xiaomi 12 Pro,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),Adreno 730,256,8,419.41,2021
+729347719,xiaomi,Xiaomi Poco M6 Pro,Mediatek Helio G99 Ultra,Mali-G57 MC2,512,12,179,2024
+730714330,nokia,Nokia XR20,Qualcomm SM4350 Snapdragon 480 5G (8 nm),Adreno 619,128,6,490,2021
+730816790,samsung,Samsung Galaxy S20 FE 5G,Qualcomm SM8250 Snapdragon 865 5G (7 nm+),Adreno 650,128,8,119.99,2020
+730875503,xiaomi,Xiaomi Redmi Note 11 Pro+ 5G,Mediatek Dimensity 920 (6 nm),Mali-G68 MC4,128,8,199,2021
+731043782,xiaomi,Xiaomi Redmi Note 11 Pro+ 5G,Mediatek Dimensity 920 (6 nm),Mali-G68 MC4,128,8,144.6,2021
+731511119,xiaomi,Xiaomi 12X,Qualcomm SM8250-AC Snapdragon 870 5G (7 nm),Adreno 650,256,12,193.99,2021
+731766922,apple,Apple iPhone 14 Plus,Apple A15 Bionic (5 nm),Apple GPU (5-core graphics),512,6,743.49,2022
+732598845,xiaomi,Xiaomi Redmi 13C,Mediatek MT6769Z Helio G85 (12 nm),Mali-G52 MC2,256,8,131.76,2023
+732945162,vivo,vivo iQOO 12,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Adreno 750,512,16,649.59,2023
+734733813,apple,Apple iPhone 13 mini,Apple A15 Bionic (5 nm),Apple GPU (4-core graphics),512,4,336.99,2021
+734905092,motorola,Motorola Edge 30,Qualcomm SM7325-AE Snapdragon 778G+ 5G (6 nm),Adreno 642L,128,8,198.78,2022
+735845214,nothing,Nothing Phone (2a) Plus,Mediatek Dimensity 7350 Pro (4 nm),Mali-G610 MC4,256,12,429,2024
+736465518,samsung,Samsung Galaxy S23+,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,8,422,2023
+736674514,samsung,Samsung Galaxy Z Flip4,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,512,8,1059.99,2022
+736809799,google,Google Pixel 9 Pro XL,Google Tensor G4 (4 nm),Mali-G715 MC7,256,16,1059.89,2024
+737011615,nothing,Nothing Phone (2a),Mediatek Dimensity 7200 Pro (4 nm),Mali-G610 MC4,256,12,305.99,2024
+737515601,samsung,Samsung Galaxy A03,Unisoc T606 (12 nm),Mali-G57 MP1,64,4,126.35,2022
+738594831,samsung,Samsung Galaxy M11,Qualcomm SDM450 Snapdragon 450 (14 nm),Adreno 506,64,4,110.99,2020
+742175912,apple,Apple iPhone 13,Apple A15 Bionic (5 nm),Apple GPU (4-core graphics),256,4,431.9,2021
+742351731,samsung,Samsung Galaxy A32,Mediatek MT6769V/CU Helio G80 (12 nm),Mali-G52 MC2,128,4,249.99,2021
+742547714,xiaomi,Xiaomi Redmi Note 11,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,128,6,174.99,2022
+742838176,xiaomi,Xiaomi Redmi Note 11 Pro+ 5G,Mediatek Dimensity 920 (6 nm),Mali-G68 MC4,256,8,229,2021
+743448314,asus,Asus ROG Phone 8 Pro,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Adreno 750,1024,24,687.5,2024
+743607993,oneplus,OnePlus Nord,Qualcomm SM7250 Snapdragon 765G 5G (7 nm),Adreno 620,128,8,199.99,2020
+743964626,nokia,Nokia C31,Unisoc SC9863A (28 nm),IMG8322,32,4,132.34,2022
+744566534,oneplus,OnePlus 9R,Qualcomm SM8250-AC Snapdragon 870 5G (7 nm),Adreno 650,256,8,495,2021
+744593992,oppo,Oppo A54 5G,Qualcomm SM4350 Snapdragon 480 5G (8 nm),Adreno 619,128,4,125.44,2021
+744691477,apple,Apple iPhone 14 Pro Max,Apple A16 Bionic (4 nm),Apple GPU (5-core graphics),1024,6,770,2022
+746088731,samsung,Samsung Galaxy A13,Exynos 850 (8 nm),Mali-G52,64,4,104,2022
+746544407,apple,Apple iPhone 14 Pro Max,Apple A16 Bionic (4 nm),Apple GPU (5-core graphics),1024,6,921.35,2022
+747741476,google,Google Pixel 6 Pro,Google Tensor (5 nm),Mali-G78 MP20,256,12,276.27,2021
+747858755,samsung,Samsung Galaxy A02,Mediatek MT6739W (28 nm),PowerVR GE8100,32,3,98,2021
+748232015,apple,Apple iPhone 14 Pro,Apple A16 Bionic (4 nm),Apple GPU (5-core graphics),1024,6,698.06,2022
+749566105,google,Google Pixel 8 Pro,Google Tensor G3 (4 nm),Immortalis-G715s MC10,1024,12,789.16,2023
+749673041,apple,Apple iPhone SE (2022),Apple A15 Bionic (5 nm),Apple GPU (4-core graphics),128,4,225,2022
+749837482,asus,Asus Zenfone 10,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,16,814,2023
+749873984,xiaomi,Xiaomi Redmi 12 5G,Qualcomm SM4450 Snapdragon 4 Gen 2 (4 nm),Adreno 613,128,6,149.99,2023
+750891727,nokia,Nokia X20,Qualcomm SM4350 Snapdragon 480 5G (8 nm),Adreno 619,128,8,399,2021
+751555979,xiaomi,Xiaomi Redmi Note 12 Pro 4G,Qualcomm SM7150 Snapdragon 732G (8 nm),Adreno 618,128,8,269.99,2023
+751623657,xiaomi,Xiaomi Poco X5,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,256,8,213.99,2023
+752058263,xiaomi,Xiaomi Redmi 13C 5G,Mediatek Dimensity 6100+ (6 nm),Mali-G57 MC2,128,6,141,2023
+752463838,motorola,Motorola Razr 40 Ultra,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,256,12,484,2023
+753055790,motorola,Motorola Moto G04s,Unisoc T606 (12 nm),Mali-G57 MP1,128,4,135.4,2024
+753251946,samsung,Samsung Galaxy S22 Ultra 5G,Exynos 2200 (4 nm) - Europe,Xclipse 920 - Europe,1024,12,394.95,2022
+754567957,motorola,Motorola Razr 50,Mediatek Dimensity 7300X (4 nm),Mali-G615 MC2,512,12,551.42,2024
+755221843,google,Google Pixel 9 Pro Fold,Google Tensor G4 (4 nm),Mali-G715 MC7,512,16,1749,2024
+755271623,xiaomi,Xiaomi 12 Pro,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),Adreno 730,256,8,399,2021
+755873669,apple,Apple iPhone 11 Pro,Apple A13 Bionic (7 nm+),Apple GPU (4-core graphics),256,4,208.29,2019
+756304309,samsung,Samsung Galaxy A13,Exynos 850 (8 nm),Mali-G52,128,4,164,2022
+756405043,samsung,Samsung Galaxy M12,Exynos 850 (8 nm),Mali-G52,32,4,119.99,2021
+756439893,sony,Sony Xperia 1 VI,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Adreno 750,512,12,975,2024
+756802413,xiaomi,Xiaomi Redmi Note 12 Pro,Mediatek Dimensity 1080 (6 nm),Mali-G68 MC4,128,8,200,2022
+757544912,xiaomi,Xiaomi Redmi Note 10 Pro,Qualcomm SM7150 Snapdragon 732G (8 nm),Adreno 618,128,6,139.5,2021
+757616210,xiaomi,Xiaomi Redmi 9,Mediatek MT6769V/CU Helio G80 (12 nm),Mali-G52 MC2,128,4,139.99,2020
+757748358,samsung,Samsung Galaxy A03,Unisoc T606 (12 nm),Mali-G57 MP1,32,4,91,2022
+757809938,samsung,Samsung Galaxy A52,Qualcomm SM7125 Snapdragon 720G (8 nm),Adreno 618,128,6,143,2021
+758396470,xiaomi,Xiaomi Redmi A1+,Mediatek MT6761 Helio A22 (12 nm),PowerVR GE8320,32,3,71.99,2022
+758422758,apple,Apple iPhone 16 Pro Max,Apple A18 Pro (3 nm),Apple GPU (6-core graphics),512,8,1199.99,2024
+758481885,nokia,Nokia G60,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,4,291.4,2022
+758951483,samsung,Samsung Galaxy S21+ 5G,Exynos 2100 (5 nm) - International,Mali-G78 MP14 - International,256,8,203.07,2021
+759493851,samsung,Samsung Galaxy A33 5G,Exynos 1280 (5 nm),Mali-G68,128,6,299.99,2022
+762179923,samsung,Samsung Galaxy S22 Ultra 5G,Exynos 2200 (4 nm) - Europe,Xclipse 920 - Europe,512,12,384.95,2022
+762258973,oneplus,OnePlus Nord,Qualcomm SM7250 Snapdragon 765G 5G (7 nm),Adreno 620,128,8,123,2020
+762490429,oneplus,OnePlus 10 Pro,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),Adreno 730,256,12,665.88,2022
+763896407,xiaomi,Xiaomi Poco X6 Pro,Mediatek Dimensity 8300 Ultra (4 nm),Mali G615-MC6,256,12,257.26,2024
+765887443,samsung,Samsung Galaxy A05s,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,128,4,94.4,2023
+766012731,google,Google Pixel 8 Pro,Google Tensor G3 (4 nm),Immortalis-G715s MC10,512,12,700.4,2023
+766118168,samsung,Samsung Galaxy A71 5G,Exynos 980 (8 nm),Mali-G76 MP5,128,8,151.08,2020
+766437104,apple,Apple iPhone 13 Pro Max,Apple A15 Bionic (5 nm),Apple GPU (5-core graphics),512,6,590.24,2021
+766567111,samsung,Samsung Galaxy Z Flip6,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm),Adreno 750 (1 GHz),512,12,725,2024
+767748612,motorola,Motorola Edge 50 Fusion,Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm) - International,Adreno 710,256,8,218.15,2024
+767937159,xiaomi,Xiaomi Redmi Note 9S,Qualcomm SM7125 Snapdragon 720G (8 nm),Adreno 618,128,4,109.99,2020
+768043896,oppo,Oppo A53,Qualcomm SM4250 Snapdragon 460 (11 nm),Adreno 610,128,4,169.99,2020
+768212691,motorola,Motorola Edge 50 Pro,Qualcomm SM7550-AB Snapdragon 7 Gen 3 (4 nm),Adreno 720,256,12,584.99,2024
+768779741,xiaomi,Xiaomi Redmi Note 11,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,128,4,111,2022
+768895090,xiaomi,Xiaomi Redmi Note 13 4G,Qualcomm SM6225 Snapdragon 685 (6 nm),Adreno 610,256,8,137,2024
+771262173,google,Google Pixel Fold,Google Tensor G2 (5 nm),Mali-G710 MP7,512,12,617.99,2023
+771365286,nokia,Nokia G42,Qualcomm SM4350-AC Snapdragon 480+ 5G (8 nm),Adreno 619,128,6,142.57,2023
+771508790,xiaomi,Xiaomi Redmi Note 13 Pro,Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm),Adreno 710,512,12,275.7,2023
+772253872,motorola,Motorola Edge 50 Pro,Qualcomm SM7550-AB Snapdragon 7 Gen 3 (4 nm),Adreno 720,256,12,489.99,2024
+773952036,zte,ZTE nubia Z50S Pro,Qualcomm SM8550-AC Snapdragon 8+ Gen 2 (4 nm),Adreno 740 (719 MHz),1024,12,506.97,2023
+774099675,samsung,Samsung Galaxy Z Flip4,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,256,8,351,2022
+774617157,apple,Apple iPhone 14,Apple A15 Bionic (5 nm),Apple GPU (5-core graphics),256,6,449.58,2022
+777561438,apple,Apple iPhone 12 mini,Apple A14 Bionic (5 nm),Apple GPU (4-core graphics),256,4,241.64,2020
+777842695,apple,Apple iPhone 12 Pro,Apple A14 Bionic (5 nm),Apple GPU (4-core graphics),256,6,357.55,2020
+779224581,motorola,Motorola Moto G54,Mediatek Dimensity 7020 (6 nm),IMG BXM-8-256,256,8,140.19,2023
+780306402,apple,Apple iPhone 14 Pro,Apple A16 Bionic (4 nm),Apple GPU (5-core graphics),512,6,797.86,2022
+781954439,apple,Apple iPhone SE (2022),Apple A15 Bionic (5 nm),Apple GPU (4-core graphics),128,4,126.49,2022
+782361400,asus,Asus Zenfone 9,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,256,8,561.21,2022
+783239831,motorola,Motorola Moto G Stylus 5G (2024),Qualcomm SM6450 Snapdragon 6 Gen 1 (4 nm),Adreno 710,256,8,399.99,2024
+783293876,oppo,Oppo Find X5,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,256,8,359.25,2022
+783350758,samsung,Samsung Galaxy A33 5G,Exynos 1280 (5 nm),Mali-G68,128,6,235.24,2022
+783351297,xiaomi,Xiaomi Redmi 12C,Mediatek MT6769Z Helio G85 (12 nm),Mali-G52 MC2,128,4,144.99,2023
+784163727,samsung,Samsung Galaxy A25,Exynos 1280 (5 nm),Mali-G68,256,8,188.71,2023
+784435541,motorola,Motorola Edge 30 Ultra,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,256,8,732,2022
+784763776,google,Google Pixel 9 Pro XL,Google Tensor G4 (4 nm),Mali-G715 MC7,512,16,1188.64,2024
+785790573,xiaomi,Xiaomi Poco X5 Pro,Qualcomm SM7325 Snapdragon 778G 5G (6 nm),Adreno 642L,256,8,288.37,2023
+785855837,asus,Asus Zenfone 10,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,256,16,635.99,2023
+787107050,asus,Asus ROG Phone 8 Pro,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Adreno 750,1024,24,1054,2024
+787627468,samsung,Samsung Galaxy A42 5G,Qualcomm SM7225 Snapdragon 750 5G (8 nm),Adreno 619,128,6,138.49,2020
+788090740,motorola,Motorola Moto G13,Mediatek MT6769Z Helio G85 (12 nm),Mali-G52 MC2,128,4,113.99,2023
+788100488,xiaomi,Xiaomi Redmi Note 13,Mediatek Dimensity 6080 (6 nm),Mali-G57 MC2,256,12,251.66,2024
+788184189,apple,Apple iPhone 14 Pro Max,Apple A16 Bionic (4 nm),Apple GPU (5-core graphics),1024,6,787.5,2022
+788225828,samsung,Samsung Galaxy M13,Exynos 850 (8 nm),Mali-G52,128,4,129.99,2022
+788338719,xiaomi,Xiaomi Redmi 9,Mediatek MT6769V/CU Helio G80 (12 nm),Mali-G52 MC2,128,4,119.99,2020
+788974690,oneplus,OnePlus 8,Qualcomm SM8250 Snapdragon 865 5G (7 nm+),Adreno 650,128,8,897,2020
+790300166,motorola,Motorola ThinkPhone,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,256,8,628.9,2023
+791337576,samsung,Samsung Galaxy A72,Qualcomm SM7125 Snapdragon 720G (8 nm),Adreno 618,128,8,367.99,2021
+791571694,xiaomi,Xiaomi Redmi Note 12,Qualcomm SM4375 Snapdragon 4 Gen 1 (6 nm),Adreno 619,256,8,157.52,2023
+792779930,xiaomi,Xiaomi Poco X4 Pro 5G,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,6,199.99,2022
+792849187,samsung,Samsung Galaxy A31,Mediatek MT6768 Helio P65 (12 nm),Mali-G52 MC2,128,6,189.49,2020
+793324553,xiaomi,Xiaomi Poco M3,Qualcomm SM6115 Snapdragon 662 (11 nm),Adreno 610,64,6,99.99,2020
+794003305,samsung,Samsung Galaxy S23,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),Adreno 740,256,8,354.9,2023
+794786444,apple,Apple iPhone 13 Pro,Apple A15 Bionic (5 nm),Apple GPU (5-core graphics),512,6,521.15,2021
+794833550,oppo,Oppo A53,Qualcomm SM4250 Snapdragon 460 (11 nm),Adreno 610,128,4,116,2020
+798923163,xiaomi,Xiaomi 13 Lite,Qualcomm SM7450-AB Snapdragon 7 Gen 1 (4 nm),Adreno 644,256,8,342.42,2023
+799059631,apple,Apple iPhone XS,Apple A12 Bionic (7 nm),Apple GPU (4-core graphics),512,4,207.99,2018
+799112518,xiaomi,Xiaomi Redmi 10C,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,64,4,84.99,2022
+799648873,samsung,Samsung Galaxy A52s 5G,Qualcomm SM7325 Snapdragon 778G 5G (6 nm),Adreno 642L,128,6,195.32,2021
+799742595,oppo,Oppo A55,Mediatek MT6765G Helio G35 (12 nm),PowerVR GE8320,128,4,110.1,2021
+799891291,motorola,Motorola Moto G (2022),Mediatek Dimensity 700 (7 nm),Mali-G57 MC2,256,6,399.99,2022
+800714463,motorola,Motorola Moto G55,Mediatek Dimensity 7025 (6 nm),IMG BXM-8-256,256,8,249,2024
+800883214,oppo,Oppo A96,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,128,8,495,2022
+800995437,tecno,Tecno Pova 6 Pro,Mediatek Dimensity 6080 (6 nm),Mali-G57 MC2,256,12,459.98,2024
+801960619,oneplus,OnePlus 11,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,256,16,574.35,2023
+803657878,samsung,Samsung Galaxy Note20 Ultra 5G,Exynos 990 (7 nm+) - Global,Mali-G77 MP11 - Global,256,8,675,2020
+803845695,oppo,Oppo Reno12,Mediatek Dimensity 7300 Energy (4 nm),Mali-G615 MC2,512,12,539,2024
+804663031,realme,Realme 9i,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,128,6,179.99,2022
+805037403,xiaomi,Xiaomi Redmi 10A,Mediatek MT6762G Helio G25 (12 nm),PowerVR GE8320,64,3,96.91,2022
+805228401,xiaomi,Xiaomi Redmi A1+,Mediatek MT6761 Helio A22 (12 nm),PowerVR GE8320,32,3,76.68,2022
+806302717,xiaomi,Xiaomi Redmi A2+,Mediatek Helio G36 (12 nm),PowerVR GE8320,64,3,69.63,2023
+807239607,samsung,Samsung Galaxy A53 5G,Exynos 1280 (5 nm),Mali-G68,128,6,295.37,2022
+807605359,samsung,Samsung Galaxy S24 Ultra,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm),Adreno 750 (1 GHz),512,12,729.95,2024
+808363790,xiaomi,Xiaomi Redmi Note 10,Qualcomm SDM678 Snapdragon 678 (11 nm),Adreno 612,128,4,96.99,2021
+808992879,xiaomi,Xiaomi Redmi 9,Mediatek MT6769V/CU Helio G80 (12 nm),Mali-G52 MC2,128,4,125.56,2020
+810146666,samsung,Samsung Galaxy A14,Mediatek MT6769 Helio G80 (12 nm) - Version A,Mali-G52 MC2,128,4,89,2023
+810318774,asus,Asus Zenfone 8,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,128,8,552.44,2021
+810558708,samsung,Samsung Galaxy A72,Qualcomm SM7125 Snapdragon 720G (8 nm),Adreno 618,128,8,223,2021
+810572793,xiaomi,Xiaomi Poco F5 Pro,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,256,12,436.99,2023
+810671302,xiaomi,Xiaomi Poco F6,Qualcomm SM8635 Snapdragon 8s Gen 3 (4 nm),Adreno 735,512,12,315,2024
+810919301,xiaomi,Xiaomi Redmi Note 12 Pro+,Mediatek Dimensity 1080 (6 nm),Mali-G68 MC4,256,12,242.5,2022
+812080018,honor,Honor X7a,Mediatek MT6765H Helio G37 (12 nm),PowerVR GE8320,128,6,139.9,2023
+812300182,xiaomi,Xiaomi Redmi Note 11 Pro,Mediatek MT6781 Helio G96 (12 nm),Mali-G57 MC2,128,6,161,2022
+815123777,huawei,Huawei P30,Kirin 980 (7 nm),Mali-G76 MP10,128,6,270,2019
+815411989,samsung,Samsung Galaxy A02s,Qualcomm SDM450 Snapdragon 450 (14 nm),Adreno 506,32,2,90,2021
+816686793,xiaomi,Xiaomi Poco X5,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,256,8,222.85,2023
+819159298,nokia,Nokia C32,Unisoc SC9863A1 (22 nm),IMG8322,64,4,76,2023
+819786873,huawei,Huawei nova 9,Qualcomm SM7325 Snapdragon 778G 4G (6 nm),Adreno 642L,256,8,172.47,2021
+819859845,samsung,Samsung Galaxy Z Flip3 5G,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,256,8,244.95,2021
+822113920,xiaomi,Xiaomi Redmi 14C,Mediatek Helio G81 Ultra,Mali-G52 MC2,128,8,197.55,2024
+822914301,google,Google Pixel 6,Google Tensor (5 nm),Mali-G78 MP20,256,8,194.32,2021
+823073988,samsung,Samsung Galaxy Z Flip5,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,8,426.5,2023
+823455530,apple,Apple iPhone 14 Plus,Apple A15 Bionic (5 nm),Apple GPU (5-core graphics),512,6,569.95,2022
+824241824,motorola,Motorola Moto G30,Qualcomm SM6115 Snapdragon 662 (11 nm),Adreno 610,128,4,105,2021
+825365097,xiaomi,Xiaomi Poco C40,JLQ JR510 (11 nm),Mali-G57 MC1,64,4,145.93,2022
+825367147,google,Google Pixel 7 Pro,Google Tensor G2 (5 nm),Mali-G710 MP7,256,12,298.31,2022
+826199275,samsung,Samsung Galaxy A34,Mediatek Dimensity 1080 (6 nm),Mali-G68 MC4,256,8,218.95,2023
+826444939,apple,Apple iPhone 14 Pro,Apple A16 Bionic (4 nm),Apple GPU (5-core graphics),512,6,619,2022
+826602949,samsung,Samsung Galaxy A51 5G,Exynos 980 (8 nm),Mali-G76 MP5,128,8,179,2020
+826784270,xiaomi,Xiaomi 12,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),Adreno 730,256,8,322,2021
+830121316,huawei,Huawei nova 11 Pro,Qualcomm SM7325 Snapdragon 778G 4G (6 nm),Adreno 642L,512,8,745.99,2023
+830348351,honor,Honor Magic V2,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm) - Intl,Adreno 740,512,16,1165.3,2023
+830706145,apple,Apple iPhone 15,Apple A16 Bionic (4 nm),Apple GPU (5-core graphics),512,6,650.5,2023
+831661666,apple,Apple iPhone 12 mini,Apple A14 Bionic (5 nm),Apple GPU (4-core graphics),256,4,296,2020
+831807441,huawei,Huawei Mate 50 Pro,Qualcomm SM8475 Snapdragon 8+ Gen 1 4G (4 nm),Adreno 730,512,8,486.39,2022
+832173877,motorola,Motorola Moto G32,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,128,4,268,2022
+832320814,oneplus,OnePlus 10T,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,256,16,599.99,2022
+832446550,oppo,Oppo A16,Mediatek MT6765G Helio G35 (12 nm),PowerVR GE8320,64,4,99.99,2021
+833424599,samsung,Samsung Galaxy Note20 Ultra 5G,Exynos 990 (7 nm+) - Global,Mali-G77 MP11 - Global,256,12,650,2020
+833619974,honor,Honor Magic V2,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm) - Intl,Adreno 740,512,16,1148.5,2023
+833744820,apple,Apple iPhone 16 Pro Max,Apple A18 Pro (3 nm),Apple GPU (6-core graphics),1024,8,1399.99,2024
+834662207,samsung,Samsung Galaxy Z Fold5,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,12,684.99,2023
+834755937,xiaomi,Xiaomi Poco F5,Qualcomm SM7475-AB Snapdragon 7+ Gen 2 (4 nm),Adreno 725,256,12,267.99,2023
+835002751,xiaomi,Xiaomi 13T Pro,Mediatek Dimensity 9200+ (4 nm),Immortalis-G715 MC11,1024,16,1199,2023
+835151020,motorola,Motorola Edge 40 Pro,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,12,580.43,2023
+835631786,xiaomi,Xiaomi Redmi Note 12 Pro,Mediatek Dimensity 1080 (6 nm),Mali-G68 MC4,128,8,220,2022
+836858053,google,Google Pixel 9 Pro,Google Tensor G4 (4 nm),Mali-G715 MC7,512,16,1178.14,2024
+837078625,honor,Honor X7,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,128,6,370,2022
+839104047,apple,Apple iPhone 13 Pro Max,Apple A15 Bionic (5 nm),Apple GPU (5-core graphics),256,6,655,2021
+839144289,google,Google Pixel 8 Pro,Google Tensor G3 (4 nm),Immortalis-G715s MC10,512,12,494.95,2023
+840538173,xiaomi,Xiaomi Poco F3,Qualcomm SM8250-AC Snapdragon 870 5G (7 nm),Adreno 650,128,8,183.37,2021
+840743240,samsung,Samsung Galaxy S10+,Exynos 9820 (8 nm) - EMEA/LATAM,Mali-G76 MP12 - EMEA/LATAM,512,8,299,2019
+842179849,xiaomi,Xiaomi 12,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),Adreno 730,256,8,179.99,2021
+842264709,apple,Apple iPhone 15 Pro,Apple A17 Pro (3 nm),Apple GPU (6-core graphics),512,8,827.5,2023
+842910283,oppo,Oppo Reno11,Mediatek Dimensity 7050 (6 nm),Mali-G68 MC4,256,12,255,2024
+843219446,xiaomi,Xiaomi 14 Ultra,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Adreno 750,512,16,1033.87,2024
+843788190,motorola,Motorola Razr 40 Ultra,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,256,12,583.09,2023
+843872013,samsung,Samsung Galaxy S10e,Exynos 9820 (8 nm) - EMEA/LATAM,Mali-G76 MP12 - EMEA/LATAM,128,8,121.77,2019
+844066830,xiaomi,Xiaomi Poco X6 Pro,Mediatek Dimensity 8300 Ultra (4 nm),Mali G615-MC6,512,12,299,2024
+844399222,xiaomi,Xiaomi 12T,Mediatek Dimensity 8100 Ultra (5 nm),Mali-G610 MC6,256,8,319,2022
+844473252,samsung,Samsung Galaxy A03s,Mediatek MT6765 Helio P35 (12 nm),PowerVR GE8320,32,3,159.99,2021
+844487468,samsung,Samsung Galaxy Z Fold5,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),Adreno 740,1024,12,899.94,2023
+844827277,oneplus,OnePlus Nord CE 5G,Qualcomm SM7225 Snapdragon 750G 5G (8 nm),Adreno 619,256,12,282.98,2021
+844901882,samsung,Samsung Galaxy A52,Qualcomm SM7125 Snapdragon 720G (8 nm),Adreno 618,128,6,297,2021
+845191750,apple,Apple iPhone 13 Pro,Apple A15 Bionic (5 nm),Apple GPU (5-core graphics),256,6,424.45,2021
+845292661,samsung,Samsung Galaxy Z Fold6,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm),Adreno 750 (1 GHz),1024,12,1367,2024
+845650606,motorola,Motorola Edge 30 Pro,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),Adreno 730,256,8,495.03,2022
+845752404,nokia,Nokia G42,Qualcomm SM4350-AC Snapdragon 480+ 5G (8 nm),Adreno 619,128,6,188.99,2023
+845920431,google,Google Pixel 7,Google Tensor G2 (5 nm),Mali-G710 MP7,256,8,245.5,2022
+846124303,xiaomi,Xiaomi Redmi Note 12 Pro,Mediatek Dimensity 1080 (6 nm),Mali-G68 MC4,256,8,236.61,2022
+847003999,samsung,Samsung Galaxy A13,Exynos 850 (8 nm),Mali-G52,32,4,139,2022
+847027277,apple,Apple iPhone 15 Pro,Apple A17 Pro (3 nm),Apple GPU (6-core graphics),256,8,719,2023
+848092955,xiaomi,Xiaomi Redmi Note 10S,Mediatek MT6785V/CD Helio G95 (12 nm),Mali-G76 MC4,128,4,153.99,2021
+848216079,apple,Apple iPhone 11 Pro,Apple A13 Bionic (7 nm+),Apple GPU (4-core graphics),256,4,281,2019
+848250751,motorola,Motorola Moto G31,Mediatek MT6769Z Helio G85 (12 nm),Mali-G52 MC2,128,4,189,2021
+848398206,samsung,Samsung Galaxy S24 Ultra,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm),Adreno 750 (1 GHz),512,12,1049.99,2024
+849174795,xiaomi,Xiaomi Redmi Note 12 4G,Qualcomm SM6225 Snapdragon 685 (6 nm),Adreno 610,128,6,195,2023
+849288284,xiaomi,Xiaomi Redmi 14C,Mediatek Helio G81 Ultra,Mali-G52 MC2,128,6,139,2024
+849309232,xiaomi,Xiaomi 12,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),Adreno 730,256,12,275.98,2021
+849691644,xiaomi,Xiaomi Redmi Note 12 Pro,Mediatek Dimensity 1080 (6 nm),Mali-G68 MC4,256,8,284.82,2022
+850435933,samsung,Samsung Galaxy A42 5G,Qualcomm SM7225 Snapdragon 750 5G (8 nm),Adreno 619,128,6,129.99,2020
+854176828,samsung,Samsung Galaxy A03s,Mediatek MT6765 Helio P35 (12 nm),PowerVR GE8320,32,3,68.49,2021
+854441102,xiaomi,Xiaomi Redmi Note 9S,Qualcomm SM7125 Snapdragon 720G (8 nm),Adreno 618,128,6,345,2020
+855328393,samsung,Samsung Galaxy S20+ 5G,Exynos 990 (7 nm+) - Global,Mali-G77 MP11 - Global,128,12,397.99,2020
+856823387,motorola,Motorola Moto G13,Mediatek MT6769Z Helio G85 (12 nm),Mali-G52 MC2,128,4,111.99,2023
+856970097,xiaomi,Xiaomi Redmi Note 9,Mediatek MT6769Z Helio G85 (12 nm),Mali-G52 MC2,64,4,125.99,2020
+857250780,xiaomi,Xiaomi Poco M5s,Mediatek MT6785V/CD Helio G95 (12 nm),Mali-G76 MC4,128,4,137.36,2022
+858010696,apple,Apple iPhone XS Max,Apple A12 Bionic (7 nm),Apple GPU (4-core graphics),512,4,279.49,2018
+858763759,realme,Realme 9 Pro+,Mediatek Dimensity 920 (6 nm),Mali-G68 MC4,128,8,207.46,2022
+859405886,xiaomi,Xiaomi Redmi Note 13 Pro+,Mediatek Dimensity 7200 Ultra (4 nm),Mali-G610 MC4,512,12,336.99,2023
+860756019,oppo,Oppo A54 5G,Qualcomm SM4350 Snapdragon 480 5G (8 nm),Adreno 619,128,4,100,2021
+860886471,motorola,Motorola Edge 40 Neo,MediaTek Dimensity 7030 (6 nm),Mali-G610 MC3,256,12,286.99,2023
+861036965,samsung,Samsung Galaxy A12 Nacho,Exynos 850 (8 nm),Mali-G52,32,4,130,2021
+861629238,motorola,Motorola Moto G72,Mediatek Helio G99 (6 nm),Mali-G57 MC2,256,8,184.5,2022
+864158346,xiaomi,Xiaomi Poco F6 Pro,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,12,469.99,2024
+865137880,samsung,Samsung Galaxy Z Fold5,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),Adreno 740,1024,12,1919.99,2023
+865859829,xiaomi,Xiaomi Redmi A2+,Mediatek Helio G36 (12 nm),PowerVR GE8320,32,3,94.85,2023
+867650985,motorola,Motorola Moto G71 5G,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,6,399,2022
+867866050,apple,Apple iPhone 15 Pro,Apple A17 Pro (3 nm),Apple GPU (6-core graphics),1024,8,961.93,2023
+868572421,apple,Apple iPhone 15 Pro,Apple A17 Pro (3 nm),Apple GPU (6-core graphics),1024,8,989.99,2023
+868644566,xiaomi,Xiaomi Redmi 9A,Mediatek MT6762G Helio G25 (12 nm),PowerVR GE8320,128,4,71.1,2020
+869073266,xiaomi,Xiaomi Redmi A2+,Mediatek Helio G36 (12 nm),PowerVR GE8320,32,3,49,2023
+869389083,asus,Asus Zenfone 10,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,16,719.99,2023
+870150900,xiaomi,Xiaomi Redmi Note 12,Qualcomm SM4375 Snapdragon 4 Gen 1 (6 nm),Adreno 619,256,8,170,2023
+870552491,samsung,Samsung Galaxy S9+,Exynos 9810 (10 nm) - EMEA,Mali-G72 MP18 - EMEA,64,6,219.22,2018
+871153893,xiaomi,Xiaomi Redmi Note 12,Qualcomm SM4375 Snapdragon 4 Gen 1 (6 nm),Adreno 619,128,6,130,2023
+871528644,xiaomi,Xiaomi Poco M4 Pro,Mediatek MT6781 Helio G96 (12 nm),Mali-G57 MC2,128,6,137.08,2022
+872457576,samsung,Samsung Galaxy A02s,Qualcomm SDM450 Snapdragon 450 (14 nm),Adreno 506,32,2,129.99,2021
+872497147,xiaomi,Xiaomi Mi 10 5G,Qualcomm SM8250 Snapdragon 865 5G (7 nm+),Adreno 650,256,8,319.99,2020
+873679863,xiaomi,Xiaomi Redmi Note 11,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,128,4,138.5,2022
+873996825,vivo,vivo V29,Qualcomm SM7325 Snapdragon 778G 5G (6 nm),Adreno 642L,256,8,484.56,2023
+875381756,realme,Realme 10,Mediatek Helio G99 (6 nm),Mali-G57 MC2,128,6,239.99,2022
+875883096,oppo,Oppo A16,Mediatek MT6765G Helio G35 (12 nm),PowerVR GE8320,64,4,350,2021
+876608177,nokia,Nokia C31,Unisoc SC9863A (28 nm),IMG8322,32,4,115.09,2022
+876801418,samsung,Samsung Galaxy A14 5G,Exynos 1330 (5 nm) - SM-A146B,Mali-G68 MP2 - SM-A146B,128,6,125,2023
+877623033,google,Google Pixel 8 Pro,Google Tensor G3 (4 nm),Immortalis-G715s MC10,1024,12,1179,2023
+879444058,xiaomi,Xiaomi Redmi Note 10S,Mediatek MT6785V/CD Helio G95 (12 nm),Mali-G76 MC4,128,6,145.35,2021
+880171048,xiaomi,Xiaomi Redmi 13C,Mediatek MT6769Z Helio G85 (12 nm),Mali-G52 MC2,256,8,122.98,2023
+880602832,samsung,Samsung Galaxy Z Fold4,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,512,12,499,2022
+880675372,google,Google Pixel 4,Qualcomm SM8150 Snapdragon 855 (7 nm),Adreno 640,128,6,107.99,2019
+880786302,samsung,Samsung Galaxy A23 5G,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,64,6,299.99,2022
+880983515,sony,Sony Xperia 10 III,Qualcomm SM6350 Snapdragon 690 5G (8 nm),Adreno 619,256,6,689,2021
+881534117,huawei,Huawei P50 Pro,Kirin 9000 (5 nm),Mali-G78 MP24,256,8,449,2021
+882209748,honor,Honor Magic5 Pro,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,256,12,999,2023
+882341838,samsung,Samsung Galaxy S9,Exynos 9810 (10 nm) - EMEA,Mali-G72 MP18 - EMEA,128,4,133,2018
+884010075,xiaomi,Xiaomi Redmi Note 13 Pro 4G,Mediatek Helio G99 Ultra,Mali-G57 MC2,512,12,200,2024
+885186030,xiaomi,Xiaomi Redmi Note 11 Pro+ 5G,Mediatek Dimensity 920 (6 nm),Mali-G68 MC4,256,8,349.99,2021
+885227540,xiaomi,Xiaomi 13T Pro,Mediatek Dimensity 9200+ (4 nm),Immortalis-G715 MC11,1024,16,1352.2,2023
+885270510,samsung,Samsung Galaxy S21+ 5G,Exynos 2100 (5 nm) - International,Mali-G78 MP14 - International,256,8,179.95,2021
+886434793,motorola,Motorola Moto G Stylus 5G,Qualcomm SM4350 Snapdragon 480 5G (8 nm),Adreno 619,256,6,84.98,2021
+886875796,oneplus,OnePlus 9 Pro,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,256,8,224.99,2021
+887728728,sony,Sony Xperia 10 V,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,8,329.99,2023
+887748721,xiaomi,Xiaomi Poco X4 Pro 5G,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,6,226.97,2022
+887887909,nokia,Nokia G22,Unisoc T606 (12 nm),Mali-G57 MP1,128,4,84.97,2023
+890679535,apple,Apple iPhone XS Max,Apple A12 Bionic (7 nm),Apple GPU (4-core graphics),256,4,248.68,2018
+891145197,xiaomi,Xiaomi Poco F5 Pro,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,256,12,389,2023
+891433075,samsung,Samsung Galaxy S23 FE,Exynos 2200 (4 nm) - International,Xclipse 920 - International,256,8,409.99,2023
+891913502,samsung,Samsung Galaxy A52,Qualcomm SM7125 Snapdragon 720G (8 nm),Adreno 618,256,6,499.99,2021
+892311559,xiaomi,Xiaomi Redmi Note 12 Pro,Mediatek Dimensity 1080 (6 nm),Mali-G68 MC4,256,8,284.45,2022
+892973202,motorola,Motorola Moto G35,Unisoc T760 (6 nm),Mali-G57,128,8,179,2024
+895169676,apple,Apple iPhone 12 Pro,Apple A14 Bionic (5 nm),Apple GPU (4-core graphics),512,6,389.99,2020
+895538111,samsung,Samsung Galaxy A52s 5G,Qualcomm SM7325 Snapdragon 778G 5G (6 nm),Adreno 642L,128,6,399.99,2021
+897531687,xiaomi,Xiaomi Redmi 13C 5G,Mediatek Dimensity 6100+ (6 nm),Mali-G57 MC2,128,6,209.99,2023
+897783069,samsung,Samsung Galaxy S23 FE,Exynos 2200 (4 nm) - International,Xclipse 920 - International,256,8,329.95,2023
+898477474,xiaomi,Xiaomi Poco M5s,Mediatek MT6785V/CD Helio G95 (12 nm),Mali-G76 MC4,128,6,157.99,2022
+898648098,xiaomi,Xiaomi Poco M6 4G,Mediatek Helio G91 Ultra (12 nm),Mali-G52 MC2,256,8,167.25,2024
+899318313,motorola,Motorola Moto G71 5G,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,6,125.83,2022
+899898849,motorola,Motorola Moto G72,Mediatek Helio G99 (6 nm),Mali-G57 MC2,128,8,149.99,2022
+900024768,xiaomi,Xiaomi Redmi 12C,Mediatek MT6769Z Helio G85 (12 nm),Mali-G52 MC2,128,6,117.99,2023
+900960853,apple,Apple iPhone XS,Apple A12 Bionic (7 nm),Apple GPU (4-core graphics),512,4,193,2018
+901478691,huawei,Huawei P30,Kirin 980 (7 nm),Mali-G76 MP10,128,6,222.07,2019
+902540232,realme,Realme GT Master,Qualcomm SM7325 Snapdragon 778G 5G (6 nm),Adreno 642L,128,8,249.99,2021
+903324750,samsung,Samsung Galaxy S20+ 5G,Exynos 990 (7 nm+) - Global,Mali-G77 MP11 - Global,256,12,559.99,2020
+904151507,xiaomi,Xiaomi Redmi 9C,Mediatek MT6765G Helio G35 (12 nm),PowerVR GE8320,32,3,119.99,2020
+904448136,samsung,Samsung Galaxy S10+,Exynos 9820 (8 nm) - EMEA/LATAM,Mali-G76 MP12 - EMEA/LATAM,128,8,159.43,2019
+904899772,xiaomi,Xiaomi Redmi 10 2022,Mediatek MT6769H Helio G88 (12 nm),Mali-G52 MC2,128,4,139.99,2022
+905287380,xiaomi,Xiaomi Redmi Note 10S,Mediatek MT6785V/CD Helio G95 (12 nm),Mali-G76 MC4,128,6,134.99,2021
+906393108,samsung,Samsung Galaxy Z Fold6,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm),Adreno 750 (1 GHz),512,12,1899.99,2024
+906571985,samsung,Samsung Galaxy A13,Exynos 850 (8 nm),Mali-G52,32,4,108.99,2022
+906820429,sony,Sony Xperia 1 V,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,12,805,2023
+907693806,honor,Honor X8a,Mediatek MT6769H Helio G88 (12 nm),Mali-G52 MC2,128,8,405,2023
+908132718,blackview,Blackview A96,Mediatek Helio G99 (6 nm),Mali-G57 MC2,256,12,146.43,2023
+908751904,oneplus,OnePlus Nord,Qualcomm SM7250 Snapdragon 765G 5G (7 nm),Adreno 620,128,8,159.99,2020
+909453359,huawei,Huawei P60 Pro,Qualcomm SM8475 Snapdragon 8+ Gen 1 4G (4 nm),Adreno 730,512,12,1290,2023
+909807310,motorola,Motorola Moto G54,Mediatek Dimensity 7020 (6 nm),IMG BXM-8-256,256,8,129.99,2023
+911006034,apple,Apple iPhone 15 Pro Max,Apple A17 Pro (3 nm),Apple GPU (6-core graphics),512,8,999.77,2023
+911010158,nokia,Nokia G10,Mediatek MT6762G Helio G25 (12 nm),PowerVR GE8320,32,4,102.98,2021
+911909364,tecno,Tecno Spark 10 5G,Mediatek Dimensity 6020 (7 nm),Mali-G57 MC2,128,8,145.94,2023
+912065056,sony,Sony Xperia 5 IV,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),Adreno 730,256,8,699,2022
+912302818,samsung,Samsung Galaxy M12,Exynos 850 (8 nm),Mali-G52,32,4,192.5,2021
+912465261,xiaomi,Xiaomi Redmi 12,Mediatek MT6769H Helio G88 (12 nm),Mali-G52 MC2,256,8,144.99,2023
+912633853,xiaomi,Xiaomi Redmi Note 11 Pro 5G,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,4,189.99,2022
+913285454,xiaomi,Xiaomi 14 Ultra,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Adreno 750,512,16,1078,2024
+913813172,apple,Apple iPhone 15 Pro,Apple A17 Pro (3 nm),Apple GPU (6-core graphics),512,8,981.4,2023
+914284847,apple,Apple iPhone XS Max,Apple A12 Bionic (7 nm),Apple GPU (4-core graphics),512,4,197.61,2018
+915025210,apple,Apple iPhone 12 mini,Apple A14 Bionic (5 nm),Apple GPU (4-core graphics),256,4,226.5,2020
+915566077,apple,Apple iPhone 12 Pro Max,Apple A14 Bionic (5 nm),Apple GPU (4-core graphics),256,6,379.97,2020
+915631403,oneplus,OnePlus 10 Pro,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),Adreno 730,256,8,336.03,2022
+915724262,apple,Apple iPhone 14 Pro,Apple A16 Bionic (4 nm),Apple GPU (5-core graphics),256,6,549.43,2022
+915987689,apple,Apple iPhone XR,Apple A12 Bionic (7 nm),Apple GPU (4-core graphics),256,3,187.99,2018
+917042700,samsung,Samsung Galaxy S23 Ultra,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),Adreno 740,1024,12,879.21,2023
+919406124,oneplus,OnePlus 11,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,256,16,581.95,2023
+919570561,oneplus,OnePlus Nord CE 3 Lite,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,256,8,205.34,2023
+919618990,xiaomi,Xiaomi Redmi Note 11 Pro,Mediatek MT6781 Helio G96 (12 nm),Mali-G57 MC2,128,8,228,2022
+919656615,xiaomi,Xiaomi Redmi Note 11 Pro,Mediatek MT6781 Helio G96 (12 nm),Mali-G57 MC2,128,6,189.99,2022
+921359440,apple,Apple iPhone 14 Plus,Apple A15 Bionic (5 nm),Apple GPU (5-core graphics),512,6,507.5,2022
+921405440,oppo,Oppo A96,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,128,8,199.25,2022
+921905489,apple,Apple iPhone 11,Apple A13 Bionic (7 nm+),Apple GPU (4-core graphics),256,4,282.99,2019
+924417991,oppo,Oppo A96,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,128,8,214.99,2022
+924952241,samsung,Samsung Galaxy S22 Ultra 5G,Exynos 2200 (4 nm) - Europe,Xclipse 920 - Europe,512,12,503.99,2022
+924954585,xiaomi,Xiaomi Poco F6 Pro,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,12,414.07,2024
+925161565,samsung,Samsung Galaxy S22+ 5G,Exynos 2200 (4 nm) - Europe,Xclipse 920 - Europe,256,8,440,2022
+925499646,xiaomi,Xiaomi Poco X4 Pro 5G,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,8,264.59,2022
+926981503,google,Google Pixel Fold,Google Tensor G2 (5 nm),Mali-G710 MP7,512,12,729.99,2023
+928804430,sony,Sony Xperia 1 IV,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),Adreno 730,512,12,677,2022
+928898212,samsung,Samsung Galaxy S20 FE 5G,Qualcomm SM8250 Snapdragon 865 5G (7 nm+),Adreno 650,128,8,149.99,2020
+929242936,google,Google Pixel 8a,Google Tensor G3 (4 nm),Immortalis-G715s MC10,256,8,332,2024
+929281567,realme,Realme C53,Unisoc Tiger T612 (12 nm),Mali-G57,256,8,122.63,2023
+932743456,oppo,Oppo Reno8,Mediatek Dimensity 1300 (6 nm),Mali-G77 MC9,256,8,189,2022
+932812274,xiaomi,Xiaomi 14T Pro,Mediatek Dimensity 9300+ (4 nm),Immortalis-G720 MC12,512,12,764.4,2024
+933158832,samsung,Samsung Galaxy Z Fold6,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm),Adreno 750 (1 GHz),1024,12,1899.99,2024
+933630824,motorola,Motorola Moto G30,Qualcomm SM6115 Snapdragon 662 (11 nm),Adreno 610,128,4,370.99,2021
+934175193,apple,Apple iPhone 16 Pro,Apple A18 Pro (3 nm),Apple GPU (6-core graphics),1024,8,1579,2024
+934553516,samsung,Samsung Galaxy A22 5G,Mediatek Dimensity 700 (7 nm),Mali-G57 MC2,128,6,224.36,2021
+935275706,xiaomi,Xiaomi Redmi Note 12 Pro 4G,Qualcomm SM7150 Snapdragon 732G (8 nm),Adreno 618,128,8,265.16,2023
+935971860,samsung,Samsung Galaxy A34,Mediatek Dimensity 1080 (6 nm),Mali-G68 MC4,128,8,159,2023
+937007317,oneplus,OnePlus 9 Pro,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,256,8,274.49,2021
+937427103,samsung,Samsung Galaxy Z Fold6,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm),Adreno 750 (1 GHz),1024,12,2019.99,2024
+937495763,samsung,Samsung Galaxy S23 Ultra,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,12,669.99,2023
+938087720,apple,Apple iPhone 15 Pro Max,Apple A17 Pro (3 nm),Apple GPU (6-core graphics),1024,8,1399.99,2023
+938361234,samsung,Samsung Galaxy S24+,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm) - USA/Canada/China,Adreno 750 (1 GHz) - USA/Canada/China,512,12,728.95,2024
+938726867,asus,Asus Zenfone 9,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,256,8,899,2022
+940586239,samsung,Samsung Galaxy A15 5G,Mediatek Dimensity 6100+ (6 nm),Mali-G57 MC2,256,8,132,2023
+940962192,sony,Sony Xperia 1 III,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,512,12,453.55,2021
+942101426,motorola,Motorola Edge 30,Qualcomm SM7325-AE Snapdragon 778G+ 5G (6 nm),Adreno 642L,128,8,495,2022
+942406637,xiaomi,Xiaomi Redmi 10,Mediatek MT6769H Helio G88 (12 nm),Mali-G52 MC2,128,6,99.99,2021
+942555729,apple,Apple iPhone 14 Pro Max,Apple A16 Bionic (4 nm),Apple GPU (5-core graphics),512,6,811.98,2022
+942587838,samsung,Samsung Galaxy A54,Exynos 1380 (5 nm),Mali-G68 MP5,128,8,178,2023
+942634778,honor,Honor Magic5 Lite,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,256,8,329.99,2023
+942892650,apple,Apple iPhone 13 Pro Max,Apple A15 Bionic (5 nm),Apple GPU (5-core graphics),1024,6,624.4,2021
+943168934,xiaomi,Xiaomi Redmi A2+,Mediatek Helio G36 (12 nm),PowerVR GE8320,32,3,89.91,2023
+943276679,xiaomi,Xiaomi Poco M4 Pro 5G,Mediatek Dimensity 810 (6 nm),Mali-G57 MC2,128,6,182.4,2021
+943922622,apple,Apple iPhone 13 Pro Max,Apple A15 Bionic (5 nm),Apple GPU (5-core graphics),1024,6,619.95,2021
+944115293,samsung,Samsung Galaxy A13 (SM-A137),Mediatek MT6769V/CU Helio G80 (12 nm),Mali-G52 MC2,32,4,167.19,2022
+945486575,samsung,Samsung Galaxy A53 5G,Exynos 1280 (5 nm),Mali-G68,128,6,134.09,2022
+946521027,nokia,Nokia G100,Qualcomm SM6115 Snapdragon 662 (11 nm),Adreno 610,128,4,56.87,2022
+946907533,xiaomi,Xiaomi Redmi Note 13,Mediatek Dimensity 6080 (6 nm),Mali-G57 MC2,256,8,135,2024
+947077886,xiaomi,Xiaomi Redmi 9,Mediatek MT6769V/CU Helio G80 (12 nm),Mali-G52 MC2,64,4,109.99,2020
+948253238,samsung,Samsung Galaxy M15,Mediatek Dimensity 6100+ (6 nm),Mali-G57 MC2,128,6,148.49,2024
+949000368,samsung,Samsung Galaxy A15,Mediatek Helio G99 (6 nm),Mali-G57 MC2,256,8,184.56,2023
+949081059,asus,Asus ROG Phone 7,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,16,888,2023
+949426700,motorola,Motorola Edge 40 Neo,MediaTek Dimensity 7030 (6 nm),Mali-G610 MC3,256,12,489.99,2023
+949694522,xiaomi,Xiaomi 13T Pro,Mediatek Dimensity 9200+ (4 nm),Immortalis-G715 MC11,512,12,899,2023
+949810307,xiaomi,Xiaomi Poco M5,Mediatek Helio G99 (6 nm),Mali-G57 MC2,128,6,159.99,2022
+950632675,apple,Apple iPhone 13 Pro,Apple A15 Bionic (5 nm),Apple GPU (5-core graphics),512,6,593,2021
+950942877,nokia,Nokia XR20,Qualcomm SM4350 Snapdragon 480 5G (8 nm),Adreno 619,128,6,204.99,2021
+951526110,xiaomi,Xiaomi Redmi A3,Mediatek Helio G36 (12 nm),PowerVR GE8320,128,6,94,2024
+951722379,xiaomi,Xiaomi Redmi Note 13,Mediatek Dimensity 6080 (6 nm),Mali-G57 MC2,256,8,755,2024
+952580289,nokia,Nokia G22,Unisoc T606 (12 nm),Mali-G57 MP1,128,4,122,2023
+952630729,huawei,Huawei P60 Pro,Qualcomm SM8475 Snapdragon 8+ Gen 1 4G (4 nm),Adreno 730,512,12,1059,2023
+953273690,xiaomi,Xiaomi Redmi 12C,Mediatek MT6769Z Helio G85 (12 nm),Mali-G52 MC2,64,4,97.17,2023
+953426830,google,Google Pixel 9 Pro,Google Tensor G4 (4 nm),Mali-G715 MC7,256,16,999,2024
+953723637,samsung,Samsung Galaxy S24 FE,Exynos 2400e (4 nm),Xclipse 940,512,8,709.99,2024
+954083294,oneplus,OnePlus 7T,Qualcomm SM8150 Snapdragon 855+ (7 nm),Adreno 640 (700 MHz),256,8,123,2019
+954690708,samsung,Samsung Galaxy S9+,Exynos 9810 (10 nm) - EMEA,Mali-G72 MP18 - EMEA,128,6,279,2018
+955248090,apple,Apple iPhone 12 mini,Apple A14 Bionic (5 nm),Apple GPU (4-core graphics),128,4,229,2020
+955249817,xiaomi,Xiaomi Poco M6 Pro,Mediatek Helio G99 Ultra,Mali-G57 MC2,512,12,174.49,2024
+956686869,oppo,Oppo Find X3 Pro,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,256,12,218,2021
+956734724,samsung,Samsung Galaxy S22+ 5G,Exynos 2200 (4 nm) - Europe,Xclipse 920 - Europe,256,8,274,2022
+956902389,samsung,Samsung Galaxy Note20 Ultra 5G,Exynos 990 (7 nm+) - Global,Mali-G77 MP11 - Global,256,8,334,2020
+957602343,realme,Realme Note 50,Unisoc Tiger T612 (12 nm),Mali-G57,128,4,215,2024
+957740233,realme,Realme C35,Unisoc Tiger T616 (12 nm),Mali-G57 MP1,128,4,90,2022
+958010919,xiaomi,Xiaomi Redmi Note 13 4G,Qualcomm SM6225 Snapdragon 685 (6 nm),Adreno 610,128,8,169,2024
+959704997,xiaomi,Xiaomi Redmi A2,Mediatek Helio G36 (12 nm),PowerVR GE8320,64,2,59.5,2023
+959849747,xiaomi,Xiaomi Mi Note 10 Lite,Qualcomm SDM730 Snapdragon 730G (8 nm),Adreno 618,128,6,129.27,2020
+959949237,nothing,Nothing Phone (1),Qualcomm SM7325-AE Snapdragon 778G+ 5G (6 nm),Adreno 642L,256,8,194.11,2022
+960143866,realme,Realme 9i,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,128,4,242.8,2022
+960170742,realme,Realme 9i,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,128,4,209.75,2022
+960869161,nokia,Nokia X30,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,256,8,274.13,2022
+961627701,realme,Realme 9 Pro,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,8,290.41,2022
+962463381,samsung,Samsung Galaxy S22 5G,Exynos 2200 (4 nm) - Europe,Xclipse 920 - Europe,256,8,219.95,2022
+963395036,motorola,Motorola Moto G (2023),Qualcomm SM4350-AC Snapdragon 480+ 5G (8 nm),Adreno 619,128,4,169.99,2023
+963580814,xiaomi,Xiaomi Redmi Note 13 Pro+,Mediatek Dimensity 7200 Ultra (4 nm),Mali-G610 MC4,256,12,289.12,2023
+963755110,xiaomi,Xiaomi Redmi Note 12 Pro 4G,Qualcomm SM7150 Snapdragon 732G (8 nm),Adreno 618,256,8,144.99,2023
+963835177,realme,Realme C67,Mediatek Dimensity 6100+ (6 nm),Mali-G57 MC2,128,6,118.3,2023
+964685018,samsung,Samsung Galaxy S9+,Exynos 9810 (10 nm) - EMEA,Mali-G72 MP18 - EMEA,128,6,148.44,2018
+964878557,honor,Honor Magic6 Pro,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Adreno 750,512,12,796.41,2024
+965887838,google,Google Pixel 9 Pro XL,Google Tensor G4 (4 nm),Mali-G715 MC7,512,16,1199,2024
+966757388,xiaomi,Xiaomi Poco X6,Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm),Adreno 710,256,12,281.99,2024
+966986365,honor,Honor X7b,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,256,6,194.47,2023
+967675202,samsung,Samsung Galaxy S20 FE 5G,Qualcomm SM8250 Snapdragon 865 5G (7 nm+),Adreno 650,256,8,479.97,2020
+968659216,apple,Apple iPhone XS,Apple A12 Bionic (7 nm),Apple GPU (4-core graphics),256,4,186,2018
+968706455,xiaomi,Xiaomi Mi 10T Pro 5G,Qualcomm SM8250 Snapdragon 865 5G (7 nm+),Adreno 650,256,8,247.03,2020
+969109823,xiaomi,Xiaomi Redmi Note 13 Pro 4G,Mediatek Helio G99 Ultra,Mali-G57 MC2,512,12,197.73,2024
+969212476,samsung,Samsung Galaxy S20 5G,Exynos 990 (7 nm+) - Global,Mali-G77 MP11 - Global,128,12,349,2020
+969614949,xiaomi,Xiaomi Redmi Note 11S 5G,Mediatek Dimensity 810 (6 nm),Mali-G57 MC2,128,4,133.36,2022
+970348516,apple,Apple iPhone 13 Pro,Apple A15 Bionic (5 nm),Apple GPU (5-core graphics),512,6,464.75,2021
+970447957,samsung,Samsung Galaxy M52 5G,Qualcomm SM7325 Snapdragon 778G 5G (6 nm),Adreno 642L,128,8,217,2021
+971494602,realme,Realme 9i,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,128,4,149.99,2022
+972689319,samsung,Samsung Galaxy Z Flip5,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),Adreno 740,512,8,999.99,2023
+973306502,samsung,Samsung Galaxy M12,Exynos 850 (8 nm),Mali-G52,64,4,329,2021
+973689913,xiaomi,Xiaomi 12,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),Adreno 730,256,12,374.3,2021
+973850726,realme,Realme GT2 Pro,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),Adreno 730,256,12,428.82,2022
+974439005,samsung,Samsung Galaxy A71,Qualcomm SDM730 Snapdragon 730 (8 nm) - Global,Adreno 618,128,8,129.38,2020
+974760853,samsung,Samsung Galaxy S24,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm) - USA/Canada/China,Adreno 750 (1 GHz) - USA/Canada/China,256,8,719.99,2024
+975899487,xiaomi,Xiaomi Redmi 12C,Mediatek MT6769Z Helio G85 (12 nm),Mali-G52 MC2,128,4,112.59,2023
+975922671,xiaomi,Xiaomi Poco F2 Pro,Qualcomm SM8250 Snapdragon 865 5G (7 nm+),Adreno 650,256,8,182.42,2020
+975935089,samsung,Samsung Galaxy S22 5G,Exynos 2200 (4 nm) - Europe,Xclipse 920 - Europe,256,8,268.5,2022
+977512332,samsung,Samsung Galaxy A13,Exynos 850 (8 nm),Mali-G52,128,4,191.14,2022
+978730406,samsung,Samsung Galaxy Z Fold3 5G,Qualcomm SM8350 Snapdragon 888 5G (5 nm),Adreno 660,512,12,1799.99,2021
+979895279,motorola,Motorola Edge 50 Ultra,Qualcomm SM8635 Snapdragon 8s Gen 3 (4 nm),Adreno 735,512,16,826.04,2024
+979945160,honor,Honor X8b,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,256,8,179.1,2023
+980538187,honor,Honor X7a,Mediatek MT6765H Helio G37 (12 nm),PowerVR GE8320,128,6,189.99,2023
+980975433,realme,Realme C35,Unisoc Tiger T616 (12 nm),Mali-G57 MP1,64,6,134.53,2022
+981122703,xiaomi,Xiaomi Redmi Note 13 4G,Qualcomm SM6225 Snapdragon 685 (6 nm),Adreno 610,128,8,133.7,2024
+981316656,samsung,Samsung Galaxy A54,Exynos 1380 (5 nm),Mali-G68 MP5,256,8,335,2023
+981532405,xiaomi,Xiaomi Poco X6 Pro,Mediatek Dimensity 8300 Ultra (4 nm),Mali G615-MC6,512,12,342.77,2024
+983074883,samsung,Samsung Galaxy A05s,Qualcomm SM6225 Snapdragon 680 4G (6 nm),Adreno 610,128,6,130.02,2023
+983475983,apple,Apple iPhone 15,Apple A16 Bionic (4 nm),Apple GPU (5-core graphics),512,6,929.99,2023
+983594358,motorola,Motorola Moto G72,Mediatek Helio G99 (6 nm),Mali-G57 MC2,256,8,184.99,2022
+984037163,infinix,Infinix Hot 12 Play,Mediatek MT6765V/CB Helio G37 (12 nm) - X6816,PowerVR GE8320 - X6816,128,6,102.13,2022
+985394975,samsung,Samsung Galaxy A32 5G,Mediatek Dimensity 720 (7 nm),Mali-G57 MC3,128,4,64.57,2021
+985803801,samsung,Samsung Galaxy S9+,Exynos 9810 (10 nm) - EMEA,Mali-G72 MP18 - EMEA,64,6,117.84,2018
+986505828,apple,Apple iPhone SE (2022),Apple A15 Bionic (5 nm),Apple GPU (4-core graphics),128,4,178,2022
+987974299,motorola,Motorola Edge 30 Fusion,Qualcomm SM8350 Snapdragon 888+ 5G (5 nm),Adreno 660,256,8,289,2022
+988424102,motorola,Motorola Moto G34,Qualcomm SM6375 Snapdragon 695 5G (6 nm),Adreno 619,128,4,119.99,2023
+989055511,nothing,Nothing Phone (2a) Plus,Mediatek Dimensity 7350 Pro (4 nm),Mali-G610 MC4,256,12,397.99,2024
+990297533,motorola,Motorola Moto G51 5G,Qualcomm SM4350-AC Snapdragon 480+ 5G (8 nm),Adreno 619,64,6,160.99,2021
+990520927,samsung,Samsung Galaxy S9,Exynos 9810 (10 nm) - EMEA,Mali-G72 MP18 - EMEA,256,4,309.99,2018
+990678039,xiaomi,Xiaomi 14,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Adreno 750,256,12,153.49,2023
+992341362,honor,Honor Magic V2,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm) - Intl,Adreno 740,512,16,997.36,2023
+992361648,apple,Apple iPhone 13,Apple A15 Bionic (5 nm),Apple GPU (4-core graphics),512,4,433.45,2021
+992926945,xiaomi,Xiaomi Poco X6 Pro,Mediatek Dimensity 8300 Ultra (4 nm),Mali G615-MC6,256,12,369,2024
+994232944,asus,Asus ROG Phone 6,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),Adreno 730,128,12,697,2022
+996355957,xiaomi,Xiaomi Redmi 13C,Mediatek MT6769Z Helio G85 (12 nm),Mali-G52 MC2,128,6,119,2023
+996687728,oppo,Oppo A16,Mediatek MT6765G Helio G35 (12 nm),PowerVR GE8320,64,4,84.17,2021
+996856121,samsung,Samsung Galaxy S24 Ultra,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm),Adreno 750 (1 GHz),1024,12,1148,2024

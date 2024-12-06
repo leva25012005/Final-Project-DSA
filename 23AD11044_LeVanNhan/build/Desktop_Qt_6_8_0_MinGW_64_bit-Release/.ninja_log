@@ -1,0 +1,46 @@
+# ninja log v6
+4	523	7546600564959377	untitled_autogen/timestamp	d3bc056a47b7ed96
+4	523	7546600564959377	untitled_autogen/mocs_compilation.cpp	d3bc056a47b7ed96
+4	523	7546600564959377	E:/Subject/HK1_24-25/Data Structure and Algorithms/Project_DSA/Final_Project/untitled/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/untitled_autogen/timestamp	d3bc056a47b7ed96
+4	523	7546600564959377	E:/Subject/HK1_24-25/Data Structure and Algorithms/Project_DSA/Final_Project/untitled/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/untitled_autogen/mocs_compilation.cpp	d3bc056a47b7ed96
+527	1710	7546600565569381	CMakeFiles/untitled.dir/main.cpp.obj	90c9efeb262192f2
+525	1788	7546600565549450	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	71857dcd805813c8
+531	1816	7546600565609374	CMakeFiles/untitled.dir/BSTPhone.cpp.obj	9d0dd56ff8824279
+529	2342	7546600565589381	CMakeFiles/untitled.dir/mainwindow.cpp.obj	4fc42c8f5cd05f7e
+2343	2479	7546600583727935	untitled.exe	4c4dcedab9bee4da
+22	181	7546601369299160	untitled_autogen/timestamp	d3bc056a47b7ed96
+22	181	7546601369299160	untitled_autogen/mocs_compilation.cpp	d3bc056a47b7ed96
+22	181	7546601369299160	E:/Subject/HK1_24-25/Data Structure and Algorithms/Project_DSA/Final_Project/untitled/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/untitled_autogen/timestamp	d3bc056a47b7ed96
+22	181	7546601369299160	E:/Subject/HK1_24-25/Data Structure and Algorithms/Project_DSA/Final_Project/untitled/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/untitled_autogen/mocs_compilation.cpp	d3bc056a47b7ed96
+181	1829	7546601370890249	CMakeFiles/untitled.dir/mainwindow.cpp.obj	4fc42c8f5cd05f7e
+1829	1938	7546601387372105	untitled.exe	4c4dcedab9bee4da
+29	216	7546601829389735	untitled_autogen/timestamp	d3bc056a47b7ed96
+29	216	7546601829389735	untitled_autogen/mocs_compilation.cpp	d3bc056a47b7ed96
+29	216	7546601829389735	E:/Subject/HK1_24-25/Data Structure and Algorithms/Project_DSA/Final_Project/untitled/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/untitled_autogen/timestamp	d3bc056a47b7ed96
+29	216	7546601829389735	E:/Subject/HK1_24-25/Data Structure and Algorithms/Project_DSA/Final_Project/untitled/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/untitled_autogen/mocs_compilation.cpp	d3bc056a47b7ed96
+217	1913	7546601831262321	CMakeFiles/untitled.dir/mainwindow.cpp.obj	4fc42c8f5cd05f7e
+1913	2020	7546601848232419	untitled.exe	4c4dcedab9bee4da
+46	680	7546606164874641	untitled_autogen/timestamp	d3bc056a47b7ed96
+46	680	7546606164874641	untitled_autogen/mocs_compilation.cpp	d3bc056a47b7ed96
+46	680	7546606164874641	E:/Subject/HK1_24-25/Data Structure and Algorithms/Project_DSA/Final_Project/untitled/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/untitled_autogen/timestamp	d3bc056a47b7ed96
+46	680	7546606164874641	E:/Subject/HK1_24-25/Data Structure and Algorithms/Project_DSA/Final_Project/untitled/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/untitled_autogen/mocs_compilation.cpp	d3bc056a47b7ed96
+680	2065	7546606165634865	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	71857dcd805813c8
+682	2105	7546606165654924	CMakeFiles/untitled.dir/main.cpp.obj	90c9efeb262192f2
+686	2164	7546606165690076	CMakeFiles/untitled.dir/BSTPhone.cpp.obj	9d0dd56ff8824279
+684	2818	7546606165670012	CMakeFiles/untitled.dir/mainwindow.cpp.obj	4fc42c8f5cd05f7e
+2818	2925	7546606187014443	untitled.exe	4c4dcedab9bee4da
+18	604	7546621777287309	untitled_autogen/timestamp	d3bc056a47b7ed96
+18	604	7546621777287309	untitled_autogen/mocs_compilation.cpp	d3bc056a47b7ed96
+18	604	7546621777287309	E:/Subject/HK1_24-25/Data Structure and Algorithms/Project_DSA/Final_Project/untitled/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/untitled_autogen/timestamp	d3bc056a47b7ed96
+18	604	7546621777287309	E:/Subject/HK1_24-25/Data Structure and Algorithms/Project_DSA/Final_Project/untitled/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/untitled_autogen/mocs_compilation.cpp	d3bc056a47b7ed96
+607	2030	7546621778152529	CMakeFiles/untitled.dir/main.cpp.obj	90c9efeb262192f2
+612	2084	7546621778202536	CMakeFiles/untitled.dir/BSTPhone.cpp.obj	9d0dd56ff8824279
+604	2125	7546621778127478	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	71857dcd805813c8
+610	2810	7546621778182532	CMakeFiles/untitled.dir/mainwindow.cpp.obj	4fc42c8f5cd05f7e
+2810	2938	7546621800186970	untitled.exe	4c4dcedab9bee4da
+8	147	7546622744339690	untitled_autogen/timestamp	d3bc056a47b7ed96
+8	147	7546622744339690	untitled_autogen/mocs_compilation.cpp	d3bc056a47b7ed96
+8	147	7546622744339690	E:/Subject/HK1_24-25/Data Structure and Algorithms/Project_DSA/Final_Project/untitled/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/untitled_autogen/timestamp	d3bc056a47b7ed96
+8	147	7546622744339690	E:/Subject/HK1_24-25/Data Structure and Algorithms/Project_DSA/Final_Project/untitled/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/untitled_autogen/mocs_compilation.cpp	d3bc056a47b7ed96
+148	1815	7546622745739310	CMakeFiles/untitled.dir/mainwindow.cpp.obj	4fc42c8f5cd05f7e
+1815	1958	7546622762411309	untitled.exe	4c4dcedab9bee4da
