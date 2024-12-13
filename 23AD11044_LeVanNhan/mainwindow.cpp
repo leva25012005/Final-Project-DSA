@@ -3,12 +3,14 @@
 #include "BSTPhone.h"
 #include <QMessageBox>
 #include <QDebug>
+#include <iostream>
 #include <qpainter.h>
 #include <QStyleOptionSlider>
 #include <QLabel>
 #include <QVBoxLayout>
 #include <QVector>
 #include <QStringList>
+#include <string>
 
 // Hàm hiển thị thành phần của cây
 void DisplayTree(QTreeWidget* treeWidget, BSTPhone* node, int start, int end, int& currentCount) {
@@ -183,6 +185,7 @@ MainWindow::MainWindow(QWidget *parent)
 
     // Kết nối sự kiện cho text search
     connect(ui->txtSearch_2, &QLineEdit::textChanged, this, &MainWindow::onSearchTextChanged);
+    //connect(ui->txtSearch_2, &QLineEdit::textChanged, this, &MainWindow::on_btnSearch_clicked);
     // Kết nói sự kiện cho combo box search
     connect(ui->cbSearch_2, QOverload<int>::of(&QComboBox::currentIndexChanged), this, &MainWindow::cbSearch_2_currentIndexChanged);
 
@@ -656,10 +659,28 @@ void MainWindow::btnFilter_clicked()
 }
 
 // Search
+// Kiểm tra xem số nguyên `value` có bắt đầu bằng `prefix` hay không
+bool startsWith(int value, const std::string& prefix) {
+    return std::to_string(value).find(prefix) == 0;
+}
+// Hàm tìm kiếm gần đúng trong cây BST
+void searchApproximatePhoneID(BSTPhone* root, const std::string& prefix, std::vector<PhoneInformation>& results) {
+    if (root == nullptr) return;
+
+    // Duyệt cây bên trái
+    searchApproximatePhoneID(root->left, prefix, results);
+
+    // Nếu PhoneID của node hiện tại bắt đầu bằng prefix, thêm vào danh sách kết quả
+    if (startsWith(root->data.PhoneID, prefix)) {
+        results.push_back(root->data);
+    }
+    // Duyệt cây bên phải
+    searchApproximatePhoneID(root->right, prefix, results);
+}
 void MainWindow::onSearchTextChanged(const QString &text) {
     ui->treeWidget->clear(); // Xóa kết quả cũ
 
-    if (text.isEmpty() || ui->cbSearch_2->currentIndex() == 0) {
+    if (text.isEmpty()) {
         // Nếu nội dung tìm kiếm trống, hiển thị lại toàn bộ danh sách
         PaginationInWidget(ui->treeWidget, treeRoot);
 
@@ -673,26 +694,40 @@ void MainWindow::onSearchTextChanged(const QString &text) {
 
     if (ui->cbSearch_2->currentIndex() == 1) {
         // Tìm kiếm theo ID
-        bool valid = false;
-        int id = text.toInt(&valid);
+        QString input = ui->txtSearch_2->text();  // Lấy tiền tố PhoneID từ QLineEdit
+        std::string prefix = input.toStdString();
 
-        if (valid) {
-            BSTPhone* foundNode = FindNode(treeRoot, id);
-            if (foundNode) {
+        // Danh sách lưu kết quả tìm kiếm
+        vector<PhoneInformation> results;
+
+        // Gọi hàm tìm kiếm gần đúng
+        searchApproximatePhoneID(treeRoot, prefix, results);
+
+        if (!results.empty()) {
+            totalItems = results.size();
+            for (const auto& result : results)
+            {
                 QTreeWidgetItem* item = new QTreeWidgetItem(ui->treeWidget);
-                item->setText(0, QString::number(foundNode->data.PhoneID));
-                item->setText(1, QString::fromStdString(foundNode->data.PhoneBrand));
-                item->setText(2, QString::fromStdString(foundNode->data.PhoneModel));
-                item->setText(3, QString::fromStdString(foundNode->data.PhoneChipset));
-                item->setText(4, QString::fromStdString(foundNode->data.PhoneGPU));
-                item->setText(5, QString::number(foundNode->data.PhoneStorage));
-                item->setText(6, QString::number(foundNode->data.PhoneRam));
-                item->setText(7, QString::number(foundNode->data.PhonePrice));
-                item->setText(8, QString::number(foundNode->data.PhoneYear));
-            } else {
-                QTreeWidgetItem* item = new QTreeWidgetItem(ui->treeWidget);
-                item->setText(0, "Không tìm thấy ID phù hợp");
+                item->setText(0, QString::number(result.PhoneID));
+                item->setText(1, QString::fromStdString(result.PhoneBrand));
+                item->setText(2, QString::fromStdString(result.PhoneModel));
+                item->setText(3, QString::fromStdString(result.PhoneChipset));
+                item->setText(4, QString::fromStdString(result.PhoneGPU));
+                item->setText(5, QString::number(result.PhoneStorage));
+                item->setText(6, QString::number(result.PhoneRam));
+                item->setText(7, QString::number(result.PhonePrice));
+                item->setText(8, QString::number(result.PhoneYear));
             }
+
+            //ShowPage(ui->treeWidget, results, currentPage);
+            for (const auto& phone : results) {
+                qDebug() << "PhoneID: " << phone.PhoneID << "\n";
+            }
+            qDebug() << totalItems << ' ' << totalPages<< "\n";
+
+        } else {
+            // Thông báo nếu không tìm thấy
+            QMessageBox::warning(this, "Not Found", "No phones found with the given prefix.");
         }
 
         ui->btnNextP_2->setEnabled(false);
@@ -709,7 +744,7 @@ void MainWindow::onSearchTextChanged(const QString &text) {
             QTreeWidgetItem* item = new QTreeWidgetItem(ui->treeWidget);
             item->setText(0, "Không tìm thấy Model phù hợp");
         }
-
+        DeleteTree(resultTree); // xóa cây sau khi dùng
         ui->btnNextP_2->setEnabled(false);
         ui->btnPrePage_2->setEnabled(false);
         ui->sbPage->setEnabled(false);
@@ -718,18 +753,16 @@ void MainWindow::onSearchTextChanged(const QString &text) {
 
 void MainWindow::cbSearch_2_currentIndexChanged(int index)
 {
-    if (ui->cbSearch_2->currentIndex() == 0) {
+    /*if (ui->cbSearch_2->currentIndex() == 0) {
         ui->btnNextP_2->setEnabled(true);
         ui->btnPrePage_2->setEnabled(true);
         ui->sbPage->setEnabled(true);
         ui->cbSearch_2->setCurrentIndex(0);
         ui->txtSearch_2->clear();
         return;
-    }
+    }*/
+    ui->txtSearch_2->clear();
 }
-
-
-
 
 void MainWindow::on_cbS_currentIndexChanged(int index)
 {
