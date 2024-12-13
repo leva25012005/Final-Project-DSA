@@ -354,26 +354,38 @@ void MainWindow::btnDelete_2_clicked()
         return;
     }
 
-    // Xóa điện thoại khỏi cây BST
-    treeRoot = DeletePhone(treeRoot, phoneID);
+    // Thông báo xác nhận xóa
+    QMessageBox::StandardButton reply;
+    reply = QMessageBox::question(this, "Addition Confirmation", "DO YOU WANT TO ADD A NEW PHONE?", QMessageBox::Yes | QMessageBox::No, QMessageBox::No);
 
-    // Cập nhật lại cây trên QTreeWidget sau khi xóa
-    ui->treeWidget->clear();
-    PaginationInWidget(ui->treeWidget,treeRoot);
+    if (reply == QMessageBox::Yes) {
+        // Xóa điện thoại khỏi cây BST
+        treeRoot = DeletePhone(treeRoot, phoneID);
 
-    // Xóa nội dung của các QLineEdit sau khi chọn
-    ui->txtID_2->clear();
-    ui->txtBrand_2->clear();
-    ui->txtModel_2->clear();
-    ui->txtChipset_2->clear();
-    ui->txtGPU_2->clear();
-    ui->txtStorage_2->clear();
-    ui->txtRam_2->clear();
-    ui->txtPrice_2->clear();
-    ui->txtYear_2->clear();
+        // Cập nhật lại cây trên QTreeWidget sau khi xóa
+        ui->treeWidget->clear();
+        PaginationInWidget(ui->treeWidget,treeRoot);
 
-    // Thông báo thành công
-    QMessageBox::information(this, "Delete", "Phone deleted successfully.");
+        // Xóa nội dung của các QLineEdit sau khi chọn
+        ui->txtID_2->clear();
+        ui->txtBrand_2->clear();
+        ui->txtModel_2->clear();
+        ui->txtChipset_2->clear();
+        ui->txtGPU_2->clear();
+        ui->txtStorage_2->clear();
+        ui->txtRam_2->clear();
+        ui->txtPrice_2->clear();
+        ui->txtYear_2->clear();
+
+        // Thông báo thành công
+        QMessageBox::information(this, "Delete", "Phone deleted successfully.");
+    } else {
+        // Nếu chọn Cancel, không làm gì cả
+        QMessageBox::information(this, "Delete", "Phone deleted cancelled.");
+    }
+
+
+
 }
 // Cập nhật phần tử trong cây
 void MainWindow::btnUpdate_2_clicked()
