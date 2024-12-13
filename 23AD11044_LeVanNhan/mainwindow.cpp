@@ -7,7 +7,8 @@
 #include <QStyleOptionSlider>
 #include <QLabel>
 #include <QVBoxLayout>
-
+#include <QVector>
+#include <QStringList>
 
 // Hàm hiển thị thành phần của cây
 void DisplayTree(QTreeWidget* treeWidget, BSTPhone* node, int start, int end, int& currentCount) {
@@ -182,6 +183,11 @@ MainWindow::MainWindow(QWidget *parent)
     // Kết nói sự kiện cho combo box search
     connect(ui->cbSearch_2, QOverload<int>::of(&QComboBox::currentIndexChanged), this, &MainWindow::cbSearch_2_currentIndexChanged);
 
+    // Kết nối sự kiện cho combo box filter sau khi được thêm giá trị mới
+    ui->btnFilter->setEnabled(false);
+    connect(ui->cbS, SIGNAL(currentIndexChanged(int)), this, SLOT(on_cbS_currentIndexChanged(int)));
+    connect(ui->cbR, SIGNAL(currentIndexChanged(int)), this, SLOT(on_cbR_currentIndexChanged(int)));
+    connect(ui->cbY, SIGNAL(currentIndexChanged(int)), this, SLOT(on_cbY_currentIndexChanged(int)));
 }
 
 MainWindow::~MainWindow()
@@ -257,6 +263,56 @@ void MainWindow::treeWidget_itemClicked(QTreeWidgetItem *item, int column)
 }
 // CRUD
 // Thêm một phần tử mới vào cây
+// Hàm duyệt nếu có giá trị mới
+void MainWindow::FindCriteria(PhoneInformation data, QVector<int>& storageArr, QVector<int>& ramArr, QVector<int>& yearArr)
+{
+    // Kiểm tra và thêm vào các vector nếu giá trị chưa có
+    if (!storageArr.contains(data.PhoneStorage)) {
+        storageArr.push_back(data.PhoneStorage);
+    }
+
+    if (!ramArr.contains(data.PhoneRam)) {
+        ramArr.push_back(data.PhoneRam);
+    }
+
+    if (!yearArr.contains(data.PhoneYear)) {
+        yearArr.push_back(data.PhoneYear);
+    }
+
+    // Sắp xếp lại các vector theo thứ tự tăng dần
+    std::sort(storageArr.begin(), storageArr.end());
+    std::sort(ramArr.begin(), ramArr.end());
+    std::sort(yearArr.begin(), yearArr.end());
+
+    // Lấy con trỏ tới combo box trong giao diện (Giả sử bạn có các combo box)
+    QComboBox* storageComboBox = ui->cbS;  // ComboBox cho Storage
+    QComboBox* ramComboBox = ui->cbR;          // ComboBox cho RAM
+    QComboBox* yearComboBox = ui->cbY;        // ComboBox cho Year
+
+    // Làm trống combo box trước khi thêm giá trị mới
+    storageComboBox->clear();
+    ramComboBox->clear();
+    yearComboBox->clear();
+
+    // Thêm "all" vào đầu combo box
+    storageComboBox->addItem("All");
+    ramComboBox->addItem("All");
+    yearComboBox->addItem("All");
+
+    // Thêm các giá trị vào combo box từ các vector đã sắp xếp
+    for(int i = 0; i < storageArr.size(); i++)
+        storageComboBox->addItem(QString::number(storageArr[i]));  // Thêm từng phần tử vào combo box
+    ui->cbS->removeItem(1);
+
+    for(int i = 0; i < ramArr.size(); i++)
+        ramComboBox->addItem(QString::number(ramArr[i]));  // Thêm từng phần tử vào combo box
+    ui->cbR->removeItem(1);
+
+    for(int i = 0; i < yearArr.size(); i++)
+        yearComboBox->addItem(QString::number(yearArr[i]));  // Thêm từng phần tử vào combo box
+    ui->cbY->removeItem(1);
+    ui->btnFilter->setEnabled(false);
+}
 void MainWindow::btnAdd_2_clicked()
 {
     // Lấy thông tin từ các QLineEdit
@@ -324,6 +380,9 @@ void MainWindow::btnAdd_2_clicked()
     // Thêm thông tin điện thoại vào cây BST
     treeRoot = AddPhone(treeRoot, newPhone);
 
+    // Cập nhập giá trị cho combo nếu là giá trị
+    FindCriteria(newPhone, storageArr, ramArr, yearArr);
+
     // Cập nhật cây trên QTreeWidget
     ui->treeWidget->clear();
     PaginationInWidget(ui->treeWidget, treeRoot);
@@ -337,7 +396,7 @@ void MainWindow::btnAdd_2_clicked()
     ui->txtStorage_2->clear();
     ui->txtRam_2->clear();
     ui->txtPrice_2->clear();
-    ui->txtYear_2->clear();
+    ui->txtYear_2->clear();    
 
     // Thông báo thành công
     QMessageBox::information(this, "Addition", "Phone added successfully.");
@@ -430,7 +489,6 @@ void MainWindow::btnSave_clicked()
     // Hiển thị thông báo thành công
     QMessageBox::information(this, "Save Successful", "Data has been successfully saved to the file.");
 }
-
 // Reset
 void MainWindow::btnClear_clicked()
 {
@@ -449,6 +507,7 @@ void MainWindow::btnClear_clicked()
     ui->txtID_2->setReadOnly(false);
 
     isFiltered = false; // Đặt lại trạng thái không lọc
+    ui->btnFilter->setEnabled(false);
 
     treeRoot = CopyTree(originalTreeRoot);
     totalItems = countNodes(treeRoot);
@@ -518,14 +577,21 @@ void FilterNodes(int storage, int ram, int year, BSTPhone* tree, vector<PhoneInf
     FilterNodes(storage, ram, year, tree->left, result);
     FilterNodes(storage, ram, year, tree->right, result);
 }
+// Sự kiện trích lọc
 void MainWindow::onChangedIndex() {
-    int storageArr[] = {0, 32, 64, 128, 256, 512, 1024};
-    int ramArr[] = {0, 2, 3, 4, 6, 8, 12, 16, 24};
-    int yearArr[] = {0, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024};
+    //int storageArr[] = {0, 32, 64, 128, 256, 512, 1024};
+    //nt ramArr[] = {0, 2, 3, 4, 6, 8, 12, 16, 24};
+    //int yearArr[] = {0, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024};
+
+    // Lưu trữ giá trị cây trước khi trích lọc
+    originalTreeRoot = CopyTree(treeRoot);
 
     int storageIndex = ui->cbS->currentIndex();
     int ramIndex = ui->cbR->currentIndex();
     int yearIndex = ui->cbY->currentIndex();
+
+    // Lưu trữ giá trị cây trước khi trích+
+    originalTreeRoot = CopyTree(treeRoot);
 
     // Làm trống danh sách node đã lọc
     filteredNodes.clear();
@@ -546,9 +612,10 @@ void MainWindow::onChangedIndex() {
     // Cập nhật giao diện với trang đầu tiên
     ShowPage(ui->treeWidget, filteredNodes, currentPage);
 }
+
 void MainWindow::btnFilter_clicked()
 {
-    onChangedIndex();
+        onChangedIndex();
 }
 
 // Search
@@ -612,7 +679,6 @@ void MainWindow::onSearchTextChanged(const QString &text) {
     }
 }
 
-
 void MainWindow::cbSearch_2_currentIndexChanged(int index)
 {
     if (ui->cbSearch_2->currentIndex() == 0) {
@@ -626,4 +692,25 @@ void MainWindow::cbSearch_2_currentIndexChanged(int index)
 }
 
 
+
+
+void MainWindow::on_cbS_currentIndexChanged(int index)
+{
+    if(index != 0)
+        ui->btnFilter->setEnabled(true);
+}
+
+
+void MainWindow::on_cbR_currentIndexChanged(int index)
+{
+    if(index != 0)
+        ui->btnFilter->setEnabled(true);
+}
+
+
+void MainWindow::on_cbY_currentIndexChanged(int index)
+{
+    if(index != 0)
+        ui->btnFilter->setEnabled(true);
+}
 

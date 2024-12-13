@@ -5,7 +5,7 @@
 #include <QTreeWidget>
 #include <qlabel.h>
 #include "BSTPhone.h"
-#include "LinkedList.h"
+#include <QVector>
 QT_BEGIN_NAMESPACE
 namespace Ui {
 class MainWindow;
@@ -65,11 +65,16 @@ private slots:
     // Sự kiện trích lọc
     void onChangedIndex();
     void btnFilter_clicked();
+    void FindCriteria(PhoneInformation data, QVector<int>& storageArr, QVector<int>& ramArr, QVector<int>& yearArr);
     // SEARCH
     void onSearchTextChanged(const QString &text);
     void cbSearch_2_currentIndexChanged(int index);
 
+    void on_cbS_currentIndexChanged(int index);
 
+    void on_cbR_currentIndexChanged(int index);
+
+    void on_cbY_currentIndexChanged(int index);
 
 private:
     Ui::MainWindow *ui;
@@ -79,9 +84,14 @@ private:
     QString filePathSource = "E:\\Subject\\HK1_24-25\\Data Structure and Algorithms\\Project_DSA\\FinalProject_DSA-main\\Final-Project-DSA\\23AD11044_LeVanNhan\\Phone4.csv";  // Đường dẫn tới file CSV
     BSTPhone* treeRoot = ReadCSV(filePathSource.toStdString());
     BSTPhone* originalTreeRoot = nullptr;
-    List* list = new List();
+
     bool isPaginationEnabled = true;  // Mặc định là bật phân trang
-    std::vector<PhoneInformation> filteredNodes; // Danh sách node sau khi lọc
+    vector<PhoneInformation> filteredNodes; // Danh sách node sau khi lọc
     bool isFiltered = false; // Trạng thái lọc
+
+    QVector<int> storageArr = {0, 32, 64, 128, 256, 512, 1024};
+    QVector<int> ramArr = {0, 2, 3, 4, 6, 8, 12, 16, 24};
+    QVector<int> yearArr = {0, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024};
+
 };
 #endif // MAINWINDOW_H

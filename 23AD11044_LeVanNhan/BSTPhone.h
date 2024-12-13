@@ -1,6 +1,7 @@
 #ifndef BSTPHONE_H
 #define BSTPHONE_H
 #include <string>
+#include <vector>
 using namespace std;
 
 //BST
@@ -11,6 +12,18 @@ struct PhoneInformation {
     PhoneInformation()
         : PhoneBrand(""), PhoneModel(""), PhoneChipset(""), PhoneGPU(""),
         PhonePrice(0.0f), PhoneRam(0), PhoneStorage(0), PhoneYear(0), PhoneID(0) {}
+
+    // Nạp chồng toán tử
+    // Định nghĩa toán tử so sánh '==' để so sánh các đối tượng PhoneInformation
+    bool operator==(const PhoneInformation& other) const {
+        return PhoneID == other.PhoneID;  // So sánh dựa trên PhoneID
+    }
+
+    // Định nghĩa toán tử '<' để sắp xếp theo PhoneStorage
+    bool operator<(const PhoneInformation& other) const {
+        return PhoneStorage < other.PhoneStorage;  // So sánh theo PhoneStorage
+    }
+
 };
 struct BSTPhone {
     PhoneInformation data;
@@ -48,4 +61,5 @@ BSTPhone* FindMaxNode(BSTPhone* t);
 BSTPhone* SortTree(BSTPhone* t, int choice, bool isAscending);
 // Search
 BSTPhone* FindNodesByModel(BSTPhone* tree, const string& model);
+
 #endif // BSTPHONE_H
