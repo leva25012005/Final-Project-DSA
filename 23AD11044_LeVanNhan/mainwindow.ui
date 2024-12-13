@@ -361,7 +361,7 @@
    <widget class="QSpinBox" name="sbPage">
     <property name="geometry">
      <rect>
-      <x>80</x>
+      <x>50</x>
       <y>80</y>
       <width>42</width>
       <height>22</height>
@@ -553,19 +553,6 @@
       </item>
      </layout>
     </widget>
-    <widget class="QLabel" name="label">
-     <property name="geometry">
-      <rect>
-       <x>220</x>
-       <y>10</y>
-       <width>141</width>
-       <height>16</height>
-      </rect>
-     </property>
-     <property name="text">
-      <string>Note: 0 take a whole</string>
-     </property>
-    </widget>
    </widget>
    <widget class="QPushButton" name="btnFilter">
     <property name="geometry">
@@ -578,6 +565,19 @@
     </property>
     <property name="text">
      <string>Filter</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="txt_total">
+    <property name="geometry">
+     <rect>
+      <x>790</x>
+      <y>80</y>
+      <width>141</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Total items:</string>
     </property>
    </widget>
   </widget>

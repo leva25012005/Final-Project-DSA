@@ -1,7 +1,7 @@
 #ifndef BSTPHONE_H
 #define BSTPHONE_H
+#include <qtypes.h>
 #include <string>
-#include <vector>
 using namespace std;
 
 //BST
@@ -58,7 +58,7 @@ BSTPhone* FindMinNode(BSTPhone* t);
 // Tìm Node có id lớn nhất
 BSTPhone* FindMaxNode(BSTPhone* t);
 // Sort
-BSTPhone* SortTree(BSTPhone* t, int choice, bool isAscending);
+BSTPhone* SortTree(BSTPhone* t, int choice, bool isAscending, qint64 &elapsed);
 // Search
 BSTPhone* FindNodesByModel(BSTPhone* tree, const string& model);
 

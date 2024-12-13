@@ -92,8 +92,8 @@ void MainWindow::ShowPage(QTreeWidget* widget, const std::vector<PhoneInformatio
         widget->addTopLevelItem(item);
     }
 
-    ui->sbPage->hide();
-    ui->lbPage->hide();
+    //ui->sbPage->hide();
+    //ui->lbPage->hide();
 }
 void MainWindow::showTreeInWidget(QTreeWidget* treeWidget, BSTPhone* treeRoot) {
     // Tạo cây BST từ dữ liệu CSV
@@ -131,6 +131,9 @@ MainWindow::MainWindow(QWidget *parent)
     , ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
+
+    // Total items
+    ui->txt_total->setVisible(false);
 
     // Hiển thị cây trong QTreeWidget
     PaginationInWidget(ui->treeWidget,treeRoot);
@@ -204,6 +207,7 @@ void MainWindow::btnNextP_2_clicked()
         // Nếu chưa đến trang cuối, tăng currentPage lên 1
         currentPage++;
         if (isFiltered) { // Nếu đang lọc
+            ui->sbPage->setValue(currentPage);
             ShowPage(ui->treeWidget, filteredNodes, currentPage);
         } else { // Hiển thị toàn bộ dữ liệu
             PaginationInWidget(ui->treeWidget, treeRoot);
@@ -223,7 +227,10 @@ void MainWindow::btnPrePage_2_clicked()
     {
         currentPage--;
         if (isFiltered)  // Nếu đang lọc
+        {
+            ui->sbPage->setValue(currentPage);
             ShowPage(ui->treeWidget, filteredNodes, currentPage);
+        }
         else PaginationInWidget(ui->treeWidget, treeRoot);
     }
     else
@@ -383,6 +390,9 @@ void MainWindow::btnAdd_2_clicked()
     // Cập nhập giá trị cho combo nếu là giá trị
     FindCriteria(newPhone, storageArr, ramArr, yearArr);
 
+    // Lưu trữ giá trị mới
+    originalTreeRoot = CopyTree(treeRoot);
+
     // Cập nhật cây trên QTreeWidget
     ui->treeWidget->clear();
     PaginationInWidget(ui->treeWidget, treeRoot);
@@ -436,6 +446,9 @@ void MainWindow::btnDelete_2_clicked()
         ui->txtPrice_2->clear();
         ui->txtYear_2->clear();
 
+        // Lưu trữ cây sau khi xóa
+        originalTreeRoot = CopyTree(treeRoot);
+
         // Thông báo thành công
         QMessageBox::information(this, "Delete", "Phone deleted successfully.");
     } else {
@@ -474,6 +487,9 @@ void MainWindow::btnUpdate_2_clicked()
 
     // Cập nhật cây BST với thông tin mới
     treeRoot = UpdatePhone(treeRoot, updatedPhone);
+
+    // Lưu trữ cây sau khi cập nhật
+    originalTreeRoot = CopyTree(treeRoot);
 
     // Hiển thị lại cây sau khi cập nhật
     ui->treeWidget->clear();
@@ -532,29 +548,44 @@ void MainWindow::btnClear_clicked()
 // Sort
 void MainWindow::cbSort_2_currentIndexChanged(int index)
 {
+    //originalTreeRoot = CopyTree(treeRoot); // Khôi phục từ bản sao
+
+    qint64 elapsed = 0;
     // Chọn loại
     switch(index){
-    case 0: // mặc dịnh
-        treeRoot = CopyTree(originalTreeRoot); // Khôi phục từ bản sao
+    case 0: // Mặc định
+        treeRoot = CopyTree(originalTreeRoot);
         break;
-    case 1: // Model a->z
-        treeRoot = SortTree(treeRoot, 1 ,true);
+    case 1: // Model a->z  Merge Sort
+        treeRoot = CopyTree(originalTreeRoot);
+        treeRoot = SortTree(treeRoot, 1, true, elapsed);
         break;
-    case 2: // Model z->a
-        treeRoot = SortTree(treeRoot, 2, false);
+    case 2: // Model z->a Insertion Sort
+        treeRoot = CopyTree(originalTreeRoot);
+        treeRoot = SortTree(treeRoot, 2, false, elapsed);
         break;
-    case 3: //  price - asc
-        treeRoot = SortTree(treeRoot, 4 ,true);
+    case 3: // Price - asc Quick Sort
+        treeRoot = CopyTree(originalTreeRoot);
+        treeRoot = SortTree(treeRoot, 4, true, elapsed);
         break;
-    case 4: // price -
-        treeRoot = SortTree(treeRoot, 4 ,false);
+    case 4: // Price - desc Bubble Sort
+        treeRoot = CopyTree(originalTreeRoot);
+        treeRoot = SortTree(treeRoot, 4, false, elapsed);
+        break;
     }
 
     // Cập nhật lại cây sau khi sắp xếp
     currentPage = 1;
     ui->treeWidget->clear();
     PaginationInWidget(ui->treeWidget, treeRoot);
+
+    // Hiển thị thời gian lên giao diện (nếu cần)
+    ui->txt_total->setVisible(true);
+    ui->txt_total->setText("Sort completed in " + QString::number(elapsed) + " ms");
+    ui->txt_total->setStyleSheet("color: yellow");
 }
+
+
 // CHọn trang
 void MainWindow::onPageChanged(int page)
 {
@@ -579,9 +610,7 @@ void FilterNodes(int storage, int ram, int year, BSTPhone* tree, vector<PhoneInf
 }
 // Sự kiện trích lọc
 void MainWindow::onChangedIndex() {
-    //int storageArr[] = {0, 32, 64, 128, 256, 512, 1024};
-    //nt ramArr[] = {0, 2, 3, 4, 6, 8, 12, 16, 24};
-    //int yearArr[] = {0, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024};
+
 
     // Lưu trữ giá trị cây trước khi trích lọc
     originalTreeRoot = CopyTree(treeRoot);
@@ -609,6 +638,14 @@ void MainWindow::onChangedIndex() {
         return;  // Không tiếp tục xử lý nếu danh sách trống
     }
 
+    // Cập nhập trang
+    currentPage = 1;
+    totalItems = filteredNodes.size();
+    qDebug() << "Total items: " << totalItems;
+    ui->txt_total->setText("Total items: " + QString::number(totalItems));
+    ui->txt_total->setVisible(true);
+    totalPages = (totalItems / itemsPerPage);
+    if((totalPages % itemsPerPage) > 1) totalPages++;
     // Cập nhật giao diện với trang đầu tiên
     ShowPage(ui->treeWidget, filteredNodes, currentPage);
 }
