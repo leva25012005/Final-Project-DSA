@@ -1,7 +1,6 @@
 #include "mainwindow.h"
 #include "./ui_mainwindow.h"
 #include "BSTPhone.h"
-#include "Queue.h"
 #include <QMessageBox>
 #include <QDebug>
 #include <qpainter.h>
@@ -415,7 +414,7 @@ void MainWindow::btnUpdate_2_clicked()
 // Lưu File
 void MainWindow::btnSave_clicked()
 {
-    WriteCSV(filePath.toStdString(), treeRoot);
+    WriteCSV(filePathDestination.toStdString(), treeRoot);
     // Hiển thị thông báo thành công
     QMessageBox::information(this, "Save Successful", "Data has been successfully saved to the file.");
 }
