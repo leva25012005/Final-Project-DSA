@@ -76,6 +76,8 @@ private slots:
 
     void on_cbY_currentIndexChanged(int index);
 
+    void on_btn_Visual_clicked();
+
 private:
     Ui::MainWindow *ui;
 

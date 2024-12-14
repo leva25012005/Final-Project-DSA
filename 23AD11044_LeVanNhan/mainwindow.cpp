@@ -3,7 +3,6 @@
 #include "BSTPhone.h"
 #include <QMessageBox>
 #include <QDebug>
-#include <iostream>
 #include <qpainter.h>
 #include <QStyleOptionSlider>
 #include <QLabel>
@@ -137,6 +136,9 @@ MainWindow::MainWindow(QWidget *parent)
     // Total items
     ui->txt_total->setVisible(false);
 
+    // Đặt kích thước cố định cho cửa sổ
+    this->setFixedSize(1000, 650);
+
     // Hiển thị cây trong QTreeWidget
     PaginationInWidget(ui->treeWidget,treeRoot);
     //showTreeInWidget(ui->treeWidget, treeRoot);
@@ -194,6 +196,9 @@ MainWindow::MainWindow(QWidget *parent)
     connect(ui->cbS, SIGNAL(currentIndexChanged(int)), this, SLOT(on_cbS_currentIndexChanged(int)));
     connect(ui->cbR, SIGNAL(currentIndexChanged(int)), this, SLOT(on_cbR_currentIndexChanged(int)));
     connect(ui->cbY, SIGNAL(currentIndexChanged(int)), this, SLOT(on_cbY_currentIndexChanged(int)));
+
+    // Kết nối sự kiện với visualization button
+    connect(ui->btn_Visual, &QPushButton::clicked, this, &MainWindow::on_btn_Visual_clicked);
 }
 
 MainWindow::~MainWindow()
@@ -753,14 +758,14 @@ void MainWindow::onSearchTextChanged(const QString &text) {
 
 void MainWindow::cbSearch_2_currentIndexChanged(int index)
 {
-    /*if (ui->cbSearch_2->currentIndex() == 0) {
+    if (ui->cbSearch_2->currentIndex() == 0) {
         ui->btnNextP_2->setEnabled(true);
         ui->btnPrePage_2->setEnabled(true);
         ui->sbPage->setEnabled(true);
         ui->cbSearch_2->setCurrentIndex(0);
         ui->txtSearch_2->clear();
         return;
-    }*/
+    }
     ui->txtSearch_2->clear();
 }
 
@@ -782,5 +787,12 @@ void MainWindow::on_cbY_currentIndexChanged(int index)
 {
     if(index != 0)
         ui->btnFilter->setEnabled(true);
+}
+
+
+
+void MainWindow::on_btn_Visual_clicked()
+{
+
 }
 

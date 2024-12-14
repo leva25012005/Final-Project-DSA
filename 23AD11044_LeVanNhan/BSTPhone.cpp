@@ -413,7 +413,7 @@ BSTPhone* FindNodesByModel(BSTPhone* tree, const string& model) {
         std::transform(currentModelLower.begin(), currentModelLower.end(), currentModelLower.begin(), ::tolower);
 
         // Kiểm tra xem PhoneModel của nút hiện tại có chứa chuỗi tìm kiếm không (không phân biệt hoa thường)
-        if (currentModelLower.find(modelLower) != std::string::npos) {
+        if (currentModelLower.find(modelLower) != std::string::npos) { // trả về vị trí bắt đầu với chuỗi
             resultTree = AddPhone(resultTree, currentNode->data);  // Thêm nút vào cây kết quả
         }
 
