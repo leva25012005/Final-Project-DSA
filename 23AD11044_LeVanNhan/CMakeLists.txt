@@ -34,6 +34,8 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
 
 
 
+
+
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET untitled APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR
@@ -79,3 +81,5 @@ install(TARGETS untitled
 if(QT_VERSION_MAJOR EQUAL 6)
     qt_finalize_executable(untitled)
 endif()
+
+

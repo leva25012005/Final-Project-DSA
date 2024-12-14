@@ -9,9 +9,21 @@
 #include <QVBoxLayout>
 #include <QVector>
 #include <QStringList>
+#include <qscrollbar.h>
 #include <string>
+#include <QGraphicsView>
+#include <QGraphicsScene>
+#include <QGraphicsEllipseItem>
+#include <QBrush>
+#include <QColor>
+#include <QPen>
+#include <QWheelEvent>  // Cung cấp sự kiện cuộn chuột
+#include <QMouseEvent>  // Cung cấp sự kiện chuột (nhấn, di chuyển, thả chuột)
+#include <QGraphicsView>  // Dùng cho đồ họa
+#include <QGraphicsScene>  // Dùng cho đồ họa
+#include <QPoint>  // Dùng để xử lý toạ độ chuột
+//#include <QScrollBar>
 
-// Hàm hiển thị thành phần của cây
 void DisplayTree(QTreeWidget* treeWidget, BSTPhone* node, int start, int end, int& currentCount) {
     if (node == nullptr) return;
 
@@ -129,15 +141,12 @@ BSTPhone* MainWindow::CopyTree(BSTPhone* node) {
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
-    , ui(new Ui::MainWindow)
+    , ui(new Ui::chartWidget)
 {
     ui->setupUi(this);
 
-    // Total items
-    ui->txt_total->setVisible(false);
-
     // Đặt kích thước cố định cho cửa sổ
-    this->setFixedSize(1000, 650);
+    this->setFixedSize(1000, 700);
 
     // Hiển thị cây trong QTreeWidget
     PaginationInWidget(ui->treeWidget,treeRoot);
@@ -197,8 +206,9 @@ MainWindow::MainWindow(QWidget *parent)
     connect(ui->cbR, SIGNAL(currentIndexChanged(int)), this, SLOT(on_cbR_currentIndexChanged(int)));
     connect(ui->cbY, SIGNAL(currentIndexChanged(int)), this, SLOT(on_cbY_currentIndexChanged(int)));
 
-    // Kết nối sự kiện với visualization button
-    connect(ui->btn_Visual, &QPushButton::clicked, this, &MainWindow::on_btn_Visual_clicked);
+    // Show graph
+    showGraph();
+
 }
 
 MainWindow::~MainWindow()
@@ -789,10 +799,162 @@ void MainWindow::on_cbY_currentIndexChanged(int index)
         ui->btnFilter->setEnabled(true);
 }
 
+// Visualization
+// Đếm số lượng Brend
+void CountBrands(BSTPhone* root, map<string, int>& brandCount) {
+    if (root == nullptr) return;
 
+    // Tăng số lượng của PhoneBrand tương ứng
+    brandCount[root->data.PhoneBrand]++;
 
-void MainWindow::on_btn_Visual_clicked()
-{
-
+    // Duyệt cây trái và phải
+    CountBrands(root->left, brandCount);
+    CountBrands(root->right, brandCount);
 }
+
+// Tính tổng số lượng
+map<string, float> calculateBrandPercentage(map<string, int>& brandCount)
+{
+    map<string, float> percentages;
+    int totalPhones = 0;
+
+
+    for(const auto& brand : brandCount)
+        totalPhones +=brand.second;
+
+    for(const auto& brand: brandCount)
+        percentages[brand.first] = (brand.second / (float)totalPhones * 100.0f);
+
+    return percentages;
+}
+
+void MainWindow::showGraph() {
+    // 1. Tạo map để đếm số lượng các Brand
+    map<string, int> brandCount;
+    CountBrands(treeRoot, brandCount);
+
+    // 2. Tính tỷ lệ phần trăm
+    map<string, float> percentages = calculateBrandPercentage(brandCount);
+
+    // 3. Tạo một QGraphicsScene để hiển thị biểu đồ
+    QGraphicsScene* scene = new QGraphicsScene(this);
+    scene->setBackgroundBrush(QBrush(QColor(174, 198, 207)));  // Đặt nền
+
+    // 4. Thiết lập kích thước biểu đồ và khoảng cách giữa các cột
+    int chartWidth = 800; // Chiều rộng biểu đồ
+    int chartHeight = 400; // Chiều cao biểu đồ
+    int barWidth = 70; // Tăng độ rộng mỗi cột
+    int barSpacing = 0; // Không có khoảng cách giữa các cột (đặt giá trị là 0)
+    int xOffset = 50; // Khoảng cách bắt đầu từ trục y
+    int yOffset = 50; // Khoảng cách từ trục x đến cột
+
+    // Số lượng các cột
+    int columnCount = percentages.size();
+
+    // 5. Tạo danh sách màu sắc độc đáo
+    QList<QColor> colors;
+    for (int i = 0; i < columnCount; ++i) {
+        int hue = (i * 360) / columnCount; // Chia vòng màu sắc thành các phần đều nhau
+        colors.append(QColor::fromHsv(hue, 255, 255)); // Tạo màu sắc khác nhau
+    }
+
+    // 6. Vẽ các cột
+    int index = 0;
+    for (const auto& brand : percentages) {
+        // Chiều cao của cột, tính theo tỷ lệ phần trăm
+        double barHeight = (brand.second / 100.0) * chartHeight;
+
+        // Tạo hình chữ nhật cho cột
+        QGraphicsRectItem* bar = new QGraphicsRectItem(
+            xOffset + index * barWidth, // Tọa độ x: không cộng khoảng cách, chỉ có chiều rộng cột
+            chartHeight - barHeight + yOffset, // Tọa độ y
+            barWidth, // Chiều rộng
+            barHeight); // Chiều cao
+
+        // Gán màu cho cột từ danh sách màu sắc
+        bar->setBrush(QBrush(colors.at(index)));
+        scene->addItem(bar);
+
+        // Thêm nhãn phần trăm lên trên cột
+        QString percentageText = QString::number(brand.second, 'f', 1) + "%";
+        QGraphicsTextItem* percentageLabel = new QGraphicsTextItem(percentageText);
+        percentageLabel->setDefaultTextColor(Qt::black); // Màu chữ trắng
+        percentageLabel->setPos(
+            xOffset + index * barWidth + barWidth / 4, // X (giữa cột)
+            chartHeight - barHeight + yOffset - 20); // Y (trên đỉnh cột)
+        scene->addItem(percentageLabel);
+
+        // Thêm nhãn tên Brand bên dưới cột
+        QGraphicsTextItem* brandLabel = new QGraphicsTextItem(QString::fromStdString(brand.first));
+        brandLabel->setDefaultTextColor(Qt::black); // Màu chữ trắng
+        brandLabel->setPos(
+            xOffset + index * barWidth + barWidth / 4, // X (giữa cột)
+            chartHeight + yOffset + 10); // Y (bên dưới cột)
+        scene->addItem(brandLabel);
+
+        // Chuyển sang cột tiếp theo
+        index++;
+    }
+
+    // 7. Vẽ trục tung (thể hiện tỷ lệ phần trăm)
+    QGraphicsLineItem* yAxis = new QGraphicsLineItem(xOffset, yOffset, xOffset, chartHeight + yOffset);
+    scene->addItem(yAxis);
+
+    // Vẽ mũi tên cho trục tung
+    QPolygonF yArrow;
+    yArrow << QPointF(xOffset - 5, yOffset + 10) << QPointF(xOffset + 5, yOffset + 10) << QPointF(xOffset, yOffset - 10);
+    QGraphicsPolygonItem* yArrowItem = new QGraphicsPolygonItem(yArrow);
+    yArrowItem->setBrush(Qt::black); // Màu cho mũi tên
+    scene->addItem(yArrowItem);
+
+    // Thêm nhãn cho trục tung
+    QGraphicsTextItem* yAxisLabel = new QGraphicsTextItem("%");
+    yAxisLabel->setDefaultTextColor(Qt::black);
+    yAxisLabel->setPos(xOffset - 30, yOffset - 30); // Đặt nhãn "%"
+    scene->addItem(yAxisLabel);
+
+    // 8. Vẽ trục hoành (thể hiện Brand)
+    int xAxisLength = (columnCount * barWidth) + 2 * xOffset; // Tổng chiều dài của các cột cộng thêm khoảng cách
+    QGraphicsLineItem* xAxis = new QGraphicsLineItem(xOffset, chartHeight + yOffset, xAxisLength, chartHeight + yOffset);
+    scene->addItem(xAxis);
+
+    // Tăng độ dài mũi tên cho trục hoành
+    QPolygonF xArrow;
+    xArrow << QPointF(xAxisLength - 20, chartHeight + yOffset - 5) << QPointF(xAxisLength, chartHeight + yOffset) << QPointF(xAxisLength - 20, chartHeight + yOffset + 5);
+    QGraphicsPolygonItem* xArrowItem = new QGraphicsPolygonItem(xArrow);
+    xArrowItem->setBrush(Qt::black); // Màu mũi tên
+    scene->addItem(xArrowItem);
+
+    // Thêm nhãn cho trục hoành
+    QGraphicsTextItem* xAxisLabel = new QGraphicsTextItem("Brand");
+    xAxisLabel->setDefaultTextColor(Qt::black); // Màu chữ trắng
+    xAxisLabel->setPos(xAxisLength - 100, chartHeight + yOffset + 10); // Đặt nhãn "Brand"
+    scene->addItem(xAxisLabel);
+
+    // 9. Thêm tiêu đề cho biểu đồ
+    QGraphicsTextItem* title = new QGraphicsTextItem("STATISTICS OF PHONE COMPANIES");
+    title->setDefaultTextColor(Qt::red);  // Màu chữ đỏ
+    title->setFont(QFont("Arial", 16, QFont::Bold));  // Cỡ chữ và kiểu chữ
+    title->setPos((chartWidth / 2) + xOffset - (title->boundingRect().width() / 2), 10);  // Vị trí của tiêu đề
+    scene->addItem(title);
+
+    // 10. Hiển thị cảnh (scene) trong QGraphicsView
+    ui->graphicsView->setScene(scene);
+}
+
+
+void MainWindow::wheelEvent(QWheelEvent *event) {
+    int delta = event->angleDelta().y();
+
+    // Phóng to (scale up) nếu cuộn chuột lên
+    if (delta > 0) {
+        ui->graphicsView->scale(1.1, 1.1);  // Phóng to 10%
+    }
+    // Thu nhỏ (scale down) nếu cuộn chuột xuống
+    else {
+        ui->graphicsView->scale(0.9, 0.9);  // Thu nhỏ 10%
+    }
+}
+
+
 

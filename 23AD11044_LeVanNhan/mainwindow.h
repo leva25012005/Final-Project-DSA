@@ -8,7 +8,7 @@
 #include <QVector>
 QT_BEGIN_NAMESPACE
 namespace Ui {
-class MainWindow;
+class chartWidget;
 }
 QT_END_NAMESPACE
 
@@ -76,10 +76,12 @@ private slots:
 
     void on_cbY_currentIndexChanged(int index);
 
-    void on_btn_Visual_clicked();
+    void showGraph(); // Slot hiển thị và ẩn đồ thị
+    // SỰ KIỆN THAY ĐỔI KÍCH THƯỢC GRAPH
+    void wheelEvent(QWheelEvent *event);
 
 private:
-    Ui::MainWindow *ui;
+    Ui::chartWidget *ui;
 
     // Đọc file CSV mặc định ngay khi khởi động
     QString filePathDestination = "E:\\Subject\\HK1_24-25\\Data Structure and Algorithms\\Project_DSA\\FinalProject_DSA-main\\Final-Project-DSA\\23AD11044_LeVanNhan\\Phone3.csv";  // Đường dẫn tới file CSV
@@ -94,6 +96,5 @@ private:
     QVector<int> storageArr = {0, 32, 64, 128, 256, 512, 1024};
     QVector<int> ramArr = {0, 2, 3, 4, 6, 8, 12, 16, 24};
     QVector<int> yearArr = {0, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024};
-
 };
 #endif // MAINWINDOW_H
