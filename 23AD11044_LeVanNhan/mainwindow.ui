@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1052</width>
+    <width>978</width>
     <height>748</height>
    </rect>
   </property>
@@ -19,7 +19,7 @@
      <rect>
       <x>0</x>
       <y>0</y>
-      <width>1041</width>
+      <width>971</width>
       <height>721</height>
      </rect>
     </property>
@@ -387,19 +387,6 @@
        </item>
       </layout>
      </widget>
-     <widget class="QPushButton" name="btn_Visual">
-      <property name="geometry">
-       <rect>
-        <x>840</x>
-        <y>390</y>
-        <width>80</width>
-        <height>18</height>
-       </rect>
-      </property>
-      <property name="text">
-       <string>Visualization</string>
-      </property>
-     </widget>
      <widget class="QGroupBox" name="groupBox_6">
       <property name="geometry">
        <rect>
@@ -642,13 +629,42 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>1052</width>
+     <width>978</width>
      <height>17</height>
     </rect>
    </property>
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
  </widget>
+ <tabstops>
+  <tabstop>sbPage</tabstop>
+  <tabstop>tabWidget</tabstop>
+  <tabstop>graphicsView</tabstop>
+  <tabstop>cbS</tabstop>
+  <tabstop>cbY</tabstop>
+  <tabstop>cbR</tabstop>
+  <tabstop>txtID_2</tabstop>
+  <tabstop>txtBrand_2</tabstop>
+  <tabstop>txtModel_2</tabstop>
+  <tabstop>txtChipset_2</tabstop>
+  <tabstop>txtGPU_2</tabstop>
+  <tabstop>txtStorage_2</tabstop>
+  <tabstop>txtRam_2</tabstop>
+  <tabstop>txtPrice_2</tabstop>
+  <tabstop>txtYear_2</tabstop>
+  <tabstop>txtSearch_2</tabstop>
+  <tabstop>cbSearch_2</tabstop>
+  <tabstop>btnFilter</tabstop>
+  <tabstop>btnSave</tabstop>
+  <tabstop>cbSort_2</tabstop>
+  <tabstop>btnDelete_2</tabstop>
+  <tabstop>btnClear</tabstop>
+  <tabstop>btnAdd_2</tabstop>
+  <tabstop>btnUpdate_2</tabstop>
+  <tabstop>btnPrePage_2</tabstop>
+  <tabstop>btnNextP_2</tabstop>
+  <tabstop>treeWidget</tabstop>
+ </tabstops>
  <resources/>
  <connections/>
 </ui>

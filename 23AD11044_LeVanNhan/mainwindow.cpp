@@ -145,6 +145,8 @@ MainWindow::MainWindow(QWidget *parent)
 {
     ui->setupUi(this);
 
+    ui->txt_total->setVisible(false);
+
     // Đặt kích thước cố định cho cửa sổ
     this->setFixedSize(1000, 700);
 
@@ -205,10 +207,6 @@ MainWindow::MainWindow(QWidget *parent)
     connect(ui->cbS, SIGNAL(currentIndexChanged(int)), this, SLOT(on_cbS_currentIndexChanged(int)));
     connect(ui->cbR, SIGNAL(currentIndexChanged(int)), this, SLOT(on_cbR_currentIndexChanged(int)));
     connect(ui->cbY, SIGNAL(currentIndexChanged(int)), this, SLOT(on_cbY_currentIndexChanged(int)));
-
-    // Show graph
-    showGraph();
-
 }
 
 MainWindow::~MainWindow()
@@ -428,6 +426,9 @@ void MainWindow::btnAdd_2_clicked()
 
     // Thông báo thành công
     QMessageBox::information(this, "Addition", "Phone added successfully.");
+
+    // Cập nhật brand mới
+    showGraph();
 }
 // Xóa một phần tử trong cây
 void MainWindow::btnDelete_2_clicked()
@@ -561,6 +562,8 @@ void MainWindow::btnClear_clicked()
     //
     ui->sbPage->show();
     ui->lbPage->show();
+
+    ui->txt_total->setVisible(false);
 
 }
 // Sort
@@ -914,13 +917,13 @@ void MainWindow::showGraph() {
     scene->addItem(yAxisLabel);
 
     // 8. Vẽ trục hoành (thể hiện Brand)
-    int xAxisLength = (columnCount * barWidth) + 2 * xOffset; // Tổng chiều dài của các cột cộng thêm khoảng cách
+    int xAxisLength = (columnCount * barWidth) + 3 * xOffset; // Tổng chiều dài của các cột cộng thêm khoảng cách
     QGraphicsLineItem* xAxis = new QGraphicsLineItem(xOffset, chartHeight + yOffset, xAxisLength, chartHeight + yOffset);
     scene->addItem(xAxis);
 
     // Tăng độ dài mũi tên cho trục hoành
     QPolygonF xArrow;
-    xArrow << QPointF(xAxisLength - 20, chartHeight + yOffset - 5) << QPointF(xAxisLength, chartHeight + yOffset) << QPointF(xAxisLength - 20, chartHeight + yOffset + 5);
+    xArrow << QPointF(xAxisLength - 18, chartHeight + yOffset - 5) << QPointF(xAxisLength, chartHeight + yOffset) << QPointF(xAxisLength - 20, chartHeight + yOffset + 5);
     QGraphicsPolygonItem* xArrowItem = new QGraphicsPolygonItem(xArrow);
     xArrowItem->setBrush(Qt::black); // Màu mũi tên
     scene->addItem(xArrowItem);
@@ -956,5 +959,10 @@ void MainWindow::wheelEvent(QWheelEvent *event) {
     }
 }
 
+void MainWindow::on_tabWidget_currentChanged(int index)
+{
+    // Show graph
+    showGraph();
 
+}
 

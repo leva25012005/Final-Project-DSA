@@ -80,6 +80,8 @@ private slots:
     // SỰ KIỆN THAY ĐỔI KÍCH THƯỢC GRAPH
     void wheelEvent(QWheelEvent *event);
 
+    void on_tabWidget_currentChanged(int index);
+
 private:
     Ui::chartWidget *ui;
 
