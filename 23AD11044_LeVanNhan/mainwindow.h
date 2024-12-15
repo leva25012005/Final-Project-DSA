@@ -3,6 +3,8 @@
 
 #include <QMainWindow>
 #include <QTreeWidget>
+#include <qcoreapplication.h>
+#include <qdir.h>
 #include <qlabel.h>
 #include "BSTPhone.h"
 #include <QVector>
@@ -86,10 +88,13 @@ private:
     Ui::chartWidget *ui;
 
     // Đọc file CSV mặc định ngay khi khởi động
-    QString filePathDestination = "E:\\Subject\\HK1_24-25\\Data Structure and Algorithms\\Project_DSA\\FinalProject_DSA-main\\Final-Project-DSA\\23AD11044_LeVanNhan\\Phone3.csv";  // Đường dẫn tới file CSV
-    QString filePathSource = "E:\\Subject\\HK1_24-25\\Data Structure and Algorithms\\Project_DSA\\FinalProject_DSA-main\\Final-Project-DSA\\23AD11044_LeVanNhan\\Phone4.csv";  // Đường dẫn tới file CSV
+    QString filePathDestination = "E:\\Subject\\HK1_24-25\\Data Structure and Algorithms\\Project_DSA\\FinalProject_DSA-main\\Final-Project-DSA\\23AD11044_LeVanNhan\\Dataset\\Phone3.csv";  // Đường dẫn tới file CSV
+    QString filePathSource = "E:\\Subject\\HK1_24-25\\Data Structure and Algorithms\\Project_DSA\\FinalProject_DSA-main\\Final-Project-DSA\\23AD11044_LeVanNhan\\Dataset\\Phone4.csv";  // Đường dẫn tới file CSV
+
     BSTPhone* treeRoot = ReadCSV(filePathSource.toStdString());
     BSTPhone* originalTreeRoot = nullptr;
+
+
 
     bool isPaginationEnabled = true;  // Mặc định là bật phân trang
     vector<PhoneInformation> filteredNodes; // Danh sách node sau khi lọc

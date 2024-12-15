@@ -1,4 +1,5 @@
 ID,Brand,Model,Chipset,GPU,Storage,Ram,Price,Year
+1,1,1,1,1,1,1,1,1
 84565,tcl,TCL 50 SE,Mediatek Helio G88 (12 nm),Mali-G52 MC2,256,6,231.82,2024
 873691,xiaomi,Xiaomi Poco X3 Pro,Qualcomm Snapdragon 860 (7 nm),Adreno 640,128,8,269.89,2021
 1477483,google,Google Pixel 6,Google Tensor (5 nm),Mali-G78 MP20,256,8,159.99,2021

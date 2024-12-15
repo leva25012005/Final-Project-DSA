@@ -362,32 +362,31 @@ BSTPhone* SortTree(BSTPhone* t, int choice, bool isAscending, qint64 & elapsed) 
     InOrderToArray(t, arr);
 
     timer.start(); // Bắt đầu đo thời gian
+
     // 2. Sắp xếp mảng
     if (choice == 1)  // model a--z
     {
-        //.start(); // Bắt đầu đo thời gian
         MergeSortByModel(arr, 0, (int)arr.size() - 1, isAscending);
     }
-    else if(choice == 2) // model z -- a
+    else if (choice == 2) // model z--a
     {
-        //timer.start(); // Bắt đầu đo thời gian
         InsertionSortByModel(arr, isAscending);
     }
     else if (choice == 3) // Price - ascending
     {
-        //timer.start(); // Bắt đầu đo thời gian
         QuickSortByPrice(arr, 0, (int)arr.size() - 1, isAscending);
     }
-    else if (choice == 4) // price - descending
+    else if (choice == 4) // Price - descending
     {
-        //timer.start(); // Bắt đầu đo thời gian
         BubbleSortByPrice(arr, isAscending);
     }
+
     // Kết thúc và đo thời gian đã trôi qua
     elapsed = timer.elapsed();  // Thời gian trôi qua tính bằng milliseconds
 
     // Debug thời gian sắp xếp
     qDebug() << "Sorting completed in" << elapsed << "ms";
+
     // 3. Xây dựng lại cây từ mảng đã sắp xếp
     return ArrayToBST(arr, 0, (int)arr.size() - 1);
 }

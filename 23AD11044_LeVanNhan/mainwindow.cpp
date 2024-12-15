@@ -677,7 +677,7 @@ void MainWindow::btnFilter_clicked()
 }
 
 // Search
-// Kiểm tra xem số nguyên `value` có bắt đầu bằng `prefix` hay không
+// Kiểm tra xem số nguyên có bắt đầu bằng `prefix` hay không
 bool startsWith(int value, const std::string& prefix) {
     return std::to_string(value).find(prefix) == 0;
 }
