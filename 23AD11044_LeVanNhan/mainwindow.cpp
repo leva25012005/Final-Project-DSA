@@ -444,7 +444,7 @@ void MainWindow::btnDelete_2_clicked()
 
     // Thông báo xác nhận xóa
     QMessageBox::StandardButton reply;
-    reply = QMessageBox::question(this, "Addition Confirmation", "DO YOU WANT TO ADD A NEW PHONE?", QMessageBox::Yes | QMessageBox::No, QMessageBox::No);
+    reply = QMessageBox::question(this, "DELETION Confirmation", "DO YOU WANT TO DELETE THE PHONE?", QMessageBox::Yes | QMessageBox::No, QMessageBox::No);
 
     if (reply == QMessageBox::Yes) {
         // Xóa điện thoại khỏi cây BST
@@ -481,17 +481,60 @@ void MainWindow::btnDelete_2_clicked()
 // Cập nhật phần tử trong cây
 void MainWindow::btnUpdate_2_clicked()
 {
+    bool ok;
     // Lấy thông tin từ các QLineEdit
-    int phoneID = ui->txtID_2->text().toInt(); // PhoneID (Cột 1)
+    int phoneID = ui->txtID_2->text().toInt(&ok); // PhoneID (Cột 1)
     QString brand = ui->txtBrand_2->text();    // PhoneBrand (Cột 2)
     QString model = ui->txtModel_2->text();    // PhoneModel (Cột 3)
     QString chipset = ui->txtChipset_2->text(); // PhoneChipset (Cột 4)
     QString gpu = ui->txtGPU_2->text();         // PhoneGPU (Cột 5)
-    int storage = ui->txtStorage_2->text().toInt(); // PhoneStorage (Cột 6)
-    int ram = ui->txtRam_2->text().toInt();     // PhoneRam (Cột 7)
-    double price = ui->txtPrice_2->text().toDouble(); // PhonePrice (Cột 8)
-    int year = ui->txtYear_2->text().toInt();   // PhoneYear (Cột 9)
+    int storage = ui->txtStorage_2->text().toInt(&ok); // PhoneStorage (Cột 6)
+    int ram = ui->txtRam_2->text().toInt(&ok);     // PhoneRam (Cột 7)
+    double price = ui->txtPrice_2->text().toDouble(&ok); // PhonePrice (Cột 8)
+    int year = ui->txtYear_2->text().toInt(&ok);
 
+    // Kiểm tra kiểu dữ liệu cho các trường số (Storage, RAM, Price, Year)
+    if (!ok || storage <= 0) {
+        QMessageBox::warning(this, "Input Error", "Please enter a valid positive Storage.");
+        return;
+    }
+
+    if (!ok || ram <= 0) {
+        QMessageBox::warning(this, "Input Error", "Please enter a valid positive RAM.");
+        return;
+    }
+
+    if (!ok || price <= 0) {
+        QMessageBox::warning(this, "Input Error", "Please enter a valid positive Price.");
+        return;
+    }
+
+    if (!ok || year <= 0) {
+        QMessageBox::warning(this, "Input Error", "Please enter a valid positive Year.");
+        return;
+    }
+
+    // Kiểm tra nếu các chuỗi không rỗng
+    if (ui->txtBrand_2->text().toStdString().empty())
+    {
+        QMessageBox::warning(this, "Input Error", "Brand cannot be empty.");
+        return;
+    }
+    if(ui->txtModel_2->text().toStdString().empty())
+    {
+        QMessageBox::warning(this, "Input Error", "Model cannot be empty.");
+        return;
+    }
+    if(ui->txtChipset_2->text().toStdString().empty())
+    {
+        QMessageBox::warning(this, "Input Error", "Chipset cannot be empty.");
+        return;
+    }
+    if(ui->txtGPU_2->text().toStdString().empty())
+    {
+            QMessageBox::warning(this, "Input Error", "GPU cannot be empty.");
+            return;
+    }
     // Tạo một đối tượng PhoneInformation mới với thông tin đã nhập
     PhoneInformation updatedPhone;
     updatedPhone.PhoneID = phoneID;
